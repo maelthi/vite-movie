@@ -1,0 +1,21 @@
+$violet: #312037;
+$red: #dd0c0c;
+
+@mixin title {
+  color: white;
+  font-size: 24px;
+  line-height: 1.5;
+  font-family: "Abril Fatface";
+  font-weight: lighter;
+  position: relative;
+
+  &:after {
+    content: "";
+    width: 45px;
+    height: 2px;
+    background-color: $red;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+  }
+}

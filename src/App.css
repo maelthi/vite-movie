@@ -1,0 +1,38 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+}
+
+html,
+body {
+  height: 100%;
+  font-family: "Open Sans";
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  overflow-wrap: break-word;
+}
+
+@font-face {
+  font-family: "Open Sans";
+  src: url("./assets/fonts/Open_Sans/OpenSans-Light.ttf") format("woff2"),
+    url("./assets/fonts/Open_Sans/OpenSans-Medium.ttf") format("woff"),
+    url("./assets/fonts/Open_Sans/OpenSans-Regular.ttf") format("woff");
+}
+
+@font-face {
+  font-family: "Abril Fatface";
+  src: url("./assets/fonts/Abril_Fatface/AbrilFatface-Regular.ttf")
+    format("woff2");
+}
