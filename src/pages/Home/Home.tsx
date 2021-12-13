@@ -18,7 +18,11 @@ const Home = () => {
         <h3 className="home__subtitle">
           Découvrez les films qui ont fait l'histoire
         </h3>
-        <FullCard title="140 films classiques" backgroundUrl={movieBg} />
+        <FullCard
+          title="140 films classiques"
+          backgroundUrl={movieBg}
+          iconName="read-more"
+        />
       </section>
       <section>
         <h2 className="home__title">Acteurs - actrices</h2>
@@ -28,6 +32,7 @@ const Home = () => {
         <FullCard
           title="70 acteurs et actrices de légende"
           backgroundUrl={actorsBg}
+          iconName="read-more"
         />
       </section>
     </div>

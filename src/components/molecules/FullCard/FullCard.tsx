@@ -1,3 +1,5 @@
+import SvgIcon from "@molecules/SvgIcon/SvgIcon"
+
 import "./FullCard.scss"
 
 type FullCardProps = {
@@ -5,9 +7,16 @@ type FullCardProps = {
   legend?: string
   backgroundUrl: string
   to: string
+  iconName?: string
 }
 
-const Card = ({ title, legend, backgroundUrl, to }: FullCardProps) => {
+const Card = ({
+  title,
+  legend,
+  backgroundUrl,
+  to,
+  iconName,
+}: FullCardProps) => {
   return (
     <div
       className="full-card"
@@ -17,7 +26,8 @@ const Card = ({ title, legend, backgroundUrl, to }: FullCardProps) => {
         <h4 className="full-card__title">{title}</h4>
         {legend && <p>{legend}</p>}
         <a className="full-card__link" href={to}>
-          Découvrir
+          <p>Découvrir</p>
+          {iconName && <SvgIcon name={iconName} />}
         </a>
       </div>
     </div>
