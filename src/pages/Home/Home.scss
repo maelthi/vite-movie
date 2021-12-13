@@ -1,13 +1,22 @@
 @import "src/assets/scss/variables.scss";
 
-.container {
+.home {
   height: 100vh;
   max-height: 100%;
-  padding: 20px;
+  padding: rem(25px);
   background-color: $violet;
+  overflow: scroll;
 
-  .title {
+  &__title {
     @include title;
+  }
+
+  &__subtitle {
+    color: $light-blue;
+    font-size: rem(16px);
+    letter-spacing: rem(0.2px);
+    line-height: rem(20px);
+    margin-bottom: rem(20px);
   }
 }
 

@@ -1,0 +1,33 @@
+@import "src/assets/scss/variables.scss";
+
+.full-card {
+  height: 70vh;
+  border-radius: 5px;
+  background-size: cover;
+  background-position: 50%;
+  display: flex;
+  align-items: flex-end;
+  padding: rem(30px);
+
+  &__title {
+    color: white;
+    font-size: rem(22px);
+    line-height: rem(24px);
+    font-weight: lighter;
+    margin-bottom: rem(30px);
+  }
+
+  &__link {
+    color: white;
+    font-weight: 600;
+    display: block;
+    width: 100%;
+    text-align: right;
+  }
+
+  &__content {
+    width: 100%;
+    margin-left: rem(30px);
+    padding-right: rem(30px);
+  }
+}

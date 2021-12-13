@@ -1,7 +1,7 @@
 import "./SearchBar.scss"
 
 const SearchBar = () => {
-  return <section></section>
+  return <section className="search"></section>
 }
 
 export default SearchBar

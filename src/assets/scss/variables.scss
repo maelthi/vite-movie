@@ -1,13 +1,18 @@
+@use "sass:math";
+
 $violet: #312037;
 $red: #dd0c0c;
+$light-blue: #e0d2e5;
 
 @mixin title {
   color: white;
-  font-size: 24px;
+  font-size: rem(24px);
   line-height: 1.5;
   font-family: "Abril Fatface";
   font-weight: lighter;
   position: relative;
+  letter-spacing: rem(1px);
+  margin: rem(20px) 0;
 
   &:after {
     content: "";
@@ -18,4 +23,8 @@ $red: #dd0c0c;
     left: 0;
     bottom: 0;
   }
+}
+
+@function rem($pxValue) {
+  @return math.div($pxValue, 16px) * 1rem;
 }
