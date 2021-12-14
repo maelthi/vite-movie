@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react"
+import { Link } from "react-router-dom"
 
 import SearchBar from "@molecules/SearchBar/SearchBar"
 import FullCard from "@molecules/FullCard/FullCard"
@@ -10,7 +11,6 @@ import movieBg from "@assets/img/fullCard-home1.png"
 import actorsBg from "@assets/img/fullCard-home2.png"
 
 import "./Home.scss"
-import { Link } from "react-router-dom"
 
 const Home = () => {
   const [randomMovie, setRandomMovie] = useState<Movie | null>(null)
@@ -31,7 +31,6 @@ const Home = () => {
             <SemiCard
               title={randomMovie.titre}
               content={randomMovie.resume}
-              to={"toto"}
               iconName="read-more-red"
               picture={randomMovie.pochette}
             />

@@ -46,7 +46,19 @@ h6 {
   width: 20px;
 }
 
+.icon--reverse {
+  transform: rotateY(180deg);
+}
+
 a {
   text-decoration: none;
   color: black;
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  list-style: none;
 }

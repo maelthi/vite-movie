@@ -1,8 +1,7 @@
+import { lazy, Suspense } from "react"
 import { BrowserRouter, Routes, Route } from "react-router-dom"
 
-import Movies from "@pages/Movies/Movies"
 import Home from "@pages/Home/Home"
-import Actors from "@pages/Actors/Actors"
 
 import "./App.css"
 
@@ -10,15 +9,20 @@ if (import.meta.hot) {
   import.meta.hot.on("vite:beforeUpdate", () => console.clear())
 }
 
+const MoviesComponent = lazy(() => import("@pages/Movies/Movies"))
+const ActorsComponent = lazy(() => import("@pages/Actors/Actors"))
+
 const App = () => (
   <div className="app">
-    <BrowserRouter>
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/movies" element={<Movies />} />
-        <Route path="/actors" element={<Actors />} />
-      </Routes>
-    </BrowserRouter>
+    <Suspense fallback={<div>Loading...</div>}>
+      <BrowserRouter>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/movies" element={<MoviesComponent />} />
+          <Route path="/actors" element={<ActorsComponent />} />
+        </Routes>
+      </BrowserRouter>
+    </Suspense>
   </div>
 )
 
