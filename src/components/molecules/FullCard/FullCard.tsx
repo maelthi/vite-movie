@@ -6,17 +6,10 @@ type FullCardProps = {
   title: string
   legend?: string
   backgroundUrl: string
-  to: string
   iconName?: string
 }
 
-const Card = ({
-  title,
-  legend,
-  backgroundUrl,
-  to,
-  iconName,
-}: FullCardProps) => {
+const Card = ({ title, legend, backgroundUrl, iconName }: FullCardProps) => {
   return (
     <div
       className="full-card"
@@ -25,10 +18,10 @@ const Card = ({
       <div className="full-card__content">
         <h4 className="full-card__title">{title}</h4>
         {legend && <p>{legend}</p>}
-        <a className="full-card__link" href={to}>
+        <div className="full-card__link">
           <p>Découvrir</p>
           {iconName && <SvgIcon name={iconName} />}
-        </a>
+        </div>
       </div>
     </div>
   )

@@ -20,11 +20,11 @@
   &__link {
     color: white;
     font-weight: 600;
-    display: block;
     width: 100%;
     text-align: right;
     display: flex;
     justify-content: flex-end;
+    align-items: flex-end;
 
     p {
       margin-right: rem(5px);

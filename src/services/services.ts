@@ -1,23 +1,40 @@
 import { collection, query, where, getDocs } from "firebase/firestore"
 
 import getFirestore from "@services/firebaseConfig"
+import { getRandomNumber } from "../utils/helpers/helpers"
 
 const moviesRef = collection(getFirestore(), "movies")
 
-type GetActorsFunction = () => {} | string
-export const getMovies = async (): Promise<GetActorsFunction> => {
+export const getRandomMovie = async (): Promise<Movie | null> => {
   try {
-    const actorQuery = query(moviesRef, where("id", "==", 60))
+    const actorQuery = query(
+      moviesRef,
+      where("id", "==", getRandomNumber(1, 140)),
+    )
     const querySnapshot = await getDocs(actorQuery)
-    let movie = {}
+    let movie = null
     querySnapshot.forEach((doc) => {
       movie = { ...doc.data() }
     })
-    if (movie !== {}) {
-      return movie
-    }
-  } catch (error) {
+    return movie
+  } catch (error: any) {
     return error
   }
-  return "toto"
+}
+
+export const getActorsLength = async () => {
+  try {
+    const actorQuery = query(
+      moviesRef,
+      where("id", "==", getRandomNumber(1, 140)),
+    )
+    const querySnapshot = await getDocs(actorQuery)
+    let movie = null
+    querySnapshot.forEach((doc) => {
+      movie = { ...doc.data() }
+    })
+    return movie
+  } catch (error: any) {
+    return error
+  }
 }

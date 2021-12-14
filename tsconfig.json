@@ -20,7 +20,8 @@
       "@organisms/*": ["./src/components/organisms/*"],
       "@molecules/*": ["./src/components/molecules/*"],
       "@assets/*": ["./src/assets/*"],
-      "@services/*": ["./src/services/*"]
+      "@services/*": ["./src/services/*"],
+      "@helpers/*": ["./src/utils/helpers*"]
     }
   },
   "include": ["./src"]
