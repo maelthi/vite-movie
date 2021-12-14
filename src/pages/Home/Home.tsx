@@ -1,8 +1,10 @@
-import { useEffect } from "react"
+import { useEffect, useState } from "react"
 
 import SearchBar from "@molecules/SearchBar/SearchBar"
 import FullCard from "@molecules/FullCard/FullCard"
 import SemiCard from "@molecules/SemiCard/SemiCard"
+
+import { getMovies } from "@services/services"
 
 import movieBg from "@assets/img/fullCard-home1.png"
 import actorsBg from "@assets/img/fullCard-home2.png"
@@ -10,9 +12,21 @@ import actorsBg from "@assets/img/fullCard-home2.png"
 import "./Home.scss"
 
 const Home = () => {
+  const [randomMovie, setRandomMovie] = useState({})
+  const getRandomMovie = async () => {
+    const randomMovie = await getMovies()
+    return randomMovie
+  }
   useEffect(() => {
-    // getActors()
+    const randomMovie = getRandomMovie()
+    console.log("~ randomMovie", randomMovie)
+    setRandomMovie({ movie: randomMovie })
   }, [])
+
+  useEffect(() => {
+    console.log("~ randomMovie", randomMovie)
+  }, [randomMovie])
+
   return (
     <div className="home background">
       <SearchBar />
