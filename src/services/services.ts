@@ -7,11 +7,11 @@ const moviesRef = collection(getFirestore(), "movies")
 
 export const getRandomMovie = async (): Promise<Movie | null> => {
   try {
-    const actorQuery = query(
+    const movieQuery = query(
       moviesRef,
       where("id", "==", getRandomNumber(1, 140)),
     )
-    const querySnapshot = await getDocs(actorQuery)
+    const querySnapshot = await getDocs(movieQuery)
     let movie = null
     querySnapshot.forEach((doc) => {
       movie = { ...doc.data() }
@@ -22,18 +22,17 @@ export const getRandomMovie = async (): Promise<Movie | null> => {
   }
 }
 
-export const getActorsLength = async () => {
+export const getMovies = async () => {
   try {
-    const actorQuery = query(
-      moviesRef,
-      where("id", "==", getRandomNumber(1, 140)),
-    )
-    const querySnapshot = await getDocs(actorQuery)
-    let movie = null
+    const moviesQuery = query(moviesRef)
+    const querySnapshot = await getDocs(moviesQuery)
+    let movies: Movie[] = []
     querySnapshot.forEach((doc) => {
-      movie = { ...doc.data() }
+      console.log("~ doc", doc.data())
+
+      movies.push(doc.data() as Movie)
     })
-    return movie
+    return movies
   } catch (error: any) {
     return error
   }

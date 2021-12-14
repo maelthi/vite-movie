@@ -1,0 +1,20 @@
+@import "@assets/scss/variables.scss";
+
+.movies {
+  height: 100vh;
+  background-color: $violet;
+  padding: rem(25px);
+  overflow: scroll;
+
+  &__item {
+    margin-bottom: rem(25px);
+  }
+
+  .icon-back {
+    width: rem(25px);
+  }
+
+  &__title {
+    @include title;
+  }
+}

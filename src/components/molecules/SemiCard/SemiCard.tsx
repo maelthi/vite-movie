@@ -7,7 +7,6 @@ import "./SemiCard.scss"
 type SemiCardProps = {
   title: string
   content: string
-  to: string
   iconName: string
   picture: string
 }
@@ -15,7 +14,6 @@ type SemiCardProps = {
 const SemiCard = ({
   title,
   content,
-  to,
   iconName = "read-more",
   picture,
 }: SemiCardProps) => {
@@ -27,10 +25,10 @@ const SemiCard = ({
       <div className="semi-card__content">
         <h4 className="semi-card__title">{title}</h4>
         <p className="semi-card__text">{sliceText(content)}</p>
-        <a className="semi-card__link" href={to}>
+        <div className="semi-card__link">
           <p className="semi-card__read-more">Lire plus</p>
           {iconName && <SvgIcon name={iconName} />}
-        </a>
+        </div>
       </div>
     </div>
   )
