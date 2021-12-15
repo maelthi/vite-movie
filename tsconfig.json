@@ -21,7 +21,7 @@
       "@molecules/*": ["./src/components/molecules/*"],
       "@assets/*": ["./src/assets/*"],
       "@services/*": ["./src/services/*"],
-      "@helpers/*": ["./src/utils/helpers*"]
+      "@helpers/*": ["./src/utils/helpers/*"]
     }
   },
   "include": ["./src"]

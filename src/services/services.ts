@@ -1,7 +1,7 @@
-import { collection, query, where, getDocs, getDoc } from "firebase/firestore"
+import { collection, query, where, getDocs } from "firebase/firestore"
 
 import getFirestore from "@services/firebaseConfig"
-import { getRandomNumber } from "../utils/helpers/helpers"
+import { getRandomNumber } from "@helpers/helpers"
 
 const moviesRef = collection(getFirestore(), "movies")
 const actorsRef = collection(getFirestore(), "actors")
@@ -49,4 +49,21 @@ export const getActors = async (): Promise<Actor[]> => {
   } catch (error: any) {
     return error
   }
+}
+
+export const getMovieByName = async (
+  movieName: string,
+): Promise<Movie | null> => {
+  try {
+    const movieQuery = query(moviesRef, where("titre", "==", movieName))
+    const querySnapshot = await getDocs(movieQuery)
+    let movie = <Movie>{}
+    querySnapshot.forEach((doc) => {
+      movie = { ...doc.data() } as Movie
+    })
+    return movie
+  } catch (error: any) {
+    error
+  }
+  return null
 }

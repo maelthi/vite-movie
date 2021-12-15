@@ -1,4 +1,4 @@
-import { cleanPictureName, sliceText } from "@helpers//helpers"
+import { cleanPictureName, sliceText } from "@helpers/helpers"
 
 import SvgIcon from "@molecules/SvgIcon/SvgIcon"
 

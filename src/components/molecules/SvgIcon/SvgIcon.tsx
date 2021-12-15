@@ -1,14 +1,14 @@
 type SvgIconProps = {
   name: string
   className?: string
-  onClick: () => void
+  onIconClick?: () => void
 }
 
-const SvgIcon = ({ name, className, onClick }: SvgIconProps) => (
+const SvgIcon = ({ name, className, onIconClick }: SvgIconProps) => (
   <img
-    src={`src/assets/icons/${name}.svg`}
+    src={`../../src/assets/icons/${name}.svg`}
     className={`${className ? className : ""} icon`}
-    onClick={() => onClick()}
+    onClick={() => onIconClick && onIconClick()}
   />
 )
 

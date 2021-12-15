@@ -57,7 +57,7 @@ const Home = () => {
         </h3>
         <Link to="/actors">
           <FullCard
-            title="72 acteurs et actrices de légende"
+            title="71 acteurs et actrices de légende"
             backgroundUrl={actorsBg}
             iconName="read-more"
           />
