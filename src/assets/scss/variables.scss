@@ -26,6 +26,12 @@ $dark-grey: #545454;
   }
 }
 
+@mixin movieBackground($movieType) {
+  background: linear-gradient(rgba(236, 234, 236, 0.1), rgba(49, 32, 55, 0.8)),
+    url("src/assets/img/" + $movieType + ".jpg");
+  background-size: cover;
+}
+
 @function rem($pxValue) {
   @return math.div($pxValue, 16px) * 1rem;
 }

@@ -43,35 +43,35 @@
 }
 
 .musical {
-  background-image: url("src/assets/img/musical.jpg");
+  @include movieBackground("musical");
 }
 .drama {
-  background-image: url("src/assets/img/drama.jpg");
+  @include movieBackground("drama");
 }
 .western {
-  background-image: url("src/assets/img/western.jpg");
+  @include movieBackground("western");
 }
 .war {
-  background-image: url("src/assets/img/war.jpg");
+  @include movieBackground("war");
 }
 .thriller {
-  background-image: url("src/assets/img/thriller.jpg");
+  @include movieBackground("thriller");
 }
 .scienceFiction {
-  background-image: url("src/assets/img/scienceFiction.jpg");
+  @include movieBackground("scienceFiction");
 }
 .romance {
-  background-image: url("src/assets/img/romance.jpg");
+  @include movieBackground("romance");
 }
 .policier {
-  background-image: url("src/assets/img/policier.jpg");
+  @include movieBackground("policier");
 }
 .auto {
-  background-image: url("src/assets/img/auto.jpg");
+  @include movieBackground("auto");
 }
 .aventure {
-  background-image: url("src/assets/img/aventure.jpg");
+  @include movieBackground("aventure");
 }
 .comedie {
-  background-image: url("src/assets/img/comedie.jpg");
+  @include movieBackground("comedie");
 }

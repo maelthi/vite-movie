@@ -4,21 +4,22 @@ import { Link } from "react-router-dom"
 import { getMovies } from "@services/services"
 
 import SvgIcon from "@molecules/SvgIcon/SvgIcon"
+import SemiCard from "@molecules/SemiCard/SemiCard"
 
 import "./Movies.scss"
-import SemiCard from "@molecules/SemiCard/SemiCard"
 
 const Movies = () => {
   const [movies, setMovies] = useState<Movie[] | null>(null)
+
   const getMoviesList = async (): Promise<void> => {
     setMovies(await getMovies())
   }
 
+  const handleBackClick = () => history.back()
+
   useEffect(() => {
     getMoviesList()
   }, [])
-
-  const handleBackClick = () => history.back()
 
   return (
     <div className="movies">

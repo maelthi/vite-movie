@@ -27,7 +27,7 @@ const Home = () => {
       <section>
         <h2 className="home__title">Le film du jour</h2>
         {randomMovie && (
-          <Link to="/movies">
+          <Link to={`/movies/${randomMovie.id}`}>
             <SemiCard
               title={randomMovie.titre}
               content={randomMovie.resume}
@@ -57,7 +57,7 @@ const Home = () => {
         </h3>
         <Link to="/actors">
           <FullCard
-            title="70 acteurs et actrices de légende"
+            title="72 acteurs et actrices de légende"
             backgroundUrl={actorsBg}
             iconName="read-more"
           />

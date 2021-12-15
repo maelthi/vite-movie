@@ -13,7 +13,7 @@
 html,
 body {
   height: 100%;
-  font-family: "Open Sans";
+  font-family: "Open Sans Regular";
   font-size: 16px;
   -webkit-font-smoothing: antialiased;
 }
@@ -30,10 +30,18 @@ h6 {
 }
 
 @font-face {
-  font-family: "Open Sans";
-  src: url("./assets/fonts/Open_Sans/OpenSans-Light.ttf") format("woff2"),
-    url("./assets/fonts/Open_Sans/OpenSans-Medium.ttf") format("woff"),
-    url("./assets/fonts/Open_Sans/OpenSans-Regular.ttf") format("woff");
+  font-family: "Open Sans Light";
+  src: url("./assets/fonts/Open_Sans/OpenSans-Light.ttf") format("woff2");
+}
+
+@font-face {
+  font-family: "Open Sans Regular";
+  src: url("./assets/fonts/Open_Sans/OpenSans-Regular.ttf") format("woff");
+}
+
+@font-face {
+  font-family: "Open Sans Medium";
+  src: url("./assets/fonts/Open_Sans/OpenSans-Medium.ttf") format("woff");
 }
 
 @font-face {
