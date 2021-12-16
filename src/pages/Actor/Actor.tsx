@@ -13,9 +13,7 @@ const Actor = () => {
   const [movieId, setMovieId] = useState<number>()
 
   const {
-    state: {
-      data: { patronyme, apparitions, photo },
-    },
+    state: { patronyme, apparitions, photo },
   } = useLocation()
 
   const handleBackClick = () => history.back()
@@ -51,12 +49,12 @@ const Actor = () => {
       <div
         className="actor__picture"
         style={{
-          backgroundImage: `linear-gradient(rgba(236, 234, 236, 0.1), rgba(49, 32, 55, 0.8)), url(../../src/assets/img/${photo})`,
+          backgroundImage: `linear-gradient(rgba(236, 234, 236, 0.1), rgba(49, 32, 55, 0.8)), url(/${photo})`,
         }}
-      ></div>
+      />
       <section className="actor__content">
         {patronyme && <h1 className="actor__title">{patronyme}</h1>}
-        {apparitions !== [] && (
+        {apparitions.length > 0 && (
           <ul>
             {apparitions.map((apparition: string, id: number) => (
               <li

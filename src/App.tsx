@@ -6,7 +6,7 @@ import Home from "@pages/Home/Home"
 import "./App.css"
 
 if (import.meta.hot) {
-  import.meta.hot.on("vite:beforeUpdate", () => console.clear())
+  import.meta.hot.on("vit e:beforeUpdate", () => console.clear())
 }
 
 const MoviesComponent = lazy(() => import("@pages/Movies/Movies"))
@@ -16,7 +16,9 @@ const MovieComponent = lazy(() => import("@pages/Movie/Movie"))
 
 const App = () => (
   <div className="app">
-    <Suspense fallback={<div>Loading...</div>}>
+    <Suspense
+      fallback={<div className="app__loading-screen">Chargement...</div>}
+    >
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<Home />} />

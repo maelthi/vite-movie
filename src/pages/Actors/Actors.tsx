@@ -11,6 +11,7 @@ import "./Actors.scss"
 
 const Actors = () => {
   const [actors, setActors] = useState<Actor[] | null>(null)
+  console.log("~ actors", actors && actors[70])
 
   const getActorsList = async (): Promise<void> => {
     const actorsList = await getActors()
@@ -37,26 +38,27 @@ const Actors = () => {
         className="actors__icon-back icon--reverse"
         onIconClick={handleBackClick}
       />
-      <h4 className="actors__title">Films</h4>
+      <h4 className="actors__title">Acteurs - actrices</h4>
       <ul>
         {actors
           ? actors.map(({ patronyme, apparitions, photo, id }) => (
-              <Link
-                to={`/actors/${id}`}
-                state={{
-                  data: { patronyme, apparitions, photo },
-                }}
-                key={id}
-              >
-                <li className="actors__item" key={id}>
+              <li className="actors__item" key={id}>
+                <Link
+                  to={`/actors/${id}`}
+                  state={{
+                    patronyme,
+                    apparitions,
+                    photo,
+                  }}
+                >
                   <FullCard
                     title={patronyme}
                     legend={`${apparitions?.length} films`}
-                    backgroundUrl={`src/assets/img/${photo}`}
+                    backgroundUrl={`/${photo}`}
                     iconName="read-more"
                   />
-                </li>
-              </Link>
+                </Link>
+              </li>
             ))
           : null}
       </ul>

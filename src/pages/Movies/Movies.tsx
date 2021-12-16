@@ -38,18 +38,40 @@ const Movies = () => {
       <h4 className="movies__title">Films</h4>
       <ul>
         {movies
-          ? movies.map(({ titre, resume, pochette, id }) => (
-              <Link key={id} to={`/movies/${id}`}>
-                <li className="movies__item">
-                  <SemiCard
-                    title={titre}
-                    content={resume}
-                    picture={pochette}
-                    iconName="read-more-red"
-                  />
+          ? movies.map(
+              ({
+                titre,
+                resume,
+                pochette,
+                id,
+                genre,
+                directeur,
+                dateSortie,
+                acteurs,
+              }) => (
+                <li className="movies__item" key={id}>
+                  <Link
+                    to={`/movies/${id}`}
+                    state={{
+                      titre,
+                      resume,
+                      pochette,
+                      genre,
+                      directeur,
+                      dateSortie,
+                      acteurs,
+                    }}
+                  >
+                    <SemiCard
+                      title={titre}
+                      content={resume}
+                      picture={pochette}
+                      iconName="read-more-red"
+                    />
+                  </Link>
                 </li>
-              </Link>
-            ))
+              ),
+            )
           : null}
       </ul>
     </div>

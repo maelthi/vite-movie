@@ -6,7 +6,7 @@ type SvgIconProps = {
 
 const SvgIcon = ({ name, className, onIconClick }: SvgIconProps) => (
   <img
-    src={`../../src/assets/icons/${name}.svg`}
+    src={`/${name}.svg`}
     className={`${className ? className : ""} icon`}
     onClick={() => onIconClick && onIconClick()}
   />

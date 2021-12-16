@@ -9,7 +9,12 @@ type FullCardProps = {
   iconName?: string
 }
 
-const Card = ({ title, legend, backgroundUrl, iconName }: FullCardProps) => {
+const FullCard = ({
+  title,
+  legend,
+  backgroundUrl,
+  iconName,
+}: FullCardProps) => {
   return (
     <div
       className="full-card"
@@ -29,4 +34,4 @@ const Card = ({ title, legend, backgroundUrl, iconName }: FullCardProps) => {
   )
 }
 
-export default Card
+export default FullCard

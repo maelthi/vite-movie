@@ -7,6 +7,10 @@
   background-color: $violet;
   overflow: scroll;
 
+  &__random-movie {
+    transform: translateY(-15px);
+  }
+
   &__title {
     @include title;
   }

@@ -16,7 +16,7 @@ export const storeDataLocalStorage = (
   key: string,
   value: Movie[] | Actor[],
 ): void => {
-  if (key && value !== []) {
+  if (key && value.length > 0) {
     localStorage.setItem(key, JSON.stringify(value))
   }
 }
