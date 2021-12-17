@@ -35,3 +35,12 @@ $dark-grey: #545454;
 @function rem($pxValue) {
   @return math.div($pxValue, 16px) * 1rem;
 }
+
+@keyframes rotation {
+  from {
+    -webkit-transform: rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(359deg);
+  }
+}

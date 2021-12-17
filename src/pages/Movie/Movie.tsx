@@ -8,7 +8,6 @@ const Movie = () => {
   const {
     state: { titre, resume, pochette, genre, directeur, dateSortie, acteurs },
   } = useLocation()
-  console.log("~ titre", titre)
 
   const handleBackClick = () => history.back()
 

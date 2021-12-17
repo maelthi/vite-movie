@@ -11,7 +11,6 @@ import "./Actors.scss"
 
 const Actors = () => {
   const [actors, setActors] = useState<Actor[] | null>(null)
-  console.log("~ actors", actors && actors[70])
 
   const getActorsList = async (): Promise<void> => {
     const actorsList = await getActors()

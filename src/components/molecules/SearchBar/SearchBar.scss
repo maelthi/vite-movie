@@ -1,5 +1,13 @@
 @import "@assets/scss/variables.scss";
 
 .search {
-  height: rem(80px);
+  &__input {
+    background-color: white;
+    border-radius: rem(5px);
+    border: none;
+    height: rem(40px);
+    width: 100%;
+    font-size: rem(16px);
+    padding-left: rem(18px);
+  }
 }

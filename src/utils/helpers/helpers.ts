@@ -23,3 +23,5 @@ export const storeDataLocalStorage = (
 
 export const getDataLocalStorage = (key: string) =>
   localStorage.getItem(key) || "[]"
+
+export const isMovie = (data: Movie | Actor): boolean => Boolean(data?.titre)

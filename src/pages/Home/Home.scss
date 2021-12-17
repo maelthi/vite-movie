@@ -3,7 +3,7 @@
 .home {
   height: 100vh;
   max-height: 100%;
-  padding: rem(25px);
+  padding: rem(25px) rem(25px) rem(40px) rem(25px);
   background-color: $violet;
   overflow: scroll;
 
@@ -26,7 +26,7 @@
 }
 
 .background {
-  background-image: url("src/assets/img/background-first.png");
+  background-image: url("/background-first.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
