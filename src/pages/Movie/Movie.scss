@@ -1,0 +1,52 @@
+@import "@assets/scss/variables.scss";
+
+.movie {
+  &__picture {
+    height: 30vh;
+    background-size: 110%;
+    background-position: top;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+  }
+
+  &__back-icon {
+    position: absolute;
+    margin: rem(20px) 0 0 rem(20px);
+    width: rem(25px);
+  }
+
+  &__content {
+    padding: rem(20px);
+  }
+
+  &__title {
+    @include title;
+    color: black;
+    margin-bottom: rem(30px);
+    margin-top: 0;
+  }
+
+  &__date {
+    text-align: right;
+    margin-bottom: rem(5px);
+  }
+
+  &__actors-item {
+    display: inline;
+    font-family: "Open Sans Medium";
+  }
+
+  &__resume {
+    margin-top: rem(15px);
+  }
+
+  &__genre {
+    width: 80%;
+    line-height: rem(20px);
+    margin-bottom: rem(5px);
+
+    span {
+      font-family: "Open Sans Medium";
+    }
+  }
+}
