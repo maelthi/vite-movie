@@ -15,13 +15,15 @@
     "isolatedModules": true,
     "noEmit": true,
     "jsx": "react-jsx",
+    "typeRoots": ["./types", "./node_modules/@types"],
+    "types": ["vite-plugin-pwa/client"],
     "paths": {
       "@pages/*": ["./src/pages/*"],
       "@organisms/*": ["./src/components/organisms/*"],
       "@molecules/*": ["./src/components/molecules/*"],
       "@assets/*": ["./src/assets/*"],
       "@services/*": ["./src/services/*"],
-      "@helpers/*": ["./src/utils/helpers*"]
+      "@helpers/*": ["./src/utils/helpers/*"]
     }
   },
   "include": ["./src"]

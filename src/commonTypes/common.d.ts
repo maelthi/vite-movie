@@ -9,4 +9,11 @@ type Movie = {
   acteurs: Actors
 }
 
+type Actor = {
+  apparitions: string[]
+  id: string
+  patronyme: string
+  photo: string
+}
+
 type Actors = string[]

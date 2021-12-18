@@ -14,17 +14,17 @@
     font-size: rem(22px);
     line-height: rem(24px);
     font-weight: lighter;
-    margin-bottom: rem(30px);
   }
 
   &__link {
     color: white;
-    font-weight: 600;
+    font-weight: lighter;
     width: 100%;
     text-align: right;
     display: flex;
     justify-content: flex-end;
     align-items: flex-end;
+    margin-top: rem(20px);
 
     p {
       margin-right: rem(5px);
@@ -33,5 +33,11 @@
 
   &__content {
     width: 100%;
+    margin-bottom: rem(40px);
+  }
+
+  &__legend {
+    color: $light-blue;
+    margin-top: rem(3px);
   }
 }

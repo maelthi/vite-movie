@@ -3,9 +3,13 @@
 .home {
   height: 100vh;
   max-height: 100%;
-  padding: rem(25px);
+  padding: rem(25px) rem(25px) rem(40px) rem(25px);
   background-color: $violet;
   overflow: scroll;
+
+  &__random-movie {
+    transform: translateY(-15px);
+  }
 
   &__title {
     @include title;
@@ -17,11 +21,12 @@
     letter-spacing: rem(0.2px);
     line-height: rem(20px);
     margin-bottom: rem(20px);
+    font-weight: lighter;
   }
 }
 
 .background {
-  background-image: url("src/assets/img/background-first.png");
+  background-image: url("/background-first.png");
   background-size: cover;
   background-repeat: no-repeat;
 }

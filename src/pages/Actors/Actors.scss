@@ -1,0 +1,18 @@
+@import "@assets/scss/variables.scss";
+
+.actors {
+  background-color: $violet;
+  padding: rem(25px);
+
+  &__item {
+    margin-bottom: rem(25px);
+  }
+
+  &__title {
+    @include title;
+  }
+
+  .actors__icon-back {
+    width: rem(25px);
+  }
+}

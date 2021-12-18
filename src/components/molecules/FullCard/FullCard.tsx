@@ -9,15 +9,22 @@ type FullCardProps = {
   iconName?: string
 }
 
-const Card = ({ title, legend, backgroundUrl, iconName }: FullCardProps) => {
+const FullCard = ({
+  title,
+  legend,
+  backgroundUrl,
+  iconName,
+}: FullCardProps) => {
   return (
     <div
       className="full-card"
-      style={{ backgroundImage: `url(${backgroundUrl})` }}
+      style={{
+        backgroundImage: `linear-gradient(rgba(236, 234, 236, 0.1), rgba(49, 32, 55, 0.8)), url(${backgroundUrl})`,
+      }}
     >
       <div className="full-card__content">
         <h4 className="full-card__title">{title}</h4>
-        {legend && <p>{legend}</p>}
+        {legend && <p className="full-card__legend">{legend}</p>}
         <div className="full-card__link">
           <p>Découvrir</p>
           {iconName && <SvgIcon name={iconName} />}
@@ -27,4 +34,4 @@ const Card = ({ title, legend, backgroundUrl, iconName }: FullCardProps) => {
   )
 }
 
-export default Card
+export default FullCard
