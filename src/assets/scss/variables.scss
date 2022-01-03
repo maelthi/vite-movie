@@ -44,3 +44,9 @@ $dark-grey: #545454;
     -webkit-transform: rotate(359deg);
   }
 }
+
+@mixin laptop {
+  @media screen and (min-width: 1200px) {
+    @content;
+  }
+}

@@ -1,12 +1,10 @@
 import { forwardRef } from "react"
 import { Link } from "react-router-dom"
-import Anime from "react-anime"
 
 import SearchBar from "@molecules/SearchBar/SearchBar"
 import FullCard from "@molecules/FullCard/FullCard"
 import SemiCard from "@molecules/SemiCard/SemiCard"
 import SearchItems from "@molecules/SearchItems/SearchItems"
-import Test from "@molecules/Test/Test"
 
 import "./Home.scss"
 
@@ -28,51 +26,46 @@ const HomeComponent = forwardRef<HTMLInputElement, HomeComponentProps>(
           ref={ref}
           onFocusChange={onFocus}
         />
-        <Test name="loader" />
         {inputValue === "" ? (
           <>
-            <Anime delay={400} duration={1000} opacity={[0, 1]} translateY={15}>
-              <section className="home__random-movie">
-                <h2 className="home__title">Le film du jour</h2>
-                {randomMovie && (
-                  <Link
-                    to={`/movies/${randomMovie.id}`}
-                    state={{
-                      titre: randomMovie.titre,
-                      resume: randomMovie.resume,
-                      pochette: randomMovie.pochette,
-                      genre: randomMovie.genre,
-                      directeur: randomMovie.directeur,
-                      dateSortie: randomMovie.dateSortie,
-                      acteurs: randomMovie.acteurs,
-                    }}
-                  >
-                    <SemiCard
-                      title={randomMovie.titre}
-                      content={randomMovie.resume}
-                      iconName="read-more-red"
-                      picture={randomMovie.pochette}
-                    />
-                  </Link>
-                )}
-              </section>
-            </Anime>
-            <Anime delay={700} duration={1000} opacity={[0, 1]}>
-              <section className="home__movies">
-                <h2 className="home__title">Films</h2>
-                <h3 className="home__subtitle">
-                  Découvrez les films qui ont fait l'histoire
-                </h3>
-                <Link to="/movies">
-                  <FullCard
-                    title="140 films classiques"
-                    backgroundUrl="/fullCard-home1.png"
-                    iconName="read-more"
+            <section className="home__random-movie">
+              <h2 className="home__title">Le film du jour</h2>
+              {randomMovie && (
+                <Link
+                  to={`/movies/${randomMovie.id}`}
+                  state={{
+                    titre: randomMovie.titre,
+                    resume: randomMovie.resume,
+                    pochette: randomMovie.pochette,
+                    genre: randomMovie.genre,
+                    directeur: randomMovie.directeur,
+                    dateSortie: randomMovie.dateSortie,
+                    acteurs: randomMovie.acteurs,
+                  }}
+                >
+                  <SemiCard
+                    title={randomMovie.titre}
+                    content={randomMovie.resume}
+                    iconName="read-more-red"
+                    picture={randomMovie.pochette}
                   />
                 </Link>
-              </section>
-            </Anime>
-            <section>
+              )}
+            </section>
+            <section className="home__movies">
+              <h2 className="home__title">Films</h2>
+              <h3 className="home__subtitle">
+                Découvrez les films qui ont fait l'histoire
+              </h3>
+              <Link to="/movies">
+                <FullCard
+                  title="140 films classiques"
+                  backgroundUrl="/fullCard-home1.png"
+                  iconName="read-more"
+                />
+              </Link>
+            </section>
+            <section className="home__actors">
               <h2 className="home__title">Acteurs - actrices</h2>
               <h3 className="home__subtitle">
                 Découvrez les acteurs et actrices emblématiques

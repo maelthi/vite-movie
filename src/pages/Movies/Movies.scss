@@ -4,8 +4,26 @@
   background-color: $violet;
   padding: rem(25px);
 
+  ul {
+    @include laptop {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+  }
+
   &__item {
     margin-bottom: rem(25px);
+    transition: ease 300ms;
+
+    @include laptop {
+      width: 25%;
+      margin: rem(7px);
+
+      &:hover {
+        transform: translateY(-10px);
+      }
+    }
   }
 
   &__icon-back {
