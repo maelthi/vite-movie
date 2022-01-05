@@ -1,0 +1,1107 @@
+[
+  {
+    "id": 1,
+    "patronyme": "Steve Mcqueen",
+    "apparitions": [
+      "Les Sept Mercenaires",
+      "La Grande Évasion",
+      "Le Kid de Cincinatti",
+      "Bullitt",
+      "Guet-apens",
+      "Le Mans", 
+      "Marqué par la haine", 
+      "Le Sillage de la violence", 
+      "La Canonnière du Yang-Tse", 
+      "L'affaire Thomas Crown", 
+      "Un ennemi du peuple", 
+      "Le Chasseur",
+      "La Tour Infernale"
+    ],
+    "photo": "bullitt.jpg"
+  },
+  {
+    "id": 2,
+    "patronyme": "Humphrey Bogart",
+    "apparitions": [
+      "Casablanca",
+      "Le Faucon Maltais",
+      "Le Grand Sommeil",
+      "Le Port de l'Angoisse",
+      "Les Passagers de la nuit",
+      "La Forêt pétrifiée", 
+      "La Légion noire", 
+      "Menaces sur la ville", 
+      "Terreur à l'ouest", 
+      "High Sierra", 
+      "Le Trésor de la Sierra Madre", 
+      "Key Largo", 
+      "L'Odysée de l'African Queen", 
+      "La Maison des otages", 
+      "Bas les masques", 
+      "Plus fort que le diable", 
+      "Plus dure sera la chute", 
+      "Ouragan sur le Caine", 
+      "La Comtesse aux pieds nus"
+
+    ],
+    "photo": "bogart.jpg"
+  },
+  {
+    "id": 3,
+    "patronyme": "Paul Newman",
+    "apparitions": [
+      "La Tour Infernale",
+      "Ce monde à part",
+      "L'arnaque",
+      "La Chatte sur un toit brûlant",
+      "Les Feux de l'été", 
+      "Butch Cassidy et le Kid",
+      "Le Verdict", 
+      "Le Plus Sauvage d'entre tous", 
+      "Hombre",
+      "Exodus",
+      "Marqué par la haine", 
+      "Le Gaucher", 
+      "Le Rideau déchiré", 
+      "Juge et Hors-la-loi", 
+      "Le Piège",
+      "L'Arnaqueur", 
+      "Evasion sur commande", 
+      "La Couleur de l'argent"
+    ],
+    "photo": "newman.jpg"
+  },
+  {
+    "id": 4,
+    "patronyme": "Lauren Bacall",
+    "apparitions": [
+      "Le Port de l'angoisse",
+      "Le grand sommeil",
+      "Les Passagers de la nuit",
+      "Key Largo",
+      "Détective privé",
+      "Le Dernier des géants", 
+      "Comment épouser un millionnaire", 
+      "Le Crime de l'Orient-Express", 
+      "La Femme modèle", 
+      "La Femme aux chimères", 
+      "L'Allée sanglante", 
+      "Agent secret", 
+      "Aux frontières des Indes"
+    ],
+    "photo": "bacall.jpg"
+  }, 
+  {
+    "id": 5,
+    "patronyme": "Eva Marie Saint",
+    "apparitions": [
+      "Sur les quais",
+      "La Mort aux trousses",
+      "Exodus"
+    ],
+    "photo": "saint.jpg"
+  }, 
+  {
+    "id": 6,
+    "patronyme": "Ali MacGraw",
+    "apparitions": [
+      "Love Story",
+      "Guet-apens", 
+      "Le Convoi"
+
+    ],
+    "photo": "mcgraw.jpg"
+  }, 
+  {
+    "id": 7,
+    "patronyme": "Cary Grant",
+    "apparitions": [
+      "Soupçons",
+      "Indiscrétions", 
+      "L'Impossible monsieur Bébé", 
+      "La Justice des hommes", 
+      "Arsenic et vieilles dentelles", 
+      "Les Enchaînés", 
+      "La Main au collet", 
+      "Charade"
+
+    ],
+    "photo": "grant.jpg"
+  }, 
+  {
+    "id": 8,
+    "patronyme": "James Mason",
+    "apparitions": [
+      "La Mort aux trousses",
+      "Une étoile est née", 
+      "Lolita", 
+      "Voyage au centre de la Terre", 
+      "Vingt mille lieues sous les mers", 
+      "Le Renard du désert", 
+      "Meurtre au soleil", 
+      "Le Septième Voile", 
+      "Le Verdict", 
+      "Jules César", 
+      "Les Rats du désert", 
+      "L'Homme de Berlin", 
+      "Le Crépuscule des aigles", 
+      "Le Piège", 
+      "L'Invincible Armada"
+    ],
+    "photo": "mason.jpg"
+  }, 
+  {
+    "id": 9,
+    "patronyme": "Eli Wallach",
+    "apparitions": [
+      "Le Bon, la Brute et le Truand",
+      "Les Sept Mercenaires", 
+      "Les désaxés", 
+      "La Poupée de chair",
+      "The Ghost Writer", 
+      "La Conquête de l'Ouest", 
+      "Le Chasseur", 
+      "L'Or de MacKenna", 
+      "Comment voler un million de dollars", 
+      "Les Quatre de l'Ave Maria"
+    ],
+    "photo": "tuco.jpg"
+  }, 
+  {
+    "id": 10,
+    "patronyme": "Edward G. Robinson",
+    "apparitions": [
+      "Le Petit César",
+      "Key Largo", 
+      "Soleil Vert", 
+      "Assurance sur la mort",
+      "Les Dix Commandements", 
+      "La Femme au portrait", 
+      "Le Kid de Cincinatti", 
+      "Le Dernier Round", 
+      "Les Cheyennes", 
+      "Le Souffle de la violence", 
+      "I am the Law"
+    ],
+    "photo": "robinson.jpg"
+  },  
+  {
+    "id": 11,
+    "patronyme": "Charles Bronson",
+    "apparitions": [
+      "Bronco Apache",
+      "Vera Cruz", 
+      "Les Sept Mercenaires", 
+      "La Grande Évasion",
+      "Quatre du Texas", 
+      "La Bataille des Ardennes", 
+      "Les Douze Salopards", 
+      "Pancho Villa", 
+      "Il était une fois dans l'Ouest", 
+      "Un justicier dans la ville"
+    ],
+    "photo": "bronson.jpg"
+  },  
+  {
+    "id": 12,
+    "patronyme": "James Coburn",
+    "apparitions": [ 
+      "Les Sept Mercenaires", 
+      "La Grande Évasion",
+      "Charade", 
+      "Il était une fois la révolution", 
+      "Pat Garrett et Billy le Kid", 
+      "La Bataille de Midway", 
+      "Major Dundee", 
+      "Croix de fer", 
+      "La Chevauchée sauvage"
+    ],
+    "photo": "coburn.jpg"
+  },  
+  {
+    "id": 13,
+    "patronyme": "Lee Marvin",
+    "apparitions": [ 
+      "Ouragan sur le Caine", 
+      "L'Équipée sauvage",
+      "L'Homme qui tua Liberty Valance", 
+      "Les Douze Salopards", 
+      "Le Point de non-retour", 
+      "Duel dans le Pacifique", 
+      "Courrier diplomatique", 
+      "Les Professionnels"
+      ],
+    "photo": "marvin.jpg"
+  },  
+  {
+    "id": 14,
+    "patronyme": "Marlon Brando",
+    "apparitions": [ 
+      "Un tramway nommé Désir", 
+      "Viva Zapata!",
+      "L'Équipée sauvage", 
+      "Jules César", 
+      "Sur les quais", 
+      "Les Révoltés du Bounty", 
+      "La Poursuite impitoyable", 
+      "L'Homme de la Sierra", 
+      "Le Parrain",
+      "Missouri Breaks",
+      "Apocalypse Now", 
+      "L’Ile du docteur Moreau", 
+      "Le Bal des maudits", 
+      "The Score"
+      ],
+    "photo": "brando.jpg"
+  },  
+  {
+    "id": 15,
+    "patronyme": "James Stewart",
+    "apparitions": [ 
+      "Indiscrétions", 
+      "La vie est belle",
+      "La Corde", 
+      "Sous le plus grand chapiteau du monde", 
+      "Fenêtre sur cour", 
+      "L'Homme qui en savait trop", 
+      "Sueurs froides", 
+      "Autopsie d'un meurtre", 
+      "L'Homme qui tua Liberty Valance",
+      "La Conquête de l'Ouest",
+      "Les Cheyennes", 
+      "Le Dernier des géants", 
+      "Le Grand Sommeil", 
+      "Monsieur Smith au Sénat", 
+      "Romance inachevée"
+      ],
+    "photo": "stewart.jpg"
+  },  
+  {
+    "id": 16,
+    "patronyme": "Clint Eastwood",
+    "apparitions": [ 
+      "Le Bon, la Brute et le Truand",
+      "Gran Torino", 
+      "L'inspecteur Harry", 
+      "Million Dollar Baby", 
+      "Pour une poignée de dollards", 
+      "Pale Rider", 
+      "Et pour quelques dollars de plus", 
+      "Lettres d'Iwo Jima", 
+      "Pendez-les haut et court", 
+      "Invictus", 
+      "Les pleins pouvoirs", 
+      "Minuit dans le jardin du bien et du mal", 
+      "Magnum Force"
+      ],
+    "photo": "eastwood.jpg"
+  },  
+  {
+    "id": 17,
+    "patronyme": "Karl Malden",
+    "apparitions": [ 
+      "La Cible humaine",
+      "Un tramway nommé Désir", 
+      "La Loi du silence", 
+      "Le Fantôme de la rue Morgue", 
+      "Sur les quais", 
+      "Baby Doll", 
+      "La Colline des potences", 
+      "La Vengeance aux deux visages", 
+      "Le Prisonnier d'Alcatraz", 
+      "La Conquête de l'Ouest", 
+      "Le Kid de Cincinnati"
+      ],
+    "photo": "malden.jpg"
+  },  
+  {
+    "id": 18,
+    "patronyme": "Katharine Hepburn",
+    "apparitions": [ 
+      "Marie Stuart",
+      "L'Impossible Monsieur Bébé", 
+      "Vacances", 
+      "Indiscrétions", 
+      "L'Odyssée de l'African Queen", 
+      "Soudain l’été dernier", 
+      "Devine qui vient dîner ce soir", 
+      "Morning Glory", 
+      "Lame de fond", 
+      "Les Quatre Filles du docteur March"
+      ],
+    "photo": "khepburn.jpg"
+  },  
+  {
+    "id": 19,
+    "patronyme": "Charles Laughton",
+    "apparitions": [ 
+      "L'île du docteur Moreau", 
+      "Les Révoltés du Bounty", 
+      "Quasimodo", 
+      "La Taverne de la Jamaïque", 
+      "Le Suspect", 
+      "Le Capitaine Kidd", 
+      "Spartacus", 
+      "Tempête à Washington"
+      ],
+    "photo": "laughton.jpg"
+  },  
+  {
+    "id": 20,
+    "patronyme": "Elizabeth Taylor",
+    "apparitions": [ 
+      "Le Grand National",
+      "Les Quatre Filles du docteur March", 
+      "Une place au soleil", 
+      "Géant", 
+      "La Vénus au vison", 
+      "Qui a peur de Virginia Woolf ?", 
+      "La Chatte sur un toit brûlant", 
+      "Soudain l’été dernier", 
+      "Cléopâtre", 
+      "La Mégère apprivoisée",
+      "Ivanhoé", 
+      "Le Courage de Lassie", 
+      "Le Chevalier des sables", 
+      "L’Arbre de vie", 
+      "Hammersmith is out"
+      ],
+    "photo": "etaylor.jpg"
+  },  
+  {
+    "id": 21,
+    "patronyme": "Richard Burton",
+    "apparitions": [ 
+      "Les Rats du désert",
+      "La Tunique", 
+      "Alexandre le Grand", 
+      "Le Jour le plus long", 
+      "Cléopâtre", 
+      "Qui a peur de Virginia Woolf ?", 
+      "Zoulou", 
+      "La Nuit de l'iguane", 
+      "Le Chevalier des sables", 
+      "L'Espion qui venait du froid",
+      "La Mégère apprivoisée", 
+      "Hammersmith Is Out"
+      ],
+    "photo": "rburton.jpg"
+  },  
+  {
+    "id": 22,
+    "patronyme": "Robert Shaw",
+    "apparitions": [ 
+      "Les Dents de la mer",
+      "Bons baisers de Russie", 
+      "L'Arnaque", 
+      "La Bataille des Ardennes", 
+      "La Bataille d'Angleterre", 
+      "Un homme pour l'éternité"
+      ],
+    "photo": "moviesBG.png"
+  },  
+  {
+    "id": 23,
+    "patronyme": "Leo G. Carroll",
+    "apparitions": [ 
+      "Les Hauts de Hurlevent",
+      "La Maison du docteur Edwardes", 
+      "La Mort aux trousses", 
+      "Le Renard du désert", 
+      "Les Neiges du Kilimandjaro", 
+      "Rebecca", 
+      "Soupçons", 
+      "Le Procès Paradine", 
+      "L'Inconnu du Nord-Express"
+      ],
+    "photo": "carroll.jpg"
+  },  
+  {
+    "id": 24,
+    "patronyme": "Martin Landau",
+    "apparitions": [ 
+      "Tucker",
+      "Crimes et délits", 
+      "Ed Wood", 
+      "Nevada Smith", 
+      "La Mort aux trousses", 
+      "Un mort récalcitrant"
+      ],
+    "photo": "landau.jpg"
+  },  
+  {
+    "id": 25,
+    "patronyme": "Yul Brinner",
+    "apparitions": [ 
+      "Le Roi et moi",
+      "Les Dix Commandements", 
+      "Anastasia", 
+      "Salomon et la Reine de Saba", 
+      "Les Sept Mercenaires", 
+      "Taras Boulba", 
+      "Morituri", 
+      "La Folle de Chaillot", 
+      "Les Frères Karamazov", 
+      "New York ne répond plus ", 
+      "L'Ombre d'un tueur"
+      ],
+    "photo": "brinner.jpg"
+  },  
+  {
+    "id": 26,
+    "patronyme": "Sidney Greenstreet",
+    "apparitions": [ 
+      "Le Faucon maltais",
+      "Griffes jaunes", 
+      "Casablanca", 
+      "Passage pour Marseille", 
+      "La mort n'était pas au rendez-vous", 
+      "La Vie passionnée des sœurs Brontë"
+      ],
+    "photo": "greenstreet.jpg"
+  },  
+  {
+    "id": 27,
+    "patronyme": "James Garner",
+    "apparitions": [ 
+      "La Grande Évasion",
+      "Sept secondes en enfer", 
+      "La Rumeur", 
+      "Le Piment de la vie", 
+      "Grand Prix"
+      ],
+    "photo": "garner.jpg"
+  },  
+  {
+    "id": 28,
+    "patronyme": "Donald Pleasence",
+    "apparitions": [ 
+      "La Grande Évasion",
+      "Halloween", 
+      "Cul-de-sac", 
+      "On ne vit que deux fois", 
+      "Les Aventuriers du Kilimandjaro", 
+      "La Folle de Chaillot"
+      ],
+    "photo": "pleasance.jpg"
+  },  
+  {
+    "id": 29,
+    "patronyme": "Richard Attenborough",
+    "apparitions": [ 
+      "La Grande Évasion",
+      "La Canonnière du Yang-Tse", 
+      "Rosebud", 
+      "Jurassic Park"
+      ],
+    "photo": "attenborough.jpg"
+  },  
+  {
+    "id": 30,
+    "patronyme": "James Donald",
+    "apparitions": [ 
+      "Le Pont de la rivière Kwaï",
+      "La Grande Évasion", 
+      "L'Ombre d'un géant"
+      ],
+    "photo": "donald.jpg"
+  },  
+  {
+    "id": 31,
+    "patronyme": "Ann-Margret",
+    "apparitions": [ 
+      "Milliardaire pour un jour",
+      "Ce plaisir qu'on dit charnel", 
+      "Tommy", 
+      "Le Kid de Cincinatti"
+      ],
+    "photo": "margret.jpg"
+  },  
+  {
+    "id": 32,
+    "patronyme": "Robert Vaughn",
+    "apparitions": [ 
+      "Les Sept Mercenaires",
+      "Le Carrefour de la vengeance", 
+      "Ce monde à part", 
+      "Bullitt", 
+      "La Tour infernale", 
+      "Les Dix Commandements"
+      ],
+    "photo": "vaughn.jpg"
+  },  
+  {
+    "id": 33,
+    "patronyme": "Robert Duvall",
+    "apparitions": [ 
+      "Du silence et des ombres",
+      "Le Combat du Capitaine Newman", 
+      "La Poursuite impitoyable", 
+      "Bullitt", 
+      "Le Détective", 
+      "Les Dix Commandements", 
+      "Le Parrain", 
+      "Apocalypse Now"
+      ],
+    "photo": "duvall.jpg"
+  },  
+  {
+    "id": 34,
+    "patronyme": "Don Gordon",
+    "apparitions": [ 
+      "Bullitt",
+      "Papillon", 
+      "La Tour infernale", 
+      "Un homme de fer"
+      ],
+    "photo": "moviesBG.png"
+  },  
+  {
+    "id": 35,
+    "patronyme": "Ingrid Bergman",
+    "apparitions": [ 
+      "Casablanca",
+      "Pour qui sonne le glas", 
+      "Hantise", 
+      "Jeanne d'Arc", 
+      "La Maison du docteur Edwardes", 
+      "Les Enchaînés", 
+      "Les Amants du Capricorne", 
+      "Stromboli", 
+      "Anastasia", 
+      "Docteur Jekyll et M. Hyde", 
+      "L'Intrigante de Saratoga", 
+      "Le Crime de l'Orient-Express"
+      ],
+    "photo": "bergman.jpg"
+  },  
+  {
+    "id": 36,
+    "patronyme": "Peter Lorre",
+    "apparitions": [ 
+      "M le maudit",
+      "L'homme qui en savait trop", 
+      "Quatre de l'espionnage", 
+      "Le Faucon maltais", 
+      "Casablanca", 
+      "Arsenic et vieilles dentelles", 
+      "Three Strangers", 
+      "Vingt Mille Lieues sous les mers", 
+      "Le Tour du monde en quatre-vingts jours"
+      ],
+    "photo": "lorre.jpg"
+  },  
+  {
+    "id": 37,
+    "patronyme": "Claude Rains",
+    "apparitions": [ 
+      "L'Homme invisible",
+      "Monsieur Smith au Sénat", 
+      "Casablanca", 
+      "Fantôme de l'opéra", 
+      "Robin des Bois", 
+      "Je suis un criminel", 
+      "Les Enchaînés", 
+      "Le crime était presque parfait", 
+      "Lawrence d'Arabie"
+      ],
+    "photo": "rains.jpg"
+  },  
+  {
+    "id": 38,
+    "patronyme": "Paul Henreid",
+    "apparitions": [ 
+      "Casablanca",
+      "Jeanne de Paris", 
+      "Pavillon noir", 
+      "La Folle de Chaillot"
+      ],
+    "photo": "henreid.jpg"
+  },  
+  {
+    "id": 39,
+    "patronyme": "Audrey Hepburn",
+    "apparitions": [ 
+      "Vacances romaines",
+      "Sabrina", 
+      "Guerre et Paix ", 
+      "Drôle de frimousse", 
+      "Le Vent de la plaine", 
+      "Diamants sur canapé", 
+      "Charade", 
+      "My Fair Lady", 
+      "La Rumeur", 
+      "Vertes Demeures", 
+      "Ariane"
+      ],
+    "photo": "ahepburn.jpg"
+  },  
+  {
+    "id": 40,
+    "patronyme": "George Kennedy",
+    "apparitions": [ 
+      "Seuls sont les indomptés",
+      "Les Douze Salopards", 
+      "La Sanction"
+      ],
+    "photo": "kennedy.jpg"
+  },  
+  {
+    "id": 41,
+    "patronyme": "Robert Ryan",
+    "apparitions": [ 
+      "Les Tuniques écarlates",
+      "L'Aventure inoubliable", 
+      "Nous avons gagné ce soir", 
+      "Le Jour le plus long", 
+      "Billy Budd", 
+      "La Bataille des Ardennes", 
+      "Les Professionnels", 
+      "Les Douze Salopards", 
+      "La Bataille pour Anzio", 
+      "La horde sauvage"
+      ],
+    "photo": "ryan.jpg"
+  },  
+  {
+    "id": 42,
+    "patronyme": "Ernest Borgnine",
+    "apparitions": [ 
+      "Tant qu'il y aura des hommes",
+      "Un homme est passé", 
+      "Vera Cruz", 
+      "Johnny Guitare", 
+      "Marty", 
+      "Les Vikings", 
+      "Les Douze Salopards", 
+      "La Horde sauvage", 
+      "New York 1997", 
+      "Bienvenue à Gattaca", 
+      "Jésus de Nazareth", 
+      "Le Convoi", 
+      "À l'Ouest, rien de nouveau"
+      ],
+    "photo": "borgnine.jpg"
+  },  
+  {
+    "id": 43,
+    "patronyme": "John Cassavetes",
+    "apparitions": [ 
+      "Face au crime",
+      "À bout portant",  
+      "Les Douze Salopards", 
+      "Rosemary's Baby", 
+      "Les Intouchables", 
+      "L'Homme qui tua la peur"
+      ],
+    "photo": "cassavetes.jpg"
+  },  
+  {
+    "id": 44,
+    "patronyme": "Telly Savalas",
+    "apparitions": [ 
+      "Les Douze Salopards",
+      "Au service secret de Sa Majesté",  
+      "Le Prisonnier d'Alcatraz", 
+      "La Bataille des Ardennes", 
+      "Les Chasseurs de scalps", 
+      "L'Homme qui tua la peur", 
+      "L'Or de MacKenna"
+      ],
+    "photo": "savalas.jpg"
+  },  
+  {
+    "id": 45,
+    "patronyme": "Robert Redford",
+    "apparitions": [ 
+      "La Poursuite impitoyable",
+      "Propriété interdite",  
+      "Butch Cassidy et le Kid", 
+      "Les Hommes du président", 
+      "L'Arnaque", 
+      "Gatsby le Magnifique", 
+      "Out of Africa", 
+      "L'Homme qui murmurait à l'oreille des chevaux", 
+      "La Tête à l'envers", 
+      "Votez Mc Kay", 
+      "Les Trois Jours du condor", 
+      "Un pont trop loin", 
+      "Brubaker"
+      ],
+    "photo": "redford.jpg"
+  },  
+  {
+    "id": 46,
+    "patronyme": "Jane Fonda",
+    "apparitions": [ 
+      "L'École des jeunes mariés",
+      "Un dimanche à New York",  
+      "Cat Ballou", 
+      "Pieds nus dans le parc", 
+      "Barbarella", 
+      "On achève bien les chevaux", 
+      "Klute", 
+      "Le Retour", 
+      "La Tête à l'envers", 
+      "La Poursuite impitoyable"
+      ],
+    "photo": "jfonda.jpg"
+  },  
+  {
+    "id": 47,
+    "patronyme": "Henry Fonda",
+    "apparitions": [ 
+      "Les Raisins de la colère",
+      "Un coeur pris au piège",  
+      "La Poursuite infernale", 
+      "Le Faux Coupable", 
+      "Douze hommes en colère", 
+      "Le jour le plus long", 
+      "Il était une fois dans l'Ouest", 
+      "La Maison du lac", 
+      "Le Massacre de Fort Apache", 
+      "Permission jusqu'à l'aube", 
+      "Guerre et Paix", 
+      "L'Homme aux colts d'or", 
+      "La Bataille des Ardennes", 
+      "La Bataille de Midway"
+      ],
+    "photo": "hfonda.jpg"
+  },  
+  {
+    "id": 48,
+    "patronyme": "Angie Dickinson",
+    "apparitions": [ 
+      "Rio Bravo",
+      "Le Combat du capitaine Newman",  
+      "À bout portant", 
+      "La Poursuite impitoyable", 
+      "L'Ombre d'un géant ", 
+      "Le Point de non-retour"
+      ],
+    "photo": "dickinson.jpg"
+  },  
+  {
+    "id": 49,
+    "patronyme": "E. G. Marshall",
+    "apparitions": [ 
+      "Ouragan sur le Caine",
+      "La Lance brisée",  
+      "Douze hommes en colère", 
+      "Les Boucaniers", 
+      "La Poursuite impitoyable", 
+      "Opération Opium", 
+      "Paris brûle-t-il ?", 
+      "Les pleins pouvoirs"
+      ],
+    "photo": "marshall.jpg"
+  },  
+  {
+    "id": 50,
+    "patronyme": "John Wayne",
+    "apparitions": [ 
+      "La Chevauchée fantastique",
+      "Le Massacre de Fort Apache",  
+      "La Charge héroïque", 
+      "Rio Grande", 
+      "Le fils du désert", 
+      "La Prisonnière du désert", 
+      "L'Homme qui tua Liberty Valance", 
+      "Rio Bravo", 
+      "La Rivière rouge", 
+      "Cent dollars pour un shérif", 
+      "Terreur dans la ville", 
+      "L'Escadron noir", 
+      "Opération dans le Pacifique", 
+      "L'Allée sanglante", 
+      "La Cité disparue", 
+      "Le Jour le plus long", 
+      "La Conquête de l'Ouest", 
+      "Le Plus Grand Cirque du monde", 
+      "L'Ombre d'un géant", 
+      "Le Dernier des géants"
+      ],
+    "photo": "wayne.jpg"
+  },  
+  {
+    "id": 51,
+    "patronyme": "Vera Miles",
+    "apparitions": [ 
+      "Psychose",
+      "La Prisonnière du désert",  
+      "Le Faux Coupable", 
+      "L'Homme qui tua Liberty Valance"
+      ],
+    "photo": "miles.jpg"
+  },  
+  {
+    "id": 52,
+    "patronyme": "Lee Van Cleef",
+    "apparitions": [ 
+      "Le Bon, la Brute et le Truand",
+      "Et pour quelques dollars de plus",  
+      "Le train sifflera trois fois", 
+      "Règlements de comptes à OK Corral", 
+      "L'Homme qui tua Liberty Valance", 
+      "La Conquête de l’Ouest"
+      ],
+    "photo": "cleef.jpg"
+  },  
+  {
+    "id": 53,
+    "patronyme": "Vivien Leigh",
+    "apparitions": [ 
+      "L’Invincible Armada",
+      "Autant en emporte le vent",  
+      "Anna Karénine", 
+      "Un tramway nommé Désir", 
+      "La Valse dans l'ombre", 
+      "Vingt et un jours ensemble"
+      ],
+    "photo": "leigh.jpg"
+  },  
+  {
+    "id": 54,
+    "patronyme": "Kim Hunter",
+    "apparitions": [ 
+      "Une question de vie ou de mort",
+      "Un tramway nommé Désir",  
+      "La Planète des singes", 
+      "Minuit dans le jardin du bien et du mal"
+      ],
+    "photo": "hunter.jpg"
+  },  
+  {
+    "id": 55,
+    "patronyme": "Montgomery Clift",
+    "apparitions": [ 
+      "La Rivière rouge",
+      "Les Anges marqués",  
+      "Une place au soleil", 
+      "Tant qu'il y aura des hommes", 
+      "La Loi du silence", 
+      "Station Terminus", 
+      "Jugement à Nuremberg", 
+      "Le Bal des maudits", 
+      "Soudain l’été dernier", 
+      "Les Désaxés", 
+      "Freud, passions secrètes"
+      ],
+    "photo": "clift.jpg"
+  },  
+  {
+    "id": 56,
+    "patronyme": "Anne Baxter",
+    "apparitions": [ 
+      "Le Fil du rasoir",
+      "Les Dix Commandements",  
+      "La Ville abandonnée", 
+      "L'Étang tragique", 
+      "La Splendeur des Amberson", 
+      "Ève", 
+      "La Loi du silence", 
+      "La Ruée vers l'Ouest", 
+      "La Rue chaude", 
+      "L'homme en fuite", 
+      "Freud, passions secrètes"
+      ],
+    "photo": "baxter.jpg"
+  },  
+  {
+    "id": 57,
+    "patronyme": "Doris Day",
+    "apparitions": [ 
+      "Calamity Jane",
+      "Confidences sur l'oreiller",  
+      "L'Homme qui en savait trop", 
+      "Le Bal du printemps", 
+      "Romance à Rio"
+      ],
+    "photo": "day.jpg"
+  },  
+  {
+    "id": 58,
+    "patronyme": "Brenda De Banzie",
+    "apparitions": [ 
+      "L'Homme qui en savait trop",
+      "La Panthère rose",  
+      "Chaussure à son pied", 
+      "Le Cabotin"
+      ],
+    "photo": "banzie.jpg"
+  },  
+  {
+    "id": 59,
+    "patronyme": "Clark Gable",
+    "apparitions": [ 
+      "New York-Miami",
+      "Les Révoltés du Bounty",  
+      "Autant en emporte le vent", 
+      "Âmes libres", 
+      "La Belle de Saïgon", 
+      "Saratoga", 
+      "Le Cargo maudit",
+      "L'Odyssée du sous-marin Nerka", 
+      "Les Désaxés", 
+      "C'est arrivé à Naples", 
+      "Les Implacables"
+      ],
+    "photo": "gable.jpg"
+  },  
+  {
+    "id": 60,
+    "patronyme": "Franchot Tone",
+    "apparitions": [ 
+      "Après nous le déluge",
+      "Rose de minuit",  
+      "La Belle du Missouri", 
+      "Les Révoltés du Bounty", 
+      "L'Enchanteresse", 
+      "Le Tourbillon de la danse", 
+      "Les Trois lanciers du Bengale",
+      "L'Intruse", 
+      "L'Inconnue du palace", 
+      "Les Cinq secrets du désert"
+      ],
+    "photo": "tone.jpg"
+  },  
+  {
+    "id": 61,
+    "patronyme": "John Saxon",
+    "apparitions": [ 
+      "Le Gang des jeunes",
+      "Le Vent de la plaine",  
+      "Opération dragon", 
+      "L'Homme de la Sierra"
+      ],
+    "photo": "saxon.jpg"
+  },  
+  {
+    "id": 62,
+    "patronyme": "Sal Mineo",
+    "apparitions": [ 
+      "Le Roi et moi",
+      "La Fureur de vivre",  
+      "Géant", 
+      "Exodus", 
+      "Le Jour le plus long", 
+      "Les Cheyennes", 
+      "La Plus Grande Histoire jamais contée", 
+      "Marqué par la haine"
+      ],
+    "photo": "mineo.jpg"
+  },  
+  {
+    "id": 63,
+    "patronyme": "Everett Sloane",
+    "apparitions": [ 
+      "Citizen Kane",
+      "Voyage au pays de la peur",  
+      "La Dame de Shanghai", 
+      "Le Renard du désert", 
+      "Marqué par la haine", 
+      "Celui par qui le scandale arrive"
+      ],
+    "photo": "sloane.jpg"
+  },  
+  {
+    "id": 64,
+    "patronyme": "Lee Remick",
+    "apparitions": [ 
+      "Un homme dans la foule",
+      "Le fleuve sauvage",  
+      "Autopsie d'un meurtre", 
+      "Sanctuaire", 
+      "Le Jour du vin et des roses", 
+      "la Grande Menace", 
+      "Les Feux de l'été", 
+      "Le Sillage de la violence", 
+      "Le Détective"
+      ],
+    "photo": "remick.jpg"
+  },  
+  {
+    "id": 65,
+    "patronyme": "Josephine Hutchinson",
+    "apparitions": [ 
+      "Nevada Smith",
+      "Le Sillage de la violence",  
+      "La Mort aux trousses", 
+      "Quelque part dans la nuit"
+      ],
+    "photo": "hutchinson.jpg"
+  },  
+  {
+    "id": 66,
+    "patronyme": "Faye Dunaway",
+    "apparitions": [ 
+      "Bonnie et Clyde",
+      "L'affaire Thomas Crown",  
+      "Chinatown", 
+      "Les Trois Jours du Condor", 
+      "Network, main basse sur la télévision", 
+      "L'Arrangement", 
+      "Little Big Man", 
+      "La Tour Infernale", 
+      "Barfly"
+      ],
+    "photo": "dunaway.jpg"
+  },  
+  {
+    "id": 67,
+    "patronyme": "William Holden",
+    "apparitions": [ 
+      "L'Esclave aux mains d'or",
+      "Boulevard du crépuscule",  
+      "Sabrina", 
+      "Le Pont de la rivière Kwaï", 
+      "Casino Royale", 
+      "La Horde sauvage", 
+      "La Tour infernale", 
+      "Network, main basse sur la télévision"
+      ],
+    "photo": "holden.jpg"
+  },  
+  {
+    "id": 68,
+    "patronyme": "Dustin Hoffman",
+    "apparitions": [ 
+      "Le Lauréat",
+      "Macadam Cowboy",  
+      "Little Big Man", 
+      "Les Chiens de paille", 
+      "Papillon", 
+      "Lenny", 
+      "Les Hommes du président", 
+      "Marathon Man", 
+      "Kramer contre Kramer", 
+      "Tootsie", 
+      "Rain Man", 
+      "Hook ou la Revanche du Capitaine Crochet", 
+      "Des hommes d'influence"
+      ],
+    "photo": "hoffman.jpg"
+  },  
+  {
+    "id": 69,
+    "patronyme": "Mary Astor",
+    "apparitions": [ 
+      "La Belle de Saïgon",
+      "Le Faucon maltais",  
+      "Griffes jaunes", 
+      "Les Quatre Filles du docteur March"
+      ],
+    "photo": "astor.jpg"
+  },  
+  {
+    "id": 70,
+    "patronyme": "Elisha Cook Jr.",
+    "apparitions": [ 
+      "Le Faucon maltais",
+      "L'Ultime Razzia",  
+      "Le Grand Sommeil", 
+      "Rosemary's Baby"
+      ],
+    "photo": "cookjr.jpg"
+  }
+]

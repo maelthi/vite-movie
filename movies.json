@@ -1,0 +1,2317 @@
+  [
+      {
+        "id": 1,
+        "directeur": "George Roy Hill",
+        "titre": "L'arnaque",
+        "acteurs": [
+          "Steve McQueen",
+          "Paul Newman",
+          "Robert Shaw",
+          "Charles Durning"
+        ],
+        "dateSortie": 1976,
+        "resume": "A Chicago, en 1936, Johnny Hooker et son acolyte Coleman volent sans le savoir le convoyeur de fonds de Doyle Lonnegan, un dangereux gangster de New York. Coleman est aussitôt abattu par le gang de ce dernier et Hooker se réfugie chez Henry Gondorff, un spécialiste de l'arnaque. Ceux ci décident alors de venger la mort de Coleman en montant une vaste escroquerie destinée à mettre Lonnegan sur la paille. Pour cela, Hooker fait croire au gangster qu'il est capable d'obtenir les résultats des courses avant qu'ils ne soient officiellement connus.",
+        "genre": "thriller",
+        "pochette": "thriller.jpg"
+      },
+      {
+        "id": 2,
+        "directeur": "Sam Peckinpah",
+        "titre": "Guet-apens",
+        "acteurs": [
+          "Steve McQueen",
+          "Ali MacGraw"
+        ],
+        "dateSortie": 1972,
+        "resume": "En échange de sa liberté, le détenu Carter McCoy doit à sa sortie de prison réaliser le hold-up d'une banque pour le compte de Jack Benyon. Après avoir abattu son complice Rudy Butler qui avait tenté de le tuer, il s'enfuit avec sa femme et l'argent volé à travers les Etats-Unis.",
+        "genre": "thriller",
+        "pochette": "thriller.jpg"
+      },
+      {
+        "id": 3,
+        "directeur": "Alfred Hitchcock",
+        "titre": "La Mort aux trousses",
+        "acteurs": [
+          "Cary Grant",
+          "Eva Marie Saint",
+          "James Mason", 
+          "Leo G. Carroll", 
+          "Martin Landau"
+
+        ],
+        "dateSortie": 1959,
+        "resume": "Le publiciste Roger Tornhill se retrouve par erreur dans la peau d'un espion. Pris entre une mystérieuse organisation qui cherche à le supprimer et la police qui le poursuit, Tornhill est dans une situation bien inconfortable. Il fuit à travers les États-Unis et part à la recherche d'une vérité qui se révélera très surprenante.",
+        "genre": "thriller",
+        "pochette": "thriller.jpg"
+      }, 
+      {
+        "id": 4,
+        "directeur": "John Sturges",
+        "titre": "Les Sept Mercenaires",
+        "acteurs": [
+          "Yul Brinner",
+          "Eli Wallach",
+          "Steve McQueen", 
+          "Charles Bronson", 
+          "Robert Vaughn", 
+          "James Coburn"
+        ],
+        "dateSortie": 1961,
+        "resume": "Un petit village de paysans du nord du Mexique subit les raids incessants de bandits menés par le pilleur Calvera. Accablés par cette situation, les paysans décident d'aller chercher du soutien de l'autre côté de la frontière américaine. Ils le trouvent en la personne de Chris, baroudeur taciturne et excellent tireur. Ensemble, ils recrutent six autres hommes, tous mercenaires, chacun motivé par des raisons personnelles et un sens de l'honneur propre...",
+        "genre": "western",
+        "pochette": "western.jpg"
+      }, 
+      {
+        "id": 5,
+        "directeur": "John Sturges",
+        "titre": "La Grande Évasion",
+        "acteurs": [
+          "Steve McQueen",
+          "Charles Bronson",
+          "James Garner", 
+          "Donald Pleasence", 
+          "Richard Attenborough", 
+          "James Coburn", 
+          "James Donald", 
+          "David McCallum"
+        ],
+        "dateSortie": 1963,
+        "resume": "Durant la Seconde Guerre Mondiale, des officiers alliés récidivistes de l'évasion sont prisonniers et surveillés étroitement dans un stalag. Malgré cela, ils préparent une évasion massive. Avant même que l'alerte ne soit déclenchée, soixante-quinze d'entre eux parviennent à s'échapper...",
+        "genre": "guerre",
+        "pochette": "war.jpg"
+      }, 
+      {
+        "id": 6,
+        "directeur": "Norman Jewison",
+        "titre": "Le Kid de Cincinatti",
+        "acteurs": [
+          "Steve McQueen",
+          "Edward G. Robinson",
+          "Ann-Margret", 
+          "Joan Blondell", 
+          "Tuesday Weld"
+        ],
+        "dateSortie": 1965,
+        "resume": "Dans les années 1930, Eric Stoner est un brillant joueur de poker occasionnel en Nouvelle-Orléans. Afin de fortifier sa réputation, son manager profite du passage dans la ville de Lance Howard, un maître du jeu, pour arranger une partie entre les deux hommes",
+        "genre": "drame",
+        "pochette": "drama.jpg"
+      }, 
+      {
+        "id": 7,
+        "directeur": "Peter Yates",
+        "titre": "Bullitt",
+        "acteurs": [
+          "Steve McQueen",
+          "Jacqueline Bisset",
+          "Robert Vaughn", 
+          "Robert Duvall", 
+          "Don Gordon"
+
+        ],
+        "dateSortie": 1968,
+        "resume": "Bullitt, un lieutenant de police, est chargé par un politicien ambitieux de protéger Johnny Ross, un gangster dont le témoignage est capital dans un procès où est impliqué l'homme politique. Malgré les précautions prises par Bullitt et ses hommes, Ross est grièvement blessé, puis achevé sur son lit d'hôpital. Bullitt s'aperçoit alors que la victime n'était pas le vrai Ross...",
+        "genre": "policier",
+        "pochette": "policier.jpg"
+      }, 
+      {
+        "id": 8,
+        "directeur": "Lee H. Katzin",
+        "titre": "Le Mans",
+        "acteurs": [
+          "Steve McQueen",
+          "Erich Stahler",
+          "Paul-Jacques Dion", 
+          "Tommy Hopkins", 
+          "Lisa Belgetti"
+
+        ],
+        "dateSortie": 1971,
+        "resume": "Michael Delaney, pilote automobile, se prépare à courir les 24 Heures du Mans et à affronter Stahler, son rival allemand. Au même moment, il tombe amoureux de Lisa, l'épouse de son coéquipier décédé...",
+        "genre": "automobile",
+        "pochette": "auto.jpg"
+      }, 
+      {
+        "id": 9,
+        "directeur": "Michael Curtiz",
+        "titre": "Casablanca",
+        "acteurs": [
+          "Humphrey Bogart",
+          "Ingrid Bergman",
+          "Peter Lorre", 
+          "Claude Rains", 
+          "Paul Henreid", 
+          "Dooley Wilson", 
+          "Sidney Greenstreet", 
+          "S. Z. Sakall"
+        ],
+        "dateSortie": 1947,
+        "resume": "A Casablanca, pendant la Seconde Guerre mondiale, le night-club le plus couru de la ville est tenu par Rick Blaine, un Américain en exil. Mais l'établissement sert également de refuge à ceux qui voudraient se procurer les papiers nécessaires pour quitter le pays. Lorsque Rick voit débarquer un soir le dissident politique Victor Laszlo et son épouse Ilsa, quelle n'est pas sa surprise de retrouver dans ces circonstances le grand amour de sa vie...",
+        "genre": "drame",
+        "pochette": "drama.jpg"
+      }, 
+      {
+        "id": 10,
+        "directeur": "Stanley Donen",
+        "titre": "Charade",
+        "acteurs": [
+          "Audrey Hepburn",
+          "Cary Grant",
+          "Walter Matthau", 
+          "James Coburn", 
+          "George Kennedy"
+        ],
+        "dateSortie": 1963,
+        "resume": "Aux sports d’hiver, une Américaine tombe amoureuse d’un séduisant célibataire. De retour à Paris, elle apprend le meurtre de son mari et elle va être poursuivie par d’étranges personnages, à la recherche d'un magot caché par la victime et dont elle ignore tout...",
+        "genre": "thriller",
+        "pochette": "thriller.jpg"
+      }, 
+      {
+        "id": 11,
+        "directeur": "Robert Aldrich",
+        "titre": "Les Douze Salopards",
+        "acteurs": [
+          "Lee Marvin",
+          "Ernest Borgnine",
+          "Charles Bronson", 
+          "Jim Brown", 
+          "John Cassavetes", 
+          "George Kennedy", 
+          "Robert Ryan", 
+          "Telly Savalas"
+        ],
+        "dateSortie": 1967,
+        "resume": "A la veille du débarquement en Normandie, le major John Reiman est chargé d'entraîner une douzaine de prisonniers militaires condamnés à des peines capitales. En échange de leur liberté, ces hommes devront accomplir une mission périlleuse : investir les quartiers généraux nazis en France et tout détruire. Après un entraînement digne d'un commando, les Douze Salopards sont fins prêts à le risque de perdre leur vie au combat.",
+        "genre": "guerre",
+        "pochette": "war.jpg"
+      }, 
+      {
+        "id": 12,
+        "directeur": "Arthur Penn",
+        "titre": "La Poursuite impitoyable",
+        "acteurs": [
+          "Marlon Brando",
+          "Robert Redford",
+          "Jane Fonda", 
+          "Angie Dickinson", 
+          "Robert Duvall", 
+          "James Fox", 
+          "E. G. Marshall" 
+        ],
+        "dateSortie": 1966,
+        "resume": "Au Texas, le retour d’un évadé de prison dans sa ville natale déchaîne les passions. Le shérif se promet de trouver le fugitif avant que la foule ne s'en empare.",
+        "genre": "drame",
+        "pochette": "drama.jpg"
+      }, 
+      {
+        "id": 13,
+        "directeur": "John Ford",
+        "titre": "L'Homme qui tua Liberty Valance",
+        "acteurs": [
+          "John Wayne",
+          "James Stewart",
+          "Lee Marvin", 
+          "Vera Miles", 
+          "Lee Van Cleef", 
+          "Andy Devine"
+        ],
+        "dateSortie": 1962,
+        "resume": "Le sénateur Randsom Stoddard a fait le déplacement pour assister à l'enterrement de Tom Doniphon. Interrogé par les journalistes sur les raisons de sa présence à la cérémonie, il raconte son arrivée dans l'Ouest. Sauvagement battu par le bandit Liberty Valance, le jeune juriste Stoddard fut alors pris en amitié par Tom Doniphon. Ce dernier lui enseigna la seule loi qui prévaut dans la région : celle des colts.",
+        "genre": "western",
+        "pochette": "western.jpg"
+      }, 
+      {
+        "id": 14,
+        "directeur": "Sergio Leone",
+        "titre": "Le Bon, la Brute et le Truand",
+        "acteurs": [
+          "Clint Eastwood",
+          "Eli Wallach",
+          "Lee Van Cleef"
+        ],
+        "dateSortie": 1966,
+        "resume": "Pendant la Guerre de Sécession, trois hommes, préférant s'intéresser à leur profit personnel, se lancent à la recherche d'un coffre contenant 200 000 dollars en pièces d'or volés à l'armée sudiste. Tuco sait que le trésor se trouve dans un cimetière, tandis que Joe connaît le nom inscrit sur la pierre tombale qui sert de cache. Chacun a besoin de l'autre. Mais un troisième homme entre dans la course : Setenza, une brute qui n'hésite pas à massacrer femmes et enfants pour parvenir à ses fins.",
+        "genre": "western",
+        "pochette": "western.jpg"
+      }, 
+      {
+        "id": 15,
+        "directeur": "Elia Kazan",
+        "titre": "Un tramway nommé Désir",
+        "acteurs": [
+          "Marlon Brando",
+          "Vivien Leigh",
+          "Karl Malden", 
+          "Kim Hunter"
+        ],
+        "dateSortie": 1952,
+        "resume": "Après une longue séparation, Blanche Dubois vient rejoindre sa soeur, Stella, à La Nouvelle-Orléans. Celle-ci vit avec son mari, Stanley, ouvrier d'origine polonaise, dans le vieux quartier français. Ce dernier n'apprécie guère les manières distinguées de Blanche et cherche à savoir quel a été le véritable passé de sa belle-soeur.",
+        "genre": "drame",
+        "pochette": "drama.jpg"
+      }, 
+      {
+        "id": 16,
+        "directeur": "Alfred Hitchcock",
+        "titre": "La Loi du silence",
+        "acteurs": [
+          "Montgomery Clift",
+          "Anne Baxter",
+          "Karl Malden", 
+          "Kim Hunter"
+        ],
+        "dateSortie": 1953,
+        "resume": "Au Québec, un homme revêtu d'une soutane abat un avocat pour lui dérober son argent. Le soir du drame, il se confesse auprès du père Michael Logan, sur lequel se portent immédiatement les soupçons. Arrêté, mais lié par le secret de la confession, le père Logan se tait...",
+        "genre": "policier",
+        "pochette": "policier.jpg"
+      }, 
+      {
+        "id": 17,
+        "directeur": "Alfred Hitchcock",
+        "titre": "L'Homme qui en savait trop",
+        "acteurs": [
+          "James Stewart",
+          "Doris Day",
+          "Brenda de Banzie"
+        ],
+        "dateSortie": 1956,
+        "resume": "En vacances au Maroc avec sa femme et son fils, le Dr McKenna fait la connaissance d'un Français qui sera assassiné sous leurs yeux le lendemain de leur rencontre. Quelques jours plus tard, leur fils a été enlevé. Ils vont devoir mener leur enquête.",
+        "genre": "aventure",
+        "pochette": "aventure.jpg"
+      }, 
+      {
+        "id": 18,
+        "directeur": "Frank Lloyd",
+        "titre": "Les Révoltés du Bounty",
+        "acteurs": [
+          "Clark Gable",
+          "Charles Laughton",
+          "Franchot Tone", 
+          "Herbert Mundin"
+        ],
+        "dateSortie": 1935,
+        "resume": "Le Bounty ramène de Tahiti des plants d'arbres à pain et les transporte en Jamaïque. A son bord, le cruel capitaine Bligh affame ses hommes et les maltraite. Le lieutenant Fletcher Christian va s'opposer à lui et organiser une mutinerie.",
+        "genre": "aventure",
+        "pochette": "aventure.jpg"
+      }, 
+      {
+        "id": 19,
+        "directeur": "Sidney J. Furie",
+        "titre": "L'Homme de la Sierra",
+        "acteurs": [
+          "Marlon Brando",
+          "John Saxon",
+          "Anjanette Comer", 
+          "Míriam Colón", 
+          "Emilio Fernández"
+        ],
+        "dateSortie": 1966,
+        "resume": "Matt vient de recevoir un superbe cadeau: un cheval du nom d'Osaca. Hélas, il se le fait voler par un homme et sa bande de gangsters. Ils détiennent également prisonnière une jeune femme du nom de Trini... Celle-ci va s'avére être d'une aide préciseuse pour Matt lorsqu'il retrouve enfin leur trace.",
+        "genre": "western",
+        "pochette": "western.jpg"
+      }, 
+      {
+        "id": 20,
+        "directeur": "George Cukor",
+        "titre": "Indiscrétions",
+        "acteurs": [
+          "Katharine Hepburn",
+          "James Stewart",
+          "Cary Grant", 
+          "Ruth Hussey", 
+          "Virginia Weidler"
+        ],
+        "dateSortie": 1940,
+        "resume": "Une séparation, des fiançailles, une rupture et trois prétendants. Une comédie alerte et enjouée parodiant la haute société américaine et ses parfums de scandale.",
+        "genre": "comédie",
+        "pochette": "comedie.jpg"
+      }, 
+      {
+        "id": 21,
+        "directeur": "Mike Nichols",
+        "titre": "Qui a peur de Virginia Woolf ?",
+        "acteurs": [
+          "Elizabeth Taylor",
+          "Richard Burton",
+          "Sandy Dennis", 
+          "George Segal"
+        ],
+        "dateSortie": 1966,
+        "resume": "Martha, fille du doyen de l’Université, et son mari George, professeur d’Histoire, rentrent légèrement éméchés d’une réception en fredonnant la comptine 'Qui a peur de Virginia Woolf ? '. À la demande de son père, Martha s’est vue contrainte à inviter un jeune couple, récemment emménagé, à les rejoindre pour boire un dernier verre. Mais à leur arrivée, Nick, professeur de biologie, et son épouse Honey trouvent leurs hôtes en pleine dispute. Ce qui aurait dû être une soirée sympathique entre amis va dégénérer en règlement de comptes généralisé. La nuit s’annonce longue et agitée…",
+        "genre": "drame",
+        "pochette": "drama.jpg"
+      }, 
+      {
+        "id": 22,
+        "directeur": "Robert Wise",
+        "titre": "Marqué par la haine",
+        "acteurs": [
+          "Paul Newman",
+          "Pier Angeli",
+          "Sal Mineo", 
+          "Steve McQueen", 
+          "Everett Sloane"
+        ],
+        "dateSortie": 1956,
+        "resume": "L'histoire du petit délinquant Rocco Barbella, qui devint champion du monde de boxe des poids moyens sous le nom de Rocky Graziano.",
+        "genre": "drame",
+        "pochette": "drama.jpg"
+      }, 
+      {
+        "id": 23,
+        "directeur": "Robert Mulligan",
+        "titre": "Le Sillage de la violence",
+        "acteurs": [
+          "Steve McQueen", 
+          "Lee Remick", 
+          "Don Murray", 
+          "Josephine Hutchinson", 
+          "Kimberly Block"
+        ],
+        "dateSortie": 1965,
+        "resume": "Henry Thomas vient tout juste de sortir de prison et retrouve avec joie sa femme Georgette et sa fille au Texas. Bien décidé à se racheter une bonne conduite, il met tout en œuvre pour subvenir aux besoins de sa famille. Homme à tout faire le jour, chanteur dans une discothèque la nuit : voilà le quotidien de cet homme nouveau. Pourtant son passé douloureux est sur le point de le rattraper.",
+        "genre": "drame",
+        "pochette": "drama.jpg"
+      },
+      {
+        "id": 24,
+        "directeur": "Robert Wise",
+        "titre": "La Canonnière du Yang-Tse",
+        "acteurs": [
+          "Steve McQueen", 
+          "Candice Bergen", 
+          "Richard Attenborough", 
+          "Richard Crenna", 
+          "Makoto Iwamatsu", 
+          "Simon Oakland"
+        ],
+        "dateSortie": 1966,
+        "resume": "En 1926, le San Pablo, une canonnière américaine avec à son bord le mécanicien en chef Jake Holman, remonte le fleuve Yang-Tsé. Le patrouilleur se retrouve bientôt au coeur de la guerre civile chinoise qui oppose communistes et nationalistes...",
+        "genre": "guerre",
+        "pochette": "war.jpg"
+      },
+      {
+        "id": 25,
+        "directeur": "Norman Jewison",
+        "titre": "L'affaire Thomas Crown",
+        "acteurs": [
+          "Steve McQueen", 
+          "Faye Dunaway", 
+          "Paul Burke", 
+          "Jack Weston", 
+          "Yaphet Kotto"
+        ],
+        "dateSortie": 1968,
+        "resume": "Thomas Crown, un milliardaire divorcé, à la tête d’une grande banque de Boston, estime que sa vie d’homme riche ne lui procure plus aucune satisfaction. Afin de ressentir à nouveau le frisson de l’aventure, il prépare minutieusement, avec neuf complices, un fabuleux hold-up, qui laissera la police perplexe. Sa propre banque lui paraît être le meilleur endroit pour ses exploits. Le coup réussit à la perfection. Tandis que l’enquête menée par le commissaire Malone piétine, Thomas s’en va cacher son butin en Suisse. Il découvre alors que la compagnie d’assurances de sa banque lui a dépêché une redoutable enquêtrice, la ravissante et sagace Vicky Anderson…",
+        "genre": "policier",
+        "pochette": "policier.jpg"
+      },
+      {
+        "id": 26,
+        "directeur": "George Schaefer",
+        "titre": "Un ennemi du peuple",
+        "acteurs": [
+          "Steve McQueen", 
+          "Bibi Andersson", 
+          "Charles Durning",
+          "Richard Dysart"
+        ],
+        "dateSortie": 1978,
+        "resume": "Dans une petite ville thermale de Norvège, à la fin du XIXe siècle, le docteur Stockman reçoit du laboratoire les résultats des prélèvements qu'il a réalisés et qui attestent de la pollution des eaux. Désireux d'alerter l'opinion pour entreprendre des travaux de rénovation indispensables, il se heurte à l'opposition de son frère Peter, maire de la ville, qui craint des conséquences économiques désastreuses. Petit à petit, toute la population se ligue contre le médecin et sa famille qui sont considérés comme des ennemis du peuple...",
+        "genre": "drame",
+        "pochette": "drama.jpg"
+      },
+      {
+        "id": 27,
+        "directeur": "Buzz Kulik",
+        "titre": "Le Chasseur",
+        "acteurs": [
+          "Steve McQueen", 
+          "Kathryn Harrold", 
+          "Eli Wallach",
+          "LeVar Burton", 
+          "Ben Johnson"
+        ],
+        "dateSortie": 1980,
+        "resume": "Thorson est un chasseur de primes des temps modernes qui poursuit les malfaiteurs qui s'évadent lors de leurs libertés provisoires. En revanche, il est toujours enclin à aider les repentis à reprendre leur vie en main, délaissant quelque peu sa compagne enceinte. A la poursuite du criminel Rocco Mason, les choses tournent mal et s'ensuit une prise d'otages dans le métro.",
+        "genre": "drame",
+        "pochette": "drama.jpg"
+      },
+      {
+        "id": 28,
+        "directeur": "John Guillermin",
+        "titre": "La Tour Infernale",
+        "acteurs": [
+          "Steve McQueen", 
+          "Paul Newman", 
+          "Faye Dunaway", 
+          "William Holden", 
+          "Fred Astaire", 
+          "Richard Chamberlain", 
+          "O. J. Simpson", 
+          "Robert Vaughn", 
+          "Robert Vagner", 
+          "Jennifer Jones", 
+          "Don Gordon"
+        ],
+        "dateSortie": 1975,
+        "resume": "A San Francisco, le plus grand gratte-ciel du monde va être inauguré. Son architecte, Douglas Roberts, voit cette soirée tourner au drame lorsqu'un court-circuit provoque un incendie et bloque les convives au 135e étage du bâtiment. C'est Michael O'Hallorhan, le capitaine des pompiers de la ville, qui est chargé de commander l'opération de sauvetage...",
+        "genre": "drame",
+        "pochette": "drama.jpg"
+      },
+      {
+        "id": 29,
+        "directeur": "John Huston",
+        "titre": "Le Faucon Maltais",
+        "acteurs": [
+          "Humphrey Bogart", 
+          "Mary Astor", 
+          "Peter Lorre", 
+          "Sydney Greenstreet", 
+          "Elisha Cook Jr."
+        ],
+        "dateSortie": 1941,
+        "resume": "Sam Spade et Miles Archer sont deux privés. Au cours d'une enquête, Miles est assassiné. Sam soupçonne Brigid qui les avait dirigés sur l'enquête. Mais cette dernière, qui fascine Sam par sa beauté et son argent, lui demande de l'aider et il accepte.",
+        "genre": "thriller",
+        "pochette": "thriller.jpg"
+      },
+      {
+        "id": 30,
+        "directeur": "Howard Hawks",
+        "titre": "Le Grand Sommeil",
+        "acteurs": [
+          "Humphrey Bogart", 
+          "Lauren Bacall", 
+          "Martha Vickers", 
+          "John Ridgely", 
+          "Dorothy Malone", 
+          "Charles Waldron", 
+          "Elisha Cook Jr.", 
+          "Peggy Knudsen", 
+          "Regis Toomey"
+        ],
+        "dateSortie": 1978,
+        "resume": "Le général Sternwood engage le détective privé Philip Marlowe pour régler une affaire de chantage dont il est victime. Un dénommé Geiger possèderait des photos compromettantes de sa fille cadette, Carmen. Mais Marlowe découvre que le maître chanteur a été assassiné. Rapidement, les cadavres s'accumulent et l'intrigue se complique. De nombreux personnage entrent en scène, dont Vivian, la soeur aînée de Carmen.",
+        "genre": "thriller",
+        "pochette": "thriller.jpg"
+      },
+      {
+        "id": 31,
+        "directeur": "Howard Hawks",
+        "titre": "Le Port de l'Angoisse",
+        "acteurs": [
+          "Humphrey Bogart", 
+          "Lauren Bacall", 
+          "Hoagy Carmichael", 
+          "Walter Brennan", 
+          "Dolores Moran", 
+          "Dan Seymour"
+        ],
+        "dateSortie": 1945,
+        "resume": "En 1942, Harry Morgan, le propriétaire d'un yacht à la Martinique, gagne sa vie en emmenant à la pêche de riches touristes. Gérard, gaulliste convaincu et patron de l'hôtel où il loge, demande à Harry de l'aider à faire entrer clandestinement dans l'île un chef de la Résistance. D'abord réticent, Harry accepte, acculé par le besoin d'argent. Il vient en effet de rencontrer une jeune Américaine, Marie. Ils s'aiment et veulent quitter l'île.",
+        "genre": "aventure",
+        "pochette": "aventure.jpg"
+      },
+      {
+        "id": 32,
+        "directeur": "Archie Mayo",
+        "titre": "La Forêt pétrifiée",
+        "acteurs": [
+          "Humphrey Bogart", 
+          "Leslie Howard", 
+          "Bette Davis", 
+          "Dick Foran", 
+          "Genevieve Tobin", 
+          "Joe Sawyer"
+        ],
+        "dateSortie": 1936,
+        "resume": "Alan Quier, un intellectuel, se lie d'amitié avec Gabrielle, une serveuse rencontrée dans une station-service. Celle-ci rêve d'aller en France. Mais s'interpose entre eux le gangster Duke Mantee décidé à franchir la frontière mexicaine...",
+        "genre": "drame",
+        "pochette": "drama.jpg"
+      },
+      {
+        "id": 33,
+        "directeur": "Archie Mayo",
+        "titre": "La Légion noire",
+        "acteurs": [
+          "Humphrey Bogart", 
+          "Ann Sheridan", 
+          "Dick Foran", 
+          "Genevieve Tobin", 
+          "Joe Sawyer", 
+          "Erin O'Brien-Moore"
+        ],
+        "dateSortie": 1937,
+        "resume": "Frank, un ouvrier travaillant dur, perd son travail au profit d'un ouvrier d'origine polonaise. Il rejoint alors une organisation secrète, la Légion Noire, qui commet des actes de violence contre les étrangers.",
+        "genre": "drame",
+        "pochette": "drama.jpg"
+      },
+      {
+        "id": 34,
+        "directeur": "Lloyd Bacon",
+        "titre": "Menaces sur la ville",
+        "acteurs": [
+          "Humphrey Bogart", 
+          "George Brent", 
+          "Gloria Dickson", 
+          "Allen Jenkins", 
+          "Walter Abel"
+        ],
+        "dateSortie": 1938,
+        "resume": "Pete Martin, l’un des chefs de gangs les plus puissants de Manhattan, a entrepris de mettre en place un nouveau syndicat des camionneurs afin de prélever un bénéfice sur le marché d’approvisionnement de la ville. Spécialement choisi par le gouverneur, l’attorney général Thomas Allison est spécialement désigné pour mettre un terme au racket. Mais il se heurte au mutisme des témoins qui, par peur des représailles, hésitent à dénoncer les gangsters.",
+        "genre": "policier",
+        "pochette": "policier.jpg"
+      },
+      {
+        "id": 35,
+        "directeur": "Lloyd Bacon",
+        "titre": "Terreur à l'ouest",
+        "acteurs": [
+          "Humphrey Bogart", 
+          "James Cagney", 
+          "Rosemary Lane", 
+          "Donald Crisp", 
+          "Harvey Stevens"
+        ],
+        "dateSortie": 1939,
+        "resume": "Whip McCord dérobe une forte somme d'argent destinée à racheter des terres aux Indiens, mais il est lui-même dépouillé par un autre gangster, surnommé Oklahoma Kid. Devenu maire de la petite ville de Tulsa, McCord sème la terreur auprès de sa population. C'est sans compter sur l'intervention, une fois de plus, d'Oklahoma Kid, qui va aider à restaurer la paix.",
+        "genre": "western",
+        "pochette": "western.jpg"
+      },
+      {
+        "id": 36,
+        "directeur": "Raoul Walsh",
+        "titre": "High Sierra",
+        "acteurs": [
+          "Humphrey Bogart", 
+          "Ida Lupino", 
+          "Joan Leslie", 
+          "Henry Travers", 
+          "Alan Curtis"
+        ],
+        "dateSortie": 1941,
+        "resume": "Dernière cavale, dernier amour, dernières amitiés pour Roy Earle, libéré après huit années d'incarcération, grâce à l'intervention du gangster Big Mac.",
+        "genre": "policier",
+        "pochette": "policier.jpg"
+      },
+      {
+        "id": 37,
+        "directeur": "John Huston",
+        "titre": "Le Trésor de la Sierra Madre",
+        "acteurs": [
+          "Humphrey Bogart", 
+          "Walter Huston", 
+          "John Huston", 
+          "Tim Holt", 
+          "Bruce Bennett"
+        ],
+        "dateSortie": 1949,
+        "resume": "Dobbs et Curtis travaillent sur un chantier dont le chef part avec le salaire des ouvriers. Ils partent à sa recherche et récupèrent leur argent. Puis ils s'associent avec le vieil Howard pour exploiter un filon d'or dans la Sierra Madre.",
+        "genre": "aventure",
+        "pochette": "aventure.jpg"
+      },
+      {
+        "id": 38,
+        "directeur": "John Huston",
+        "titre": "Key Largo",
+        "acteurs": [
+          "Humphrey Bogart", 
+          "Lauren Bacall",
+          "Edward G. Robinson", 
+          "Claire Trevor", 
+          "Lionel Barrymore", 
+          "Thomas Gomez", 
+          "Harry Lewis", 
+          "Dan Seymour", 
+          "John Rodney"
+        ],
+        "dateSortie": 1948,
+        "resume": "Frank, ancien officier, se rend dans une île au large de la Floride pour rencontrer Temple, le père de son ami tué dans les combats en Italie, et Nora, sa veuve. Temple est propriétaire d'un hôtel occupé par des hommes qui se révèlent être des gangsters. Lors d'un ouragan qui isole complètement la maison, les gangsters tentent de s'enfuir sur un bateau et obligent Frank à le piloter.",
+        "genre": "drame",
+        "pochette": "drama.jpg"
+      },
+      {
+        "id": 39,
+        "directeur": "John Huston",
+        "titre": "L'Odysée de l'African Queen",
+        "acteurs": [
+          "Humphrey Bogart", 
+          "Katharine Hepburn",
+          "Theodore Bikel", 
+          "Peter Bull",
+          "Robert Morley"
+        ],
+        "dateSortie": 1951,
+        "resume": "L'Afrique en 1915. Charlie Allnut, américain, transporte sur son bateau 'l'African Queen' toutes sortes de marchandises qu'il distribue dans les villages. Il prévient le révérend Sawyer et sa soeur Rose, tous deux sujets britanniques, de l'approche des troupes allemandes. Il revient le lendemain et embarque Rose, pensant la déposer en territoire neutre. Mais, décidée à lutter, elle l'oblige à descendre les rapides du fleuve pour rejoindre les Anglais.",
+        "genre": "aventure",
+        "pochette": "aventure.jpg"
+      },
+      {
+        "id": 40,
+        "directeur": "William Wyler",
+        "titre": "La Maison des otages",
+        "acteurs": [
+          "Humphrey Bogart", 
+          "Fredric March", 
+          "Arthur Kennedy", 
+          "Martha Scott"
+        ],
+        "dateSortie": 1955,
+        "resume": "Trois malfaiteurs evades se refugient chez une paisible famille americaine les Hilliard et prennent en otage Madame Hilliard et son fils Ralphie. Dan Hilliard, pour proteger sa famille continue ses activites mais peu a peu la situation se degrade et de plus la police finit par decouvrir et cerner la maison. Dan Hilliard reclame une derniere chance avant l'assaut final: quelques minutes de sursis pour essayer de sauver lui-meme sa femme et son petit garcon.",
+        "genre": "aventure",
+        "pochette": "aventure.jpg"
+      },
+      {
+        "id": 41,
+        "directeur": "Richard Brooks",
+        "titre": "Bas les masques",
+        "acteurs": [
+          "Humphrey Bogart", 
+          "Kim Hunter", 
+          "Martha Scott", 
+          "Jim Backus", 
+          "Ed Begley"
+        ],
+        "dateSortie": 1952,
+        "resume": "George Burrows, reporter au Day, enquête sur un caïd de la pègre, Thomas Rienzi. Malgré les pressions et les menaces, il fera éclater la vérité grâce à son rédacteur en chef, Ed Hutcheson.",
+        "genre": "policier",
+        "pochette": "policier.jpg"
+      },
+      {
+        "id": 42,
+        "directeur": "John Huston",
+        "titre": "Plus fort que le diable",
+        "acteurs": [
+          "Humphrey Bogart", 
+          "Gina Lollobrigida", 
+          "Peter Lorre", 
+          "Robert Morley", 
+          "Jennifer Jones"
+        ],
+        "dateSortie": 1954,
+        "resume": "Quatre aventuriers cherchent à s'approprier un gisement d'uranium. Billy Dannreuther, cinquième larron de la bande, attend ses associés en compagnie de son épouse Maria dans un petit port italien : c'est là que tous devront embarquer sur un bateau à destination de l' Afrique. En attendant le départ, chacun essaie de tuer le temps. Billy et Maria font la connaissance de Harry Chelm et de son épouse. Chelm est un escroc notoire, et les associés de Billy s'imaginent qu'ils sont en train de se faire rouler.",
+        "genre": "aventure",
+        "pochette": "aventure.jpg"
+      },
+      {
+        "id": 43,
+        "directeur": "Mark Robson",
+        "titre": "Plus dure sera la chute",
+        "acteurs": [
+          "Humphrey Bogart", 
+          "Rod Steiger", 
+          "Mike Lane", 
+          "Jan Sterling", 
+          "Edward Andrews"
+        ],
+        "dateSortie": 1956,
+        "resume": "La carrière de journaliste sportif d'Eddie Willis est au point mort quand Benko, un manager de boxe, lui propose de faire la promotion de son poulain, Toro. Eddie accepte, mais il se rend vite compte que l'apparence du boxeur ne reflète en rien ses capacités et qu'il ne doit ses victoires qu'aux tricheries perpétrées par Benko.",
+        "genre": "drame",
+        "pochette": "drama.jpg"
+      },
+      {
+        "id": 44,
+        "directeur": "Edward Dmytryk",
+        "titre": "Ouragan sur le Caine",
+        "acteurs": [
+          "Humphrey Bogart", 
+          "José Ferrer", 
+          "Van Johnson", 
+          "Robert Francis", 
+          "Fred MacMurray", 
+          "Lee Marvin", 
+          "E. G. Marshall"
+        ],
+        "dateSortie": 1954,
+        "resume": "Le lieutenant-commandant Queeg est le capitaine du dragueur de mine 'Le Caine'. Il est relevé de son commandement contre son gré durant un violent typhon. Il décide alors de faire juger ses officiers pour mutinerie...",
+        "genre": "guerre",
+        "pochette": "war.jpg"
+      },
+      {
+        "id": 45,
+        "directeur": "Joseph L. Mankiewicz",
+        "titre": "La Comtesse aux pieds nus",
+        "acteurs": [
+          "Humphrey Bogart", 
+          "Ava Gardner", 
+          "Edmond O'Brien", 
+          "Rossano Brazzi", 
+          "Valentina Cortese",
+          "Warren Stevens", 
+          "Bill Fraser"
+        ],
+        "dateSortie": 1954,
+        "resume": "A l'enterrement de Maria Vargas, sous la pluie, Harry Dawes se souvient... Engagé par le producteur Kirk Edwards pour réaliser un film, ils découvrent leur vedette un soir dans un cabaret de Madrid: Maria Vargas. La danseuse devient alors Maria Vargas, une star hollywoodienne adulée. Mais celle-ci se sent terriblement seule et rêve de rencontrer son prince charmant. Elle finit par le trouver sous les traits du conte Vincenzo Torlano-Favrini, un séduisant milliardaire. Ils se marient, mais Vincenzo cache un terrible secret...",
+        "genre": "drame",
+        "pochette": "drama.jpg"
+      },
+      {
+        "id": 46,
+        "directeur": "Vincent Sherman",
+        "titre": "Ce monde à part",
+        "acteurs": [
+          "Paul Newman", 
+          "Barbara Rush", 
+          "Alexis Smith", 
+          "Robert Vaughn", 
+          "Brian Keith",
+          "Billie Burke", 
+          "Otto Kruger", 
+          "Robert Douglas", 
+          "John Williams"
+        ],
+        "dateSortie": 1959,
+        "resume": "L'ascension du jeune avocat Anthony Lawrence sur l'échelle sociale l'oblige à faire face à des dilemnes éthiques et émotionnels. Ses compétences personnelles et professionnelles sont sans cesse testées alors qu'il s'efforce à la fois de répondre aux désirs de sa fiancée, aux attentes de ses collègues et de défendre devant la cour son ami Chester, accusé de meurtre.",
+        "genre": "drame",
+        "pochette": "drama.jpg"
+      },
+      {
+        "id": 47,
+        "directeur": "Richard Brooks",
+        "titre": "La Chatte sur un toit brûlant",
+        "acteurs": [
+          "Elizabeth Taylor", 
+          "Paul Newman", 
+          "Burl Ives", 
+          "Jack Carson", 
+          "Judith Anderson"
+        ],
+        "dateSortie": 1958,
+        "resume": "Après le suicide de son meilleur ami, Brick se réfugie dans l'alcool et s'éloigne de sa femme, Maggie, qu'il soupçonne d'être la cause du drame.",
+        "genre": "drame",
+        "pochette": "drama.jpg"
+      },
+      {
+        "id": 48,
+        "directeur": "Martin Ritt",
+        "titre": "Les Feux de l'été",
+        "acteurs": [
+          "Paul Newman", 
+          "Joanne Woodward", 
+          "Angela Lansbury", 
+          "Orson Welles", 
+          "Anthony Franciosa", 
+          "Lee Remick", 
+          "William Walker"
+        ],
+        "dateSortie": 1958,
+        "resume": "Ben Quick fuit la mauvaise réputation dont il est l'objet à cause de son père pyromane. Il échoue au sein de la famille Varner pour qui il commence à travailler comme métayer.",
+        "genre": "drame",
+        "pochette": "drama.jpg"
+      },
+      {
+        "id": 49,
+        "directeur": "George Roy Hill",
+        "titre": "Butch Cassidy et le Kid",
+        "acteurs": [
+          "Robert Redford", 
+          "Paul Newman", 
+          "Katharine Ross", 
+          "Strother Martin"
+        ],
+        "dateSortie": 1970,
+        "resume": "Au début du XXe siècle, Butch Cassidy et son ami Sundance Kid pillent les trains et les banques. Les deux malfrats élaborent un plan ingénieux qui leur permet de dévaliser deux fois le même convoi, mais les autorités sont sur leur piste. Le Kid retrouve son amie, Etta Place, une jeune institutrice, et Butch Cassidy improvise avec elle un brillant numéro à bicyclette. La seconde attaque de l'Union Pacific oblige les deux complices et Etta à abandonner leurs amis et à fuir en Bolivie. Là, ils poursuivent leurs exploits criminels et ce, malgré la défection de la jeune femme, effrayée par la tournure que prennent les événements.",
+        "genre": "western",
+        "pochette": "western.jpg"
+      },
+      {
+        "id": 50,
+        "directeur": "Sidney Lumet",
+        "titre": "Le Verdict",
+        "acteurs": [
+          "Paul Newman", 
+          "Charlotte Rampling", 
+          "James Mason", 
+          "Jack Warden", 
+          "Milo O'Shea"
+        ],
+        "dateSortie": 1982,
+        "resume": "Avocat déchu et alcoolique, Frank Galvin racole ses clients dans les salons funéraires jusqu'au jour où il accepte de travailler sur l'affaire d'une jeune femme victime d'une erreur médicale et plongée dans le coma. Ce dossier qui risque de provoquer un scandale et de nuire à la réputation de l'hôpital, va être pour l'avocat l'occasion de retrouver sa dignité... ou de la perdre définitivement.",
+        "genre": "drame",
+        "pochette": "drama.jpg"
+      },
+      {
+        "id": 51,
+        "directeur": "Martin Ritt",
+        "titre": "Le Plus Sauvage d'entre tous",
+        "acteurs": [
+          "Paul Newman", 
+          "Patricia Neal", 
+          "Brandon deWilde", 
+          "Melvyn Douglas", 
+          "Whit Bissell"
+        ],
+        "dateSortie": 1963,
+        "resume": "Hud est un jeune homme sans complexe et sans principes, que son père Homer ne tient pas en haute estime. Dans leur foyer, se trouvent aussi le neveu et petit-fils, Lon, qui admire son oncle. La seule femme de la maisonnée est Alma, la gouvernante. Arrive une catastrophe : le bétail semble être contaminé par une maladie contagieuse ; comment vont réagir les uns et les autres ?",
+        "genre": "drame",
+        "pochette": "drama.jpg"
+      },
+      {
+        "id": 52,
+        "directeur": "Martin Ritt",
+        "titre": "Hombre",
+        "acteurs": [
+          "Paul Newman", 
+          "Diane Cilento", 
+          "Barbara Rush", 
+          "Richard Boone", 
+          "Fredric March", 
+          "Martin Balsam"
+        ],
+        "dateSortie": 1967,
+        "resume": "'Hombre' est un blanc qui a été élevé par une tribu indienne. Pour se rendre à Bisbee, afin de débuter une nouvelle vie, il prend une diligence. Dans celle-ci, il y a de nombreux passager notamment Cicero Grimes, un aventurier peu recommandable. En effet, il est complice d'une attaque qui se produit pendant le trajet ! Seul 'Hombre' peut arrêter cela..",
+        "genre": "western",
+        "pochette": "western.jpg"
+      },
+      {
+        "id": 53,
+        "directeur": "Otto Preminger",
+        "titre": "Exodus",
+        "acteurs": [
+          "Paul Newman",
+          "Eva Marie Saint", 
+          "Ralph Richardson", 
+          "Peter Lawford", 
+          "Lee J. Cobb", 
+          "Sal Mineo", 
+          "Hugh Griffith"
+        ],
+        "dateSortie": 1960,
+        "resume": "En 1947, à Chypre, des milliers de réfugiés juifs, en chemin pour la Terre Sainte, sont arrêtés par les Anglais et parqués dans des camps. Ari Ben Canaann, un résistant, s’indigne de ces arrestations et prend la tête d’un périple qui les mènera jusqu’aux frontières de la Palestine. A bord d’un vieux bateau, l’Exodus, le héros et ses passagers affrontent tous les dangers dans un seul but : la liberté.",
+        "genre": "aventure",
+        "pochette": "aventure.jpg"
+      },
+      {
+        "id": 54,
+        "directeur": "Arthur Penn",
+        "titre": "Le Gaucher",
+        "acteurs": [
+          "Paul Newman",
+          "John Dehner", 
+          "James Best", 
+          "Lita Milan", 
+          "Hurd Hatfield"
+        ],
+        "dateSortie": 1958,
+        "resume": "Un riche fermier adopte un jeune orphelin, William Bonney, surnommé Billy le Kid. Mais peu de temps après, lors d'une attaque, le fermier est assassiné par quatre hommes. Dès lors, Billy jure de venger son père adoptif et abat deux des malfaiteurs. Son ami, Pat Garrett, tente de le dissuader d'assouvir sa soif de vengeance, mais Billy tient à retrouver les deux autres responsables...",
+        "genre": "western",
+        "pochette": "western.jpg"
+      },
+      {
+        "id": 55,
+        "directeur": "John Huston",
+        "titre": "Juge et Hors-la-loi",
+        "acteurs": [
+          "Paul Newman",
+          "John Huston", 
+          "Ava Gardner", 
+          "Victoria Principal", 
+          "Tab Hunter", 
+          "Jacqueline Bisset"
+        ],
+        "dateSortie": 1972,
+        "resume": "Recherché pour vol, Roy Bean se refugie dans la petite ville de Vinegaroon ou il est battu et laisse pour mort. Secouru par une jeune Mexicaine, Maria Elena, il revient en ville, elimine ses agresseurs et se proclame juge, decide a faire regner la loi et l'ordre.",
+        "genre": "western",
+        "pochette": "western.jpg"
+      },
+      {
+        "id": 56,
+        "directeur": "John Huston",
+        "titre": "Le Piège",
+        "acteurs": [
+          "Paul Newman",
+          "Dominique Sanda", 
+          "James Mason", 
+          "Harry Andrews", 
+          "Ian Bannen"
+        ],
+        "dateSortie": 1973,
+        "resume": "Sur les ordres de Mackintosh, le chef du contre-espionnage, Rearden vole un lot de diamants. Dénoncé, il est arrêté et condamné à 20 ans de réclusion. Mais un groupe occulte, les Scarperers, organise son évasion, et celle de Slade, un agent de l'Est. Les deux fuyards sont placés sous bonne garde dans une demeure en Irlande. Rearden parvient à s'enfuir. Les Scarperers se lancent alors à sa poursuite. Ils connaissent maintenant la réelle mission de l'agent...",
+        "genre": "thriller",
+        "pochette": "thriller.jpg"
+      },
+      {
+        "id": 57,
+        "directeur": "Robert Rossen",
+        "titre": "L'Arnaqueur",
+        "acteurs": [
+          "Paul Newman",
+          "Piper Laurie", 
+          "Jackie Gleason", 
+          "George C. Scott", 
+          "Jake LaMotta", 
+          "Michael Constantine"
+        ],
+        "dateSortie": 1961,
+        "resume": "Eddie Felson est un brillant joueur de billard mais également un escroc à la petite semaine qui se sert de son talent pour plumer les joueurs débutants. Il se rend à New York afin de réaliser son rêve, battre le légendaire champion Minnesota Fats. Après une nuit de combat acharné, Minnesota finit par l’emporter. Désormais fauché, Eddie n’a plus qu’une idée en tête, prendre sa revanche. Il fait la rencontre de Sarah, une étudiante alcoolique qui le suivra tout au long de son périple, et de Bert Gordon. Ce dernier accepte de devenir son coach et de lui apprendre les ficelles.",
+        "genre": "drame",
+        "pochette": "drama.jpg"
+      },
+      {
+        "id": 58,
+        "directeur": "Jack Smight",
+        "titre": "Evasion sur commande",
+        "acteurs": [
+          "Paul Newman",
+          "Sylva Koscina", 
+          "Tom Bosley", 
+          "Andrew Duggan", 
+          "Vito Scotti", 
+          "Charles Gray", 
+          "Jacques Roux", 
+          "John Williams"
+        ],
+        "dateSortie": 1968,
+        "resume": "Cinq généraux alliés sont capturés en Italie pendant la Seconde Guerre Mondiale. L'un d'eux, Harry Frigg monte un plan d'évasion qu'il est prêt à mettre en place quand il rencontre la Comtesse...",
+        "genre": "guerre",
+        "pochette": "war.jpg"
+      },
+      {
+        "id": 59,
+        "directeur": "Martin Scorsese",
+        "titre": "La Couleur de l'argent",
+        "acteurs": [
+          "Paul Newman",
+          "Tom Cruise", 
+          "Mary Elizabeth Mastrantonio", 
+          "John Turturro", 
+          "Richard Price", 
+          "Forest Whitaker", 
+          "Iggy Pop"
+        ],
+        "dateSortie": 1986,
+        "resume": "Un champion de billard, ex-arnaqueur invétéré, est devenu représentant en alcools. Quand il fait la connaissance d'un jeune joueur de billard prometteur, les vieux démons remontent à la surface...",
+        "genre": "drame",
+        "pochette": "drama.jpg"
+      },
+      {
+        "id": 60,
+        "directeur": "Delmer Daves",
+        "titre": "Les Passagers de la nuit",
+        "acteurs": [
+          "Lauren Bacall",
+          "Humphrey Bogart", 
+          "Agnes Moorehead", 
+          "Clifton Young", 
+          "Tom D'Andrea"
+        ],
+        "dateSortie": 1947,
+        "resume": "Emprisonné à San Quentin pour un crime - le meurtre de sa femme - qu'il n'a pas commis, Vincent Parry réussit à s'évader. Il rencontre, après avoir été pris en auto-stop par un certain Baker, Irene Jansen qui l'héberge à San Francisco. Vincent découvre que le père de la jeune femme a été injustement condamné et exécuté.",
+        "genre": "thriller",
+        "pochette": "thriller.jpg"
+      },
+      {
+        "id": 61,
+        "directeur": "Jack Smight",
+        "titre": "Détective privé",
+        "acteurs": [
+          "Lauren Bacall",
+          "Paul Newman", 
+          "Julie Harris", 
+          "Shelley Winters", 
+          "Robert Webber", 
+          "Jacqueline deWit"
+        ],
+        "dateSortie": 1966,
+        "resume": "La richissime Elaine Sampson demande au détective privé Lew Harper d'enquêter sur la disparition de son mari Ralph. Très vite Harper constate que Ralph fréquentait des gens douteux, et que les suspects sont nombreux.",
+        "genre": "policier",
+        "pochette": "policier.jpg"
+      },
+      {
+        "id": 62,
+        "directeur": "Jack Lee Thompson",
+        "titre": "Aux frontières des Indes",
+        "acteurs": [
+          "Lauren Bacall",
+          "Kenneth More", 
+          "Herbert Lom", 
+          "I. S. Johar", 
+          "Wilfrid Hyde‑White", 
+          "Ian Hunter"
+        ],
+        "dateSortie": 1959,
+        "resume": "Alors que les musulmans se révoltent et exécutent le Maharadjah, le prince héritier est envoyé à Kalapur afin de rester en sécurité. Il est escorté par Scott, un capitaine anglais et des membres de son entourage proche pour traverser le pays en pleine révolution. Le chemin est semé d'embûches et un membre de la troupe est en réalité un traître, représentant une menace pour la vie de l'enfant.",
+        "genre": "aventure",
+        "pochette": "aventure.jpg"
+      },
+      {
+        "id": 63,
+        "directeur": "Elia Kazan",
+        "titre": "Sur les quais",
+        "acteurs": [
+          "Marlon Brando",
+          "Eva Marie Saint", 
+          "Karl Malden", 
+          "Rod Steiger", 
+          "Lee J. Cobb"
+        ],
+        "dateSortie": 1954,
+        "resume": "Un jeune docker, Terry Malloy, ancien boxeur, est manipulé par son frère, avocat du syndicat des dockers dirigé par le crapuleux Johnny Friendly. Il assiste sans intervenir au meurtre d'un employé qui voulait dénoncer les méthodes illégales de ce dernier. Malloy se retrouve devant un cas de conscience...",
+        "genre": "drame",
+        "pochette": "drama.jpg"
+      },
+      {
+        "id": 64,
+        "directeur": "Arthur Hiller",
+        "titre": "Love Story",
+        "acteurs": [
+          "Ali MacGraw",
+          "Ryan O'Neal", 
+          "Tommy Lee Jones", 
+          "Ray Milland", 
+          "John Marley"
+        ],
+        "dateSortie": 1970,
+        "resume": "Un homme issu d'une famille aisée, étudiant en droit à Harvard, rencontre une jeune fille à la bibliothèque où elle travaille pour payer ses études. Malgré le fait qu'ils appartiennent à des classes sociales différentes leur amour devient plus fort que tout mais sera soumis aux épreuves de la vie...",
+        "genre": "drame",
+        "pochette": "drama.jpg"
+      },
+      {
+        "id": 65,
+        "directeur": "Sam Peckinpah",
+        "titre": "Le Convoi",
+        "acteurs": [
+          "Ali MacGraw",
+          "Kris Kristofferson", 
+          "Ernest Borgnine", 
+          "Burt Young", 
+          "Madge Sinclair"
+        ],
+        "dateSortie": 1978,
+        "resume": "En Arizona, des camionneurs forment un convoi contestataire par solidarité avec Rubber Duck, l’un des leurs en butte aux persécutions du shérif Wallace. Après le passage au Nouveau-Mexique, les forces de l'ordre se déploient pour disperser les manifestants, mais la résistance s'organise en même temps que l'affaire prend de l'ampleur.",
+        "genre": "drame",
+        "pochette": "drama.jpg"
+      },
+      {
+        "id": 66,
+        "directeur": "Alfred Hitchcock",
+        "titre": "Soupçons",
+        "acteurs": [
+          "Joan Fontaine",
+          "Cary Grant", 
+          "Nigel Bruce", 
+          "May Whitty", 
+          "Cedric Hardwicke", 
+          "Leo G. Carroll"
+        ],
+        "dateSortie": 1941,
+        "resume": "Parce qu'il lui ment trop souvent, Lina, la jeune épouse de Johnnie, se met à le soupçonner d'être un assassin et s'imagine qu'il veut la tuer.",
+        "genre": "policier",
+        "pochette": "policier.jpg"
+      },
+      {
+        "id": 67,
+        "directeur": "Howard Hawks",
+        "titre": "L'Impossible monsieur Bébé",
+        "acteurs": [
+          "Katharine Hepburn",
+          "Cary Grant", 
+          "Charles Ruggles", 
+          "Barry Fitzgerald", 
+          "Walter Catlett"
+        ],
+        "dateSortie": 1938,
+        "resume": "David Huxley, un paléontologue, est fiancé à sa secrétaire Alice. Susan, rencontrée lors d'une partie de golf, est également sensible au charme félin de David. Hélas, M. Bébé ne quitte pas la jeune femme d'une semelle. Enfin, d'une patte, car M. Bébé est un léopard...",
+        "genre": "comedie",
+        "pochette": "comedie.jpg"
+      },
+      {
+        "id": 68,
+        "directeur": "George Stevens",
+        "titre": "La Justice des hommes",
+        "acteurs": [
+          "Cary Grant", 
+          "Jean Arthur",
+          "Ronald Colman", 
+          "Edgar Buchanan", 
+          "Glenda Farrell"
+        ],
+        "dateSortie": 1942,
+        "resume": "Accusé d'un crime qu'il n'a pas commis, Léopold s'évade de prison et trouve refuge chez son  amie d'enfance Nora. Elle le fait passer pour son nouveau jardinier afin de ne pas éveiller les soupçons de Michael, juriste et colocataire de la jeune femme. Ce dernier va cependant vite se rendre compte de la supercherie mais va décider de venir en aide au fuyard, afin de prouver son innocence.",
+        "genre": "comedie",
+        "pochette": "comedie.jpg"
+      },
+      {
+        "id": 69,
+        "directeur": "Frank Capra",
+        "titre": "Arsenic et vieilles dentelles",
+        "acteurs": [
+          "Cary Grant", 
+          "Raymond Massey",
+          "Peter Lorre", 
+          "Priscilla Lane", 
+          "Josephine Hull"
+        ],
+        "dateSortie": 1944,
+        "resume": "Deux exquises vieilles dames font disparaître de vieux messieurs. Mortimer, leur neveu découvre l'affaire. Mais, l'affaire se corse pour lui quand il découvre que ses cousins, l'un gentil, l'autre méchant, sont également mêlés à l'histoire et que les cadavres s'amoncellent dans la cave.",
+        "genre": "comedie",
+        "pochette": "comedie.jpg"
+      },
+      {
+        "id": 70,
+        "directeur": "Alfred Hitchcock",
+        "titre": "Les Enchaînés",
+        "acteurs": [
+          "Ingrid Bergman",
+          "Cary Grant", 
+          "Claude Rains", 
+          "Leopoldine Konstantin", 
+          "Louis Calhern"
+        ],
+        "dateSortie": 1946,
+        "resume": "Alicia, fille d'un espion nazi, mène une vie dépravée. Devlin lui propose de travailler pour les Etats-Unis afin de réhabiliter son nom. Elle épouse donc un ancien ami de son père afin de l'espionner. Devlin et elle s'aiment sans oser se l'avouer, attendant chacun que l'autre fasse le premier pas. Lorsque le rôle qu'elle tient est découvert, son mari décide de l'empoisonner.",
+        "genre": "policier",
+        "pochette": "policier.jpg"
+      },
+      {
+        "id": 71,
+        "directeur": "Alfred Hitchcock",
+        "titre": "Le Rideau déchiré",
+        "acteurs": [
+          "Paul Newman",
+          "Julie Andrews", 
+          "Lila Kedrova", 
+          "Wolfgang Kieling", 
+          "Ludwig Donath"
+        ],
+        "dateSortie": 1966,
+        "resume": "Un chercheur en physique nucléaire, Armstrong, rompt sans explications avec sa fiancée et assistante, Sarah, avant de se rendre à un congrès à Copenhague. Intriguée, elle le suit et découvre qu'il part en réalité pour Berlin-Est. Décidée a comprendre, elle prend le même avion et se rend compte que le professeur semble avoir choisi de vivre a l'Est...",
+        "genre": "policier",
+        "pochette": "policier.jpg"
+      },
+      {
+        "id": 72,
+        "directeur": "George Cukor",
+        "titre": "Une Étoile est née",
+        "acteurs": [
+          "Judy Garland",
+          "James Mason", 
+          "Jack Carson", 
+          "Charles Bickford", 
+          "Tommy Noonan"
+        ],
+        "dateSortie": 1954,
+        "resume": "Norman Maine, acteur vieillissant et alcoolique, décèle en Esther Blodgett, une jeune chanteuse, un talent qui ne demande qu'à s'épanouir. Mais Norman, une fois marié à Esther, étoile naissante de la comédie musicale, supporte mal le succès de sa femme et se remet à boire...",
+        "genre": "comédie musicale",
+        "pochette": "musical.jpg"
+      },
+      {
+        "id": 73,
+        "directeur": "Stanley Kubrick",
+        "titre": "Lolita",
+        "acteurs": [
+          "Sue Lyon",
+          "James Mason", 
+          "Peter Selers", 
+          "Shelley Winter", 
+          "Marianne Stone"
+        ],
+        "dateSortie": 1962,
+        "resume": "Durant l'été, dans la petite ville de Ramslade, Humbert Humbert, un professeur de lettres divorcé et séduisant, loue une chambre dans la maison de Charlotte Haze, une matrone éprise de culture. Celle-ci essaie de séduire Humbert, mais ce dernier se montre beaucoup plus attiré par la juvénile Lolita.",
+        "genre": "drame",
+        "pochette": "drama.jpg"
+      },
+      {
+        "id": 74,
+        "directeur": "Henry Levin",
+        "titre": "Voyage au centre de la Terre",
+        "acteurs": [
+          "James Mason", 
+          "Pat Boone", 
+          "Diane Baker", 
+          "Arlene Dahl"
+        ],
+        "dateSortie": 1960,
+        "resume": "Le professeur Oliver Lindenbrook, convaincu que l'explorateur Arne Saknussem, porté disparu, est parvenu au centre de la Terre, quitte Edimbourg avec ses camarades Alec McEwen, Jenny, Carla Goetaborg et Hans Belker. Ensemble, ils entreprennent un extraordinaire périple dans les profondeurs de la Terre. Ils sont poursuivis par le Comte Saknussen, héritier de l'explorateur disparu qui souhaite bénéficier des retombées de la découverte de son ancêtre.",
+        "genre": "aventure",
+        "pochette": "aventure.jpg"
+      },
+      {
+        "id": 75,
+        "directeur": "Richard Fleischer",
+        "titre": "Vingt mille lieues sous les mers",
+        "acteurs": [
+          "Kirk Douglas",
+          "James Mason", 
+          "Paul Lukas", 
+          "Peter Lorre", 
+          "Robert J. Wilke"
+        ],
+        "dateSortie": 1955,
+        "resume": "En 1868, un monstre mystérieux s'acharne sur les bateaux naviguant dans l'océan Pacifique. Alarmé par ce phénomène, le gouvernement américain arme une frégate. Ned, un fabuleux harponneur, Aronnax, un homme de science et son assistant partent à la recherche du supposé monstre marin...",
+        "genre": "aventure",
+        "pochette": "aventure.jpg"
+      },
+      {
+        "id": 76,
+        "directeur": "Henry Hathaway",
+        "titre": "Le Renard du désert",
+        "acteurs": [
+          "James Mason",
+          "Jessica Tandy", 
+          "Richard Boone", 
+          "Luther Adler", 
+          "Eduard Franz"
+        ],
+        "dateSortie": 1951,
+        "resume": "Après son échec en Afrique du Nord, où ses talents de tacticien lui avaient valu le surnom de 'Renard du Désert', le maréchal allemand Erwin Rommel retourne en Allemagne. Le succès du débarquement allié en Normandie lui ayant fait perdre la foi dans la victoire finale de l'Axe, il décide alors d'adhèrer à un complot contre Hitler. Ne pouvant cependant participer à cette conspiration du fait de blessures, mais mis en cause et inquiété par la Gestapo, à la suite de cet attentat manqué contre le Führer, il choisira de mettre fin à ses jours.",
+        "genre": "guerre",
+        "pochette": "war.jpg"
+      },
+      {
+        "id": 77,
+        "directeur": "Guy Hamilton",
+        "titre": "Meurtre au soleil",
+        "acteurs": [
+          "Peter Ustinov",
+          "Diana Rigg", 
+          "Maggie Smith", 
+          "Jane Birkin", 
+          "James Mason"
+        ],
+        "dateSortie": 1982,
+        "resume": "Le détective Hercule Poirot est dépêché par une compagnie d’assurances pour retrouver un bijou de grande valeur appartenant à Sir Horace Blatt. L’auteur de ce délit ne serait autre que son ancienne maîtresse, Arlena, partie convoler avec un autre homme il y a quelques mois. Sa piste mène Poirot jusqu’à un hôtel de luxe de la côte adriatique où séjournent une dizaine de visiteurs parmi lesquels son nouveau mari et son amant du moment. Un jour, Arlena est retrouvée assassinée sur la plage. Hercule Poirot va mener l’enquête parmi ces gens de la bonne société qui avaient tous une bonne raison de la tuer. Seul bémol : chacun a un alibi en béton…",
+        "genre": "policier",
+        "pochette": "policier.jpg"
+      },
+      {
+        "id": 78,
+        "directeur": "Compton Bennett",
+        "titre": "Le Septième voile",
+        "acteurs": [
+          "James Mason",
+          "Ann Todd", 
+          "Herbert Lom", 
+          "Hugh McDermott", 
+          "Albert Lieven"
+        ],
+        "dateSortie": 1945,
+        "resume": "Une nuit d'été Francesca Cunningham, autrefois pianniste mondialement renommée, s'échape de sa chambre d'hôpital et tente de se suicider en sautant d'un pont. Elle est sauvée et ramenée à l'hôpital où elle suit une thérapie avec le Dr Larsen. Celui-ci veut absolument connaître les évènements et les personnes qui l'ont conduite à attenter à sa vie. Il fait parler Francesca de son passé, où elle se trouvait sans amis, forcée à travailler son piano 5 à 6 heures par jour et recluse par l'homme qu'elle aimait.",
+        "genre": "drame",
+        "pochette": "drama.jpg"
+      },
+      {
+        "id": 79,
+        "directeur": "Joseph L. Mankiewicz",
+        "titre": "Jules César",
+        "acteurs": [
+          "Marlon Brando",
+          "John Gielgud", 
+          "James Mason", 
+          "Deborah Kerr", 
+          "Louis Calhern"
+        ],
+        "dateSortie": 1953,
+        "resume": "La guerre fratricide qui s'engagea après l'assassinat de César entre les partisans de Marc-Antoine et de Brutus.",
+        "genre": "drame",
+        "pochette": "drama.jpg"
+      },
+      {
+        "id": 80,
+        "directeur": "Robert Wise",
+        "titre": "Les Rats du désert",
+        "acteurs": [
+          "Richard Burton",
+          "James Mason", 
+          "Robert Newton"
+        ],
+        "dateSortie": 1953,
+        "resume": "Avril 1941 : Dans sa perspective de s'emparer du Caire et du canal de Suez, l'Afrika Korps de Rommel doit s’emparer de Tobrouk, place stratégique qui lui barre le chemin. Dans l'attente de l'arrivée de renforts, on demande au général australien de tenir deux mois, puis davantage. Le commandement du 9e Bataillon a été confié à MacRoberts, capitaine britannique qui doit résister aux assauts répétés de Rommel.. Parmi ses hommes, celui-ci retrouve Bartlett, son ancien enseignant qui boit pour oublier sa peur",
+        "genre": "guerre",
+        "pochette": "war.jpg"
+      },
+      {
+        "id": 81,
+        "directeur": "Carol Reed",
+        "titre": "L'Homme de Berlin",
+        "acteurs": [
+          "James Mason",
+          "Hildegard Knef", 
+          "Claire Bloom", 
+          "Hilde Sessak", 
+          "Ernst Schröder"
+        ],
+        "dateSortie": 1953,
+        "resume": "Venue rendre visite à son frère Martin à Berlin-Ouest, Susan Mallison rencontre Ivo Kern, un ami de Bettina, l'épouse de Martin. Elle découvre que l'homme est le mari de Bettina que celle-ci croyait mort. Ivo est en réalité un agent d'espionnage de l'Est qui force sa femme à travailler pour lui. Son chef, Halendar décide de kidnapper Bettina pour la forcer à livrer un de ses amis, Olaf Kastner, responsable d'un réseau d'évasion vers l'Ouest. Mais les agents se trompent et ils enlèvent Susan. Tombé amoureux de celle-ci, Ivo décide de la sauver.",
+        "genre": "thriller",
+        "pochette": "thriller.jpg"
+      },
+      {
+        "id": 82,
+        "directeur": "John Guillermin",
+        "titre": "Le Crépuscule des aigles",
+        "acteurs": [
+          "George Peppard",
+          "Ursula Andress", 
+          "James Mason", 
+          "Jeremy Kemp", 
+          "Karl-Michael Vogler"
+        ],
+        "dateSortie": 1966,
+        "resume": "Au coeur de la première guerre mondiale, un jeune pilote allemand ne recule devant rien, y compris séduire la femme de son général, pour obtenir la 'Blue Max', plus haute des distinctions militaires.",
+        "genre": "guerre",
+        "pochette": "war.jpg"
+      },
+      {
+        "id": 83,
+        "directeur": "William K. Howard",
+        "titre": "L'Invincible Armada",
+        "acteurs": [
+          "Vivien Leigh",
+          "Olivah", 
+          "Flora Robson", 
+          "Leslie Banks", 
+          "Raymond Massey"
+        ],
+        "dateSortie": 1937,
+        "resume": "En 1587, l'Angleterre est menacée par la puissance grandissante de l'Espagne. La reine Elizabeth feint d'entretenir de bonnes relations avec le roi Philippe, tout en soutenant l'action de sir Francis Drake, qui fait la course aux navires espagnols. Un jeune noble Mickael Ingolby doit combattre les espagnols au risque de sa vie ce qui déplait fort à une suivante de la reine Cynthia qui aime Mickael",
+        "genre": "aventure",
+        "pochette": "aventure.jpg"
+      },
+      {
+        "id": 84,
+        "directeur": "John Huston",
+        "titre": "Les Désaxés",
+        "acteurs": [
+          "Marilyn Monroe",
+          "Clark Gable", 
+          "Montgomery Clift", 
+          "Eli Wallach", 
+          "Thelma Ritter"
+        ],
+        "dateSortie": 1960,
+        "resume": "Années 50, Reno, Nevada, capitale de l’industrie matrimoniale et des machines à sous. Une jeune divorcée se lie d'amitié avec un groupe de « misfits » (« désaxés ») composé d'un cow-boy vieillissant, d'un mécanicien au coeur brisé et d'un cavalier de rodéo usé par le temps. Le petit groupe part chasser le mustang sauvage...  ",
+        "genre": "drame",
+        "pochette": "drama.jpg"
+      },
+      {
+        "id": 85,
+        "directeur": "Elia Kazan",
+        "titre": "La Poupée de Chair",
+        "acteurs": [
+          "Eli Wallach", 
+          "Karl Malden", 
+          "Rip Torn", 
+          "Caroll Baker"
+        ],
+        "dateSortie": 1956,
+        "resume": "Archie Lee Meighan, aristocrate ruiné, vit avec sa femme-enfant Baby Doll dans les restes de sa vaste demeure. Si le mariage est effectif, il n'est pas encore consommé. La petite poupée de chair intéresse également un certain Vacarro, qui a compromis Archie Lee dans une affaire crapuleuse.",
+        "genre": "drame",
+        "pochette": "drama.jpg"
+      },
+      {
+        "id": 86,
+        "directeur": "Roman Polanski",
+        "titre": "The Ghost Writer",
+        "acteurs": [
+          "Erwan McGregor",
+          "Pierce Brosnan", 
+          "Olivia Williams", 
+          "Eli Wallach", 
+          "James Belushi"
+        ],
+        "dateSortie": 2010,
+        "resume": "The Ghost, un ' écrivain - nègre '' à succès est engagé pour terminer les mémoires de l'ancien Premier ministre britannique, Adam Lang. Mais dès le début de cette collaboration, le projet semble périlleux : une ombre plane sur le décès accidentel du précédent rédacteur, ancien bras droit de Lang...",
+        "genre": "thriller",
+        "pochette": "thriller.jpg"
+      },
+      {
+        "id": 87,
+        "directeur": "John Ford",
+        "titre": "La Conquête de l'Ouest",
+        "acteurs": [
+          "James Stewart",
+          "John Wayne", 
+          "Caroll Baker", 
+          "Debbie Reynolds", 
+          "Henry Fonda", 
+          "Gregory Peck", 
+          "George Peppard", 
+          "Eli Wallach", 
+          "Karl Malden", 
+          "Lee J. Cobb", 
+          "Richard Widmark", 
+          "Spencer Tracy"
+        ],
+        "dateSortie": 1962,
+        "resume": "La conquête de l'Ouest nous est racontée à travers l'histoire d'une famille de pionniers qui traversa les rivières, les plaines, mais aussi à travers la guerre de sécession et l'installation du chemin de fer. Ils rencontrent sur leur chemin des brigands, des bandits, et aussi des indiens...",
+        "genre": "western",
+        "pochette": "western.jpg"
+      },
+      {
+        "id": 88,
+        "directeur": "Jack Lee Thompson",
+        "titre": "L'Or de Mackenna",
+        "acteurs": [
+          "Gregory Peck",
+          "Julie Newmar", 
+          "Omar Sharif", 
+          "Telly Savalas", 
+          "Camille Sparv", 
+          "Edward G. Robinson", 
+          "Eli Wallach", 
+          "Lee J. Cobb"
+        ],
+        "dateSortie": 1969,
+        "resume": "Un hors-la-loi, Colorado, kidnappe le shérif MacKenna, censé seul connaître l'emplacement d'un gisement d'or appartenant aux Apaches. La nouvelle se répand et éveille les convoitises, et c'est bientôt une véritable petite troupe qui part à la recherche de l'or légendaire. Mais l'entrée en territoire indien leur réserve bien des difficultés...",
+        "genre": "western",
+        "pochette": "western.jpg"
+      },
+      {
+        "id": 89,
+        "directeur": "William Wyler",
+        "titre": "Comment voler un million de dollars",
+        "acteurs": [
+          "Audrey Hepburn",
+          "Peter O'Toole", 
+          "Eli Wallach", 
+          "Hugh Griffith", 
+          "Charles Boyer", 
+          "Jacques Marin"
+        ],
+        "dateSortie": 1966,
+        "resume": "Charles Bonnet possède une impressionnante collection d'art, dont il vend parfois quelques pièces à d'autres amateurs. Seul problème, les oeuvres sont en fait d'ingénieuses imitations. Par défi et orgueil, il accepte de prêter une somptueuse statuette à un musée : la Vénus de Cellini. Ce qu'il ignore, c'est que la fameuse statuette va faire l'objet d'une expertise. Sa fille, inquiète, décide de régler l'affaire à l'aide d'un séduisant inconnu, qu'elle prend pour un voleur mais qui est en réalité un détective privé.",
+        "genre": "policier",
+        "pochette": "policier.jpg"
+      },
+      {
+        "id": 90,
+        "directeur": "Giuseppe Colizzi",
+        "titre": "Les Quatre de l'Ave Maria",
+        "acteurs": [
+          "Terence Hill   ",
+          "Bud Spencer", 
+          "Eli Wallach", 
+          "Brock Peters", 
+          "Kevin McCarthy"
+        ],
+        "dateSortie": 1969,
+        "resume": "Cat Stevens et Hutch Bessy sont de retour. Après avoir voler l'or de la banque d'El Paso, les deux cow-boys prennent la fuite. Malheureusement pour eux, le brigand Cacopoulos, à la demande du directeur de la banque, se lance à leur poursuite pour récupérer le butin...",
+        "genre": "western",
+        "pochette": "western.jpg"
+      },
+      {
+        "id": 91,
+        "directeur": "Mervyn LeRoy",
+        "titre": "Le Petit César",
+        "acteurs": [
+          "Edward G. Robinson",
+          "Douglas Fairbanks Jr.", 
+          "Glenda Farrell", 
+          "George E. Stone", 
+          "Sidney Blackmer"
+        ],
+        "dateSortie": 1969,
+        "resume": "L'ascension d'un petit mafieux, devenu l'un des plus gros bonnets de la pègre locale.",
+        "genre": "policier",
+        "pochette": "policier.jpg"
+      },
+      {
+        "id": 92,
+        "directeur": "Richard Fleischer",
+        "titre": "Soleil Vert",
+        "acteurs": [
+          "Charlton Eston",
+          "Edward G. Robinson", 
+          "Leigh Taylor-Young", 
+          "Chuck Connors", 
+          "Joseph Cotten", 
+          "Brock Peters"
+        ],
+        "dateSortie": 1973,
+        "resume": "En 2022, les hommes ont epuisé les ressources naturelles. Seul le soleil vert, sorte de pastille, parvient à nourrir une population miséreuse qui ne sait pas comment créer de tels aliments. Omniprésente et terriblement répressive, la police assure l'ordre. Accompagné de son fidèle ami, un policier va découvrir, au péril de sa vie, l'effroyable réalité de cette société inhumaine.",
+        "genre": "science fiction",
+        "pochette": "sciencefiction.jpg"
+      },
+      {
+        "id": 93,
+        "directeur": "Billy Wilder",
+        "titre": "Assurance sur la mort",
+        "acteurs": [
+          "Raymond Chandler",
+          "Edward G. Robinson", 
+          "Barbara Stanwick", 
+          "Fred MacMurray", 
+          "Jean Heather"
+        ],
+        "dateSortie": 1944,
+        "resume": "Walter Neff, un employé d’une compagnie d’assurances, tombe amoureux de sa cliente Phyllis Dietrichson qui réussit à le convaincre d’échafauder avec elle un plan pour supprimer son mari encombrant et violent et ainsi partager avec elle l’assurance-vie de ce dernier. Walter Neff, dont le meilleur ami Barton Keyes est un fin limier qui enquête sur les fraudes à l’assurance dans la même compagnie que lui, pense avoir trouver le plan parfait pour faire passer un meurtre pour un accident. Mais les choses ne se termineront pas comme prévu.",
+        "genre": "policier",
+        "pochette": "policier.jpg"
+      },
+      {
+        "id": 94,
+        "directeur": "Cecil B. DeMille",
+        "titre": "Les Dix Commandements",
+        "acteurs": [
+          "Charlton Eston",
+          "Yul Brinner", 
+          "Anne Baxter", 
+          "Edward G. Robinson", 
+          "Yvonne de Carlo", 
+          "John Carradine", 
+          "Robert Vaughn"
+        ],
+        "dateSortie": 1956,
+        "resume": "Evocation de la vie de Moïse, sauvé à sa naissance par la propre fille du pharaon, qui avait décidé de mettre à mort tous les nouveaux-nés hébreux, de peur que les fils d'Israël ne deviennent plus nombreux que les Egyptiens.",
+        "genre": "aventure",
+        "pochette": "aventure.jpg"
+      },
+      {
+        "id": 95,
+        "directeur": "Fritz Lang",
+        "titre": "La Femme au portrait",
+        "acteurs": [
+          "Edward G. Robinson", 
+          "Joan Bennett", 
+          "Dan Duryea", 
+          "Raymond Massey", 
+          "Edmund Breon"
+        ],
+        "dateSortie": 1944,
+        "resume": "Un soir, en sortant de son club, le professeur Wanley rencontre la jeune fille, Alice, dont le portrait dans la vitrine voisine le fascinait depuis longtemps. Invité par elle, ce dernier se trouve en présence d'un inconnu qui s'en prend à Alice puis à lui. Wanley, en état de légitime violence, est obligé de le poignarder.",
+        "genre": "policier",
+        "pochette": "policier.jpg"
+      },
+      {
+        "id": 96,
+        "directeur": "Michael Curtiz",
+        "titre": "Le Dernier Round",
+        "acteurs": [
+          "Edward G. Robinson", 
+          "Bette Davis", 
+          "Humphrey Bogart", 
+          "Wayne Morris"
+        ],
+        "dateSortie": 1937,
+        "resume": "Le manager de boxe Nick Donati pense avoir trouvé un futur champion en la personne du 'Kid Galahad'. Il déchante quand ce dernier tombe amoureux de sa soeur.",
+        "genre": "drame",
+        "pochette": "drama.jpg"
+      },
+      {
+        "id": 97,
+        "directeur": "John Ford",
+        "titre": "Les Cheyennes",
+        "acteurs": [
+          "Richard Widmark", 
+          "James Stewart",
+          "karl Malden", 
+          "Carroll Baker", 
+          "Edward G. Robinson", 
+          "Sal Mineo", 
+          "John Carradine"
+        ],
+        "dateSortie": 1964,
+        "resume": "En 1878, refusant de vivre dans une réserve, plusieurs centaines de Cheyennes partent en direction du Dakota où ils espèrent trouver une vie meilleure. Une institutrice fait partie du voyage et s'occupe des enfants. Mais le groupe est poursuivi par le capitaine Archer et ses hommes, chargés de les ramener dans leur camp.",
+        "genre": "western",
+        "pochette": "western.jpg"
+      },
+      {
+        "id": 98,
+        "directeur": "John Ford",
+        "titre": "Le Souffle de la violence",
+        "acteurs": [
+          "Glenn Ford", 
+          "Barbara Stanwick",
+          "Edward G. Robinson", 
+          "Dianne Foster", 
+          "Brian Keith", 
+          "Sal Mineo", 
+          "John Carradine"
+        ],
+        "dateSortie": 1955,
+        "resume": "Lew Wilkison, un riche propriétaire paralysé cherche constamment à chasser les éleveurs des alentours afin d'agrandir son domaine. Il trouve un terrain d'entente avec John Parrish pour racheter son ranch mais quand l'ami de ce dernier, le shérif Martin Kenner, est tué par un homme de main de Wilkison, c'est le début d'une guerre entre ranchers.",
+        "genre": "western",
+        "pochette": "western.jpg"
+      }, 
+      {
+        "id": 99,
+        "directeur": "William Wyler",
+        "titre": "Vacances romaines",
+        "acteurs": [
+          "Audrey Hepburn",
+          "Gregory Peck", 
+          "Eddie Albert" 
+        ],
+        "dateSortie": 1953,
+        "resume": "Princesse soumise à un étouffant protocole, Ann n'a pas une minute de liberté. En déplacement à Rome, elle fait la rencontre du journaliste Joe Bradley qui la reçoit chez lui sans connaître son statut. Sous le charme du jeune homme, Ann profite enfin d'un moment d'évasion avant que sa condition ne la rattrape.",
+        "genre": "romance",
+        "pochette": "romance.jpg"
+      }, 
+      {
+        "id": 100,
+        "directeur": "Billy Wilder",
+        "titre": "Sabrina",
+        "acteurs": [
+          "Audrey Hepburn",
+          "Humphrey Bogart", 
+          "William Holden", 
+          "Walter Hampden", 
+          "Martha Hyer"
+        ],
+        "dateSortie": 1954,
+        "resume": "Dans une fastueuse résidence de Long Island, la délicieuse fille du chauffeur, Sabrina, est amoureuse de David, un fils de la maison, play boy insouciant qui ne la remarque même pas. La jeune femme part étudier à Paris. Deux ans plus tard, elle revient, transformée, et ne tarde pas à séduire David. Mais les parents de ce dernier ne l’entendent pas de cette oreille et chargent leur autre fils, Linus, un homme d’affaires austère, de détourner la belle de son projet…",
+        "genre": "romance",
+        "pochette": "romance.jpg"
+      }, 
+      {
+        "id": 101,
+        "directeur": "King Vidor",
+        "titre": "Guerre et paix",
+        "acteurs": [
+          "Audrey Hepburn",
+          "Henry Fonda", 
+          "Mel Ferrer", 
+          "Anita Ekberg", 
+          "Herbert Lom", 
+          "Barry Jones"
+        ],
+        "dateSortie": 1956,
+        "resume": "Moscou, 1805. La jeune comtesse Natacha est fiancée au prince André et a pour meilleur ami le Prince Pierre. La guerre éclate, André et Pierre partent au front tandis que Natacha décide de s'occuper des malheureux. Mais André est tué au combat. A son retour, Pierre retrouve une jeune femme assagie par les épreuves et la dureté des temps...",
+        "genre": "drame",
+        "pochette": "drama.jpg"
+      }, 
+      {
+        "id": 102,
+        "directeur": "Stanley Donen",
+        "titre": "Drôle de frimousse",
+        "acteurs": [
+          "Audrey Hepburn",
+          "Fred Astaire", 
+          "Kay Thompson", 
+          "Michel Auclair", 
+          "Suzy Parker"
+        ],
+        "dateSortie": 1957,
+        "resume": "Choisie comme égérie par un grand magazine de mode new-yorkais, une libraire de Greenwich Village s’envole vers les podiums parisiens. Mais la jeune femme délaisse vite les sirènes de la mode au profit des discussions philosophiques de Saint-Germain-des-Prés. Le photographe du journal est chargé d’y mettre bon ordre...",
+        "genre": "musical",
+        "pochette": "musical.jpg"
+      }, 
+      {
+        "id": 103,
+        "directeur": "Blake Edwards",
+        "titre": "Diamants sur canapé",
+        "acteurs": [
+          "Audrey Hepburn",
+          "George Peppard", 
+          "Patricia Neal", 
+          "Mickey Rooney", 
+          "Buddy Ebsen"
+        ],
+        "dateSortie": 1961,
+        "resume": "Une croqueuse de diamants cherche à épouser un homme riche alors que son voisin écrivain s'intéresse à elle. La jolie Holly fait également en toute innocence le messager pour un truand notoire. Lorsque la police l'interroge, elle n'a aucun mal à prouver son innocence mais son futur époux, riche planteur brésilien, s'éloigne par peur du scandale. L'écrivain en profite pour consoler la belle.",
+        "genre": "drame",
+        "pochette": "drama.jpg"
+      }, 
+      {
+        "id": 104,
+        "directeur": "George Cukor",
+        "titre": "My fair lady",
+        "acteurs": [
+          "Audrey Hepburn",
+          "Rex Harrison", 
+          "Stanley Holloway", 
+          "Jeremy Brett"
+        ],
+        "dateSortie": 1964,
+        "resume": "Un éminent professeur de phonétique rencontre en 1912, près de Covent Garden à Londres, une fort jolie petite marchande de fleurs. Il décide d'en faire une grande dame.",
+        "genre": "musical",
+        "pochette": "musical.jpg"
+      }, 
+      {
+        "id": 105,
+        "directeur": "Alfred Hitchcock",
+        "titre": "La main au collet",
+        "acteurs": [
+          "Cary Grant", 
+          "Grace Kelly", 
+          "Jessie Royce Landis", 
+          "Brigitte Auber", 
+          "Charles Vanel"
+        ],
+        "dateSortie": 1955,
+        "resume": "John Robie, cambrioleur assagi, goûte une retraite dorée sur la côte d'Azur. Le paysage s'assombrit lorsqu'un voleur, utilisant ses méthodes, le désigne tout naturellement comme le suspect n°1.",
+        "genre": "policier",
+        "pochette": "policier.jpg"
+      }, 
+      {
+        "id": 106,
+        "directeur": "Robert Aldrich",
+        "titre": "Bronco Apache",
+        "acteurs": [
+          "John Dehner", 
+          "Burt Lancaster", 
+          "Jean Peters", 
+          "Charles Bronson", 
+          "John McIntire"
+        ],
+        "dateSortie": 1954,
+        "resume": "Après la défaite de Géronimo, l'Indien Massaï s'échappe du train qui conduit ses frères vers les réserves de Floride et continue à se battre seul contre les Blancs. Il se considère comme le seul Apache au monde. Un jeune Indienne l'accompagne dans sa lutte, souvent contre sa propre volonté. Elle est enceinte de lui. Massaï se met à cultiver le maïs, fasciné par l'exemple des Cherokees qui ont su rester libres et en bonne harmonie avec les Blancs grâce à l'agriculture. Massaï mène un dernier combat contre des militaires quand il entend les premiers cris de son enfant.",
+        "genre": "western",
+        "pochette": "western.jpg"
+      }, 
+      {
+        "id": 107,
+        "directeur": "Robert Aldrich",
+        "titre": "Vera Cruz",
+        "acteurs": [
+          "Burt Lancaster", 
+          "Gary Cooper", 
+          "Charles Bronson", 
+          "Sara Montiel", 
+          "Denise Darcel"
+        ],
+        "dateSortie": 1954,
+        "resume": "Au Mexique, après la guerre de Sécession, deux aventuriers s'associent pour louer leurs services à Maximilien, plus offrant que Juares. Découvrant que le carrosse qu'ils sont chargés de convoyer jusqu'a Vera Cruz contient un trésor, ils décident de se l'approprier...",
+        "genre": "western",
+        "pochette": "western.jpg"
+      }, 
+      {
+        "id": 108,
+        "directeur": "Ken Annakin",
+        "titre": "La bataille des Ardennes",
+        "acteurs": [
+          "Robert Shaw", 
+          "Henry Fonda", 
+          "Telly Savalas", 
+          "Charles Bronson", 
+          "Robert Ryan", 
+          "Pier Angeli"
+        ],
+        "dateSortie": 1965,
+        "resume": "Au cours de l'hiver 1944, à la veille du Nouvel An, les forces alliées se tiennent prêtes à envahir l'Allemagne. Pour contrer cela, Hitler opère une offensive pour reconquérir le territoire français et capturer la ville portuaire d'Antwerp. 'La Bataille des Ardennes' nous retrace l'histoire de ce conflit grâce à deux points de vue diamétralement opposés : celui d'un officier américain et celui d'un officier allemand...",
+        "genre": "guerre",
+        "pochette": "war.jpg"
+      }, 
+      {
+        "id": 109,
+        "directeur": "Buzz Kulik",
+        "titre": "Pancho Villa",
+        "acteurs": [
+          "Yul Brinner", 
+          "Charles Bronson", 
+          "Robert Mitchum", 
+          "Herbert Lom"
+        ],
+        "dateSortie": 1968,
+        "resume": "1912. Le pilote Lee Arnold venu livrer des armes au Mexique au capitaine Ramirez, se retrouve bloqué dans un village en pleine guerre civile. Arnold trouve refuge chez un forgeron tandis que le révolutionnaire Pancho Villa s'oppose fermement aux hommes de Ramirez.",
+        "genre": "western",
+        "pochette": "western.jpg"
+      }, 
+      {
+        "id": 110,
+        "directeur": "Sergio Leone",
+        "titre": "Il était une fois dans l'Ouest",
+        "acteurs": [
+          "Claudia Cardinale", 
+          "Charles Bronson", 
+          "Henry Fonda", 
+          "Jason Robards"
+        ],
+        "dateSortie": 1968,
+        "resume": "Alors qu'il prépare une fête pour sa femme, Bet McBain est tué avec ses trois enfants. Jill McBain hérite alors des terres de son mari, terres que convoite Morton, le commanditaire du crime (celles-ci ont de la valeur maintenant que le chemin de fer doit y passer). Mais les soupçons se portent sur un aventurier, Cheyenne...",
+        "genre": "western",
+        "pochette": "western.jpg"
+      }, 
+      {
+        "id": 111,
+        "directeur": "Michael Winner",
+        "titre": "Un justicier dans la ville",
+        "acteurs": [
+          "Charles Bronson", 
+          "Jeff Goldblum", 
+          "Hope Lange", 
+          "Kathleen Tolan", 
+          "Steven Keats"
+        ],
+        "dateSortie": 1974,
+        "resume": "Dans leur appartement, la femme et la fille d'un homme d'affaires sont violées, frappées et torturées par deux voyous. L'une meurt et l'autre est traumatisée par le cauchemar qu'elle vient de vivre. Le mari se transforme en justicier et, toutes les nuits, parcourt les rues de la ville afin de retrouver les coupables...",
+        "genre": "thriller",
+        "pochette": "thriller.jpg"
+      }, 
+      {
+        "id": 112,
+        "directeur": "Charles Laughton",
+        "titre": "La nuit du chasseur",
+        "acteurs": [
+          "Robert Mitchum", 
+          "Lilian Gish", 
+          "Shelley Winter", 
+          "Billy Chapin", 
+          "Sally jane Bruce", 
+          "Peter Graves"
+        ],
+        "dateSortie": 1955,
+        "resume": "Un prêcheur inquiétant poursuit dans l'Amérique rurale deux enfants dont le père vient d'être condamné pour vol et meurtre. Avant son incarcération, le père leur avait confié dix mille dollars, dont ils ne doivent révéler l'existence à personne. Pourchassés sans pitié par ce pasteur psychopathe et abandonnés à eux-mêmes, les enfants se lancent sur les routes.",
+        "genre": "thriller",
+        "pochette": "thriller.jpg"
+      }, 
+      {
+        "id": 113,
+        "directeur": "Erle C. Kenton",
+        "titre": "L'île du docteur Moreau",
+        "acteurs": [
+          "Charles Laughton", 
+          "Béla Lugosi", 
+          "Richard Arlen", 
+          "Kathleen Burke", 
+          "Leila Hyams"
+        ],
+        "dateSortie": 1932,
+        "resume": "Sur une île perdue du Pacifique, le docteur Moreau créé des hybrides d'animaux et d'humains.",
+        "genre": "fantastique",
+        "pochette": "aventure.jpg"
+      }, 
+      {
+        "id": 114,
+        "directeur": "Alfred Hitchcock",
+        "titre": "La Taverne de la Jamaïque",
+        "acteurs": [
+          "Charles Laughton", 
+          "Maureen O'Hara", 
+          "Robert Newton", 
+          "Leslie Banks", 
+          "Marie Ney"
+        ],
+        "dateSortie": 1939,
+        "resume": "A la mort de sa mère, la jeune Mary Yellard part en Cornouailles retrouver la seule famille qui lui reste : sa tante Patience et son mari Joss. Ce dernier est le tenancier de la taverne de la Jamaïque, un lieu à la réputation des plus sordides, repaire des brigands du coin. Le soir de son arrivée, Mary sauve la vie d’un des malfrats, Jem Trehearne, accusé d’avoir volé une part de leur dernier butin. Tous deux parviennent à s’échapper de la taverne et trouvent refuge chez l’excentrique juge Pengallan. Mais ils ignorent que ce dernier est en réalité le chef des bandits, à la tête de toutes les opérations de pillage…",
+        "genre": "aventure",
+        "pochette": "aventure.jpg"
+      }, 
+      {
+        "id": 115,
+        "directeur": "Robert Wise",
+        "titre": "L'odysée du sous-marin Nerka",
+        "acteurs": [
+          "Burt Lancaster", 
+          "Clark Gable", 
+          "Don Rickles", 
+          "Jack Warden", 
+          "Brad Dexter"
+        ],
+        "dateSortie": 1958,
+        "resume": "En 1942, pendant le conflit américano-japonais, le sous-marin du commandant Richardson est coulé par le submersible nippon, l'Akikaze. Rongé par ce mauvais souvenir, il se voit confier la direction d'un nouveau sous-marin, le Nerka, au détriment de Jim Bledsoe, son second. Après des mois d'entraînement intensif, Richardson a l'occasion de prendre sa revanche pendant l’attaque de Pearl Harbor.",
+        "genre": "guerre",
+        "pochette": "war.jpg"
+      }, 
+      {
+        "id": 116,
+        "directeur": "David Lean",
+        "titre": "Lawrence d'Arabie",
+        "acteurs": [
+          "Peter O'Toole", 
+          "Omar Sharif", 
+          "Alec Guinness", 
+          "Anthony Quinn", 
+          "Jack Hawkins", 
+          "Claude Rains", 
+          "Arthur Kennedy", 
+          "Anthony Quaile"
+        ],
+        "dateSortie": 1962,
+        "resume": "En 1916, le jeune officier britannique T. E. Lawrence est chargé d'enquêter sur les révoltes arabes contre l'occupant turc. Celui qu'on appellera plus tard 'Lawrence d'Arabie' se range alors du côté des insurgés et, dans les dunes éternelles du désert, organise une guérilla. Personnage brillant mais controversé, il va mener des batailles aux côtés de ses alliés et changer la face d'un empire.",
+        "genre": "aventure",
+        "pochette": "aventure.jpg"
+      }, 
+      {
+        "id": 117,
+        "directeur": "Don Siegel",
+        "titre": "L'inspecteur Harry",
+        "acteurs": [
+          "Clint Eastwood", 
+          "Robert Mitchum", 
+          "Andrew Robinson", 
+          "Reni Santoni", 
+          "Harry Guardino"
+        ],
+        "dateSortie": 1971,
+        "resume": "Si la police de San Francisco ne remet pas immédiatement 200 000 dollars à un homme qui vient de commettre un crime, il recommencera au rythme d'un assassinat par jour. L'inspecteur Harry Callahan est sur ses talons.",
+        "genre": "policier",
+        "pochette": "policier.jpg"
+      }, 
+      {
+        "id": 118,
+        "directeur": "Sergio Leone",
+        "titre": "Pour une poignée de dollards",
+        "acteurs": [
+          "Clint Eastwood",
+          "Gian Maria Volonté", 
+          "Marianne Koch", 
+          "Mario Brega", 
+          "Joseph Egger"
+        ],
+        "dateSortie": 1964,
+        "resume": "Deux bandes rivales, les Baxter, trafiquants d'armes, et les Rojo, qui font de la contrebande d'alcool, se disputent la suprématie et la domination de la ville de San Miguel, au sud de la frontière américano-mexicaine. Un étranger, vêtu d'un poncho, arrive à dos de mulet dans cette petite ville et s'immisce entre les deux bandes. Proposant d'abord ses services aux Rojo, l'étranger va très vite tirer profit des deux camps à la fois, à la grande joie du fabricant de cercueils Piripero.",
+        "genre": "western",
+        "pochette": "western.jpg"
+      }, 
+      {
+        "id": 119,
+        "directeur": "Clint Eastwood",
+        "titre": "Pale Rider",
+        "acteurs": [
+          "Clint Eastwood",
+          "Sidney Penny", 
+          "Carry Snodgress", 
+          "Michael Moriarty", 
+          "Chris Penn", 
+          "John Russell"
+        ],
+        "dateSortie": 1985,
+        "resume": "Les derniers chercheurs d'or indépendants de LaHood, bourgade minière de Californie, sont harcelés par la bande de Coy LaHood, fondateur de la ville qui veut s'approprier leur concession. Au moment où les mineurs pacifiques sont prêts à abandonner la lutte, surgit de la montagne un cavalier solitaire tout de noir vêtu. Nul ne connaît son nom, son passé, ses origines. Hull Barret, opposé depuis longtemps à Coy LaHood, l'accueille sous son toit. L'homme ne va pas tarder à prouver ses qualités de tireur.",
+        "genre": "western",
+        "pochette": "western.jpg"
+      }, 
+      {
+        "id": 120,
+        "directeur": "Sergio Leone",
+        "titre": "Pendez-les haut et court",
+        "acteurs": [
+          "Clint Eastwood",
+          "Inger Stevens", 
+          "Pat Hingle", 
+          "Ed Begley", 
+          "Ben Johnson", 
+          "Denis Hopper"
+        ],
+        "dateSortie": 1968,
+        "resume": "Accusé à tort d'avoir volé du bétail, Jed Cooper est lynché par un groupe d'hommes. Sauvé miraculeusement de la mort, il est comme marshal auprès du juge Fenton. Le magistrat le charge de ramener vivants les hommes responsables de cet acte de barbarie pour qu'ils soient jugés en bonne et due forme.",
+        "genre": "western",
+        "pochette": "western.jpg"
+      }, 
+      {
+        "id": 121,
+        "directeur": "Clint Eastwood",
+        "titre": "Les pleins pouvoirs",
+        "acteurs": [
+          "Clint Eastwood", 
+          "Gene Hackman", 
+          "Laura Linney", 
+          "Ed Harris", 
+          "Judy Davis", 
+          "E. G. Marshall" 
+        ],
+        "dateSortie": 1997,
+        "resume": "Luther Whitney est un Arsène Lupin moderne, un voleur élégant qui s'en est toujours pris aux riches. Arrivé au terme de sa longue carrière, il entreprend de dévaliser la résidence de Sullivan, un des hommes les plus riches de Washington, parti en voyage d'affaires avec sa jeune épouse, Christy. Tout se passe pour le mieux. Il s'apprête à repartir lorsqu'il découvre que la cloison de la chambre forte est un miroir sans tain qui donne sur la chambre à coucher. De l'autre côté de ce miroir, Luther assiste à un meurtre impliquant Christy et Richmond, le Président des Etats-Unis.",
+        "genre": "thriller",
+        "pochette": "thriller.jpg"
+      }, 
+      {
+        "id": 122,
+        "directeur": "Ted Post",
+        "titre": "Magnum Force",
+        "acteurs": [
+          "Clint Eastwood", 
+          "David Soul", 
+          "Felton Perry", 
+          "Mitch Ryan", 
+          "Hal Holbrook"
+        ],
+        "dateSortie": 1973,
+        "resume": "De nombreux assassinats sont commis à Los Angeles. Les victimes : des proxénètes, des trafiquants de drogue ou des criminels. L'inspecteur Harry est chargé de l'affaire. Son supérieur Briggs le déteste. Harry va bientôt découvrir pourquoi.",
+        "genre": "policier",
+        "pochette": "policier.jpg"
+      }, 
+      {
+        "id": 123,
+        "directeur": "Franklin J. Schaffner",
+        "titre": "Papillon",
+        "acteurs": [
+          "Steve McQueen", 
+          "Dustin Hoffman", 
+          "Dalton Trumbo", 
+          "Victor Jory", 
+          "Ratna Assan", 
+          "Don Gordon"
+        ],
+        "dateSortie": 1973,
+        "resume": "Henri 'Papillon' Charrière, un malfrat de petite envergure, est jugé à tort pour un meurtre qu'il n'a pas commis. Celui-ci est condamné à vie dans une prison d'une colonie française : le bagne de Cayenne. Mais Papillon n'a qu'une seule idée en tête : s'évader. Malheureusement, ses régulières tentatives sont toujours restées sans réussite. Devant son acharnement, les dirigeants l'envoient sur Devil's Island, une prison dans la prison, dont jamais personne n'a réussi à s'échapper. Une épreuve terrible pour Papillon, qui découvre l'enfer de l'environnement carcéral...",
+        "genre": "drame",
+        "pochette": "drama.jpg"
+      }, 
+      {
+        "id": 124,
+        "directeur": "Richard Thorpe",
+        "titre": "Les aventuriers du Kilimandjaro",
+        "acteurs": [
+          "Anthony Newley", 
+          "Robert Taylor", 
+          "Anne Aubrey", 
+          "Donald Pleasence", 
+          "Allan Cuthbertson"
+        ],
+        "dateSortie": 1959,
+        "resume": "Robert Adamson, ingénieur, est envoyé à Mombasa pour construire le premier chemin de fer de l'Est africain qui reliera l'océan Indien au lac Victoria. Il découvre bientôt que les nombreux ennuis dont a été victime la compagnie ferroviaire ont pour auteur Ben Ahmed qui voit d'un mauvais oeil son commerce d'esclaves compromis par la nouvelle loi sur l'abolition…",
+        "genre": "aventure",
+        "pochette": "aventure.jpg"
+      }, 
+      {
+        "id": 125,
+        "directeur": "Michael Gordon",
+        "titre": "Confidences sur l'oreiller",
+        "acteurs": [
+          "Doris Day", 
+          "Rock Hudson", 
+          "Tony Randall", 
+          "Thelma Ritter", 
+          "Nick Adams"
+        ],
+        "dateSortie": 1958,
+        "resume": "Ne pouvant se supporter l'un l'autre, un compositeur et une décoratrice parviennent toutefois à s'aimer..",
+        "genre": "romance",
+        "pochette": "romance.jpg"
+      }, 
+      {
+        "id": 126,
+        "directeur": "David Butler",
+        "titre": "Calamity Jane",
+        "acteurs": [
+          "Doris Day", 
+          "Howard Keel", 
+          "Allyn Ann McLerie", 
+          "Philip Carey", 
+          "Dick Wesson"
+        ],
+        "dateSortie": 1953,
+        "resume": "La vie et l'histoire de Calamity Jane, de son saloon à son histoire d'amour avec Wild Bill Hickok.",
+        "genre": "western",
+        "pochette": "western.jpg"
+      }, 
+      {
+        "id": 127,
+        "directeur": "Mike Nichols",
+        "titre": "Le Lauréat",
+        "acteurs": [
+          "Dustin Hoffman", 
+          "Anne Bancroft", 
+          "katharine Ross", 
+          "Buck Henry",
+          "William Daniels"
+        ],
+        "dateSortie": 1967,
+        "resume": "Benjamin Braddock, un étudiant fraîchement diplômé, ne sait pas quoi faire de son avenir. Lors d'une soirée mondaine chez ses parents où il vagabonde, il fait la connaissance de Mrs Robinson, l'épouse du patron de son père. La femme, d'âge mûr, entreprend de séduire le garçon et y parvient très rapidement. Benjamin découvre les joies du sexe et profite de la situation du haut de ses 21 ans. Mais les choses se compliquent lorsque Monsieur Robinson demande à Benjamin de sortir avec Elaine, sa fille. Le jeune homme accepte et en tombe amoureux, s'attirant par la même occasion les foudres de Mrs Robinson. Cette dernière, folle de jalousie, décide d'empêcher leur union en proposant sa fille en mariage à un autre homme.",
+        "genre": "drame",
+        "pochette": "drama.jpg"
+      }, 
+      {
+        "id": 128,
+        "directeur": "Arthur Penn",
+        "titre": "Little Big Man",
+        "acteurs": [
+          "Dustin Hoffman", 
+          "Dan George", 
+          "Faye Dunaway", 
+          "Richard Mulligan", 
+          "Martin Balsam"
+        ],
+        "dateSortie": 1970,
+        "resume": "Âgé de 121 ans, Jack Crabb, seul survivant du massacre de Little Big Horn, raconte son histoire à un journaliste. Adopté par une famille de Cheyennes, ce visage pâle est surnommé Little Big Man à cause de son immense courage. Un jour, toute sa tribu est massacrée par les Blancs et Jack est alors recueilli par un pasteur et sa femme. Mais le jeune homme est partagé entre ses origines indiennes et son nouveau peuple..",
+        "genre": "western",
+        "pochette": "western.jpg"
+      }, 
+      {
+        "id": 129,
+        "directeur": "Bob Fosse",
+        "titre": "Lenny",
+        "acteurs": [
+          "Dustin Hoffman", 
+          "Valerie Perrine", 
+          "Jan Miller", 
+          "Gary Morton", 
+          "Stanley Beck"
+        ],
+        "dateSortie": 1974,
+        "resume": "Après la mort du comique américain le plus célèbre et le plus controversé des années 60, un intervieweur recueille les témoignages de ses proches et tente de retracer sa vie… En écumant les cabarets, Lenny Bruce rencontre Honey, une stripteaseuse qui devient sa compagne. Ensemble, ils créent un duo qui flirte avec le politiquement incorrect, et Lenny devient un provocateur admiré pour ses saillies cinglantes contre la société américaine bien-pensante…",
+        "genre": "drame",
+        "pochette": "drama.jpg"
+      }, 
+      {
+        "id": 130,
+        "directeur": "Alan J. Pakula",
+        "titre": "Les Hommes du président",
+        "acteurs": [
+          "Dustin Hoffman", 
+          "Robert Redford", 
+          "Jason Robard", 
+          "Hal Holbrook", 
+          "Jane Alexander", 
+          "Jack Warden", 
+          "Martin Balsam"
+        ],
+        "dateSortie": 1976,
+        "resume": "En 1972, cinq hommes sont arrêtés pour avoir pénétré par infraction dans l'immeuble du Watergate où se situent les bureaux du parti Démocrate. Alors que l'affaire est présentée comme un simple fait divers, deux journalistes du Washington Post, Carl Bernstein et Bob Woodward décident de pousser l'enquête qui les mènera vers les plus hautes sphères du gouvernement.",
+        "genre": "drame",
+        "pochette": "drama.jpg"
+      }, 
+      {
+        "id": 131,
+        "directeur": "Victor Fleming",
+        "titre": "Autant en emporte le vent",
+        "acteurs": [
+          "Vivien Leigh", 
+          "Clark Gable", 
+          "Olivia de Havilland", 
+          "Leslie Howard", 
+          "Hattie McDaniel" 
+        ],
+        "dateSortie": 1939,
+        "resume": "En Georgie, en 1861, Scarlett O'Hara est une jeune femme fière et volontaire de la haute société sudiste. Courtisée par tous les bons partis du pays, elle n'a d'yeux que pour Ashley Wilkes malgré ses fiançailles avec sa douce et timide cousine, Melanie Hamilton. Scarlett est pourtant bien décidée à le faire changer d'avis, mais à la réception des Douze Chênes c'est du cynique Rhett Butler qu'elle retient l'attention...",
+        "genre": "drame",
+        "pochette": "drama.jpg"
+      }, 
+      {
+        "id": 132,
+        "directeur": "John Schlesinger",
+        "titre": "Marathon Man",
+        "acteurs": [
+          "Dustin Hoffman", 
+          "Roy Scheider", 
+          "Olivah", 
+          "Marthe Keller", 
+          "William Devane",
+          "Jacques Marin"
+        ],
+        "dateSortie": 1976,
+        "resume": "Babe, étudiant en histoire, s'entraîne dans Central Park pour le marathon de New York. Son frère Doc, membre d'une organisation gouvernementale secrète, est assassiné sous ses yeux. On apprend que le Dr Szell, un criminel de guerre nazi, serait venu récupérer un trésor de guerre qu'il avait confié autrefois à son frère...",
+        "genre": "thriller",
+        "pochette": "thriller.jpg"
+      }, 
+      {
+        "id": 133,
+        "directeur": "Barry Levinson",
+        "titre": "Rain Man",
+        "acteurs": [
+          "Dustin Hoffman", 
+          "Tom Cruise", 
+          "Valeria Golino"
+        ],
+        "dateSortie": 1988,
+        "resume": "A la mort de son père, Charlie Babbitt, homme d'affaires pressé, hérite d'une vieille Buick qu'il convoitait depuis longtemps mais se voit spolié de quelque trois millions de francs versés à l'Institution psychiatrique Wallbrook au profit d'un bénéficiaire anonyme. Charlie se rend a Wallbrook et découvre l'heureux bénéficiaire. Il s'agit de Raymond, savant autiste, celui qu'il appelait dans son enfance Rain Man, qui représente ses seuls souvenirs heureux et qui n'est autre que son frère.",
+        "genre": "drame",
+        "pochette": "drama.jpg"
+      }, 
+      {
+        "id": 134,
+        "directeur": "René Clément",
+        "titre": "Paris brûle-t-il ?",
+        "acteurs": [
+          "Jean-Paul Belmondo", 
+          "Kirk Douglas", 
+          "Gert Fröbe", 
+          "Orson Welles", 
+          "Alain Delon", 
+          "Charles Boyer", 
+          "Glenn Ford", 
+          "Anthony Perkins", 
+          "E. G. Marshall"
+        ],
+        "dateSortie": 1966,
+        "resume": "Au début du mois d'août 1944, l'arrivée des armées alliées dans la capitale est imminente. Hitler donne l'ordre d'anéantir Paris...",
+        "genre": "guerre",
+        "pochette": "war.jpg"
+      }, 
+      {
+        "id": 135,
+        "directeur": "Jack Lee Thompson",
+        "titre": "L'Or de MacKenna",
+        "acteurs": [
+          "Gregory Peck", 
+          "Omar Sharif", 
+          "Julie Newmar", 
+          "Telly Savalas", 
+          "Edward G. Robinson", 
+          "Eli Wallach", 
+          "Camille Sparv", 
+          "Lee J. Cobb",
+          "Raymond Massey", 
+          "Anthony Quaile"
+        ],
+        "dateSortie": 1969,
+        "resume": "Un hors-la-loi, Colorado, kidnappe le shérif MacKenna, censé seul connaître l'emplacement d'un gisement d'or appartenant aux Apaches. La nouvelle se répand et éveille les convoitises, et c'est bientôt une véritable petite troupe qui part à la recherche de l'or légendaire. Mais l'entrée en territoire indien leur réserve bien des difficultés...",
+        "genre": "western",
+        "pochette": "western.jpg"
+      }, 
+      {
+        "id": 136,
+        "directeur": "Roman Polanski",
+        "titre": "Rosemary's Baby",
+        "acteurs": [
+          "Mia Farrow", 
+          "Ruth Gordon", 
+          "John Cassavetes", 
+          "Sidney Blackmer", 
+          "Ralph Bellamy", 
+          "Elisha Cook Jr.", 
+          "Patsy Kelly"
+        ],
+        "dateSortie": 1968,
+        "resume": "Malgré les conseils de leur vieil ami Hutch, Guy Woodhouse et sa jeune femme, enceinte, s'installent dans un immeuble new-yorkais vétuste, considéré par leur ami comme une demeure maléfique. Aussitôt, leurs voisins, Minnie et Roman Castevet, vieux couple d'Europe centrale, imposent leur amitié et leurs services. Si Guy accepte facilement ce voisinage, Rosemary s'en inquiète...",
+        "genre": "drame",
+        "pochette": "drama.jpg"
+      }, 
+      {
+        "id": 137,
+        "directeur": "Mervyn LeRoy",
+        "titre": "Les Quatre Filles du docteur March",
+        "acteurs": [
+          "June Allyson", 
+          "Margaret O'Brien", 
+          "Elizabeth Taylor", 
+          "Peter Lawford", 
+          "Janet Leigh", 
+          "Mary Astor"
+        ],
+        "dateSortie": 1949,
+        "resume": "Le quotidien de Mme March et ses quatre filles avec ce qu'il comporte de joies et de tracas alors que leur père est parti à la guerre.",
+        "genre": "drame",
+        "pochette": "drama.jpg"
+      }, 
+      {
+        "id": 138,
+        "directeur": "George Stevens",
+        "titre": "Une place au soleil",
+        "acteurs": [
+          "Montgomery Clift", 
+          "Elizabeth Taylor", 
+          "Shelley Winter", 
+          "Raymond Burr", 
+          "Anne Revere"
+        ],
+        "dateSortie": 1949,
+        "resume": "George est engagé dans l'entreprise de son oncle Eastman. Il devient l'amant d'une ouvrière, Alice, puis rencontre Angela Vickers, une jeune bourgeoise qui s'éprend de lui.",
+        "genre": "drame",
+        "pochette": "drama.jpg"
+      }, 
+      {
+        "id": 139,
+        "directeur": "George Stevens",
+        "titre": "Géant",
+        "acteurs": [
+          "James Dean", 
+          "Rock Hudson", 
+          "Elizabeth Taylor", 
+          "Carroll Baker", 
+          "Denis Hopper", 
+          "Sal Mineo", 
+          "Jane Withers"
+        ],
+        "dateSortie": 1956,
+        "resume": "Luz et Bick Benedict dirigent le Reata Ranch au Texas. Lorsque Luz meurt, Jett Rink, un employé du ranch, hérite d'une parcelle de terrain où se trouve du pétrole. Devenu riche, il entre en conflit avec la famille qui l'avait employé.",
+        "genre": "drame",
+        "pochette": "drama.jpg"
+      }, 
+      {
+        "id": 140,
+        "directeur": "Joseph L. Mankiewicz",
+        "titre": "Soudain l'été dernier",
+        "acteurs": [
+          "Elizabeth Taylor", 
+          "Katharine Hepburn", 
+          "Montgomery Clift", 
+          "Mercedes McCambridge", 
+          "Albert Dekker"
+        ],
+        "dateSortie": 1959,
+        "resume": "A la Nouvelle-Orléans de 1937, une riche veuve, Violet Venable, propose de financer l'hôpital public Lyons View si l'un de ses praticiens, le docteur Cukrowicz, accepte de pratiquer une lobotomie sur sa nièce Catherine Holly. Celle-ci est internée depuis le décès mystérieux, durant un périple estival, de Sebastian Venable, poète et fils de Mrs Venable. La version que raconte Catherine du décès de Sebastian paraît tellement loufoque, que Violet la croit folle à lier. Avec l'aide du Dr Cukrowicz, Catherine va peu à peu recouvrer la mémoire jusqu'à révéler une vérité que certains auraient préféré rester enfouie...",
+        "genre": "drame",
+        "pochette": "drama.jpg"
+      }
+    ]

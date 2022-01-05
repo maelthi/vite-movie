@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchBar should render component 1`] = `
+<div>
+  <div
+    class="search"
+  >
+    <input
+      class="search__input"
+      placeholder="Rechercher"
+      type="text"
+      value="Paul Newman"
+    />
+  </div>
+</div>
+`;
