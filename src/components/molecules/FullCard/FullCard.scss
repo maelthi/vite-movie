@@ -8,6 +8,15 @@
   display: flex;
   align-items: flex-end;
   padding: rem(30px);
+  transition: ease 300ms;
+
+  @include laptop {
+    height: 60vh;
+
+    &:hover {
+      transform: translateY(-10px);
+    }
+  }
 
   &__title {
     color: white;

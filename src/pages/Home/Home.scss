@@ -6,9 +6,47 @@
   padding: rem(25px) rem(25px) rem(40px) rem(25px);
   background-color: $violet;
   overflow: scroll;
+  display: grid;
+
+  @include laptop {
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    column-gap: 10px;
+    row-gap: 15px;
+    overflow: auto;
+  }
+
+  .search {
+    @include laptop {
+      grid-column: 1 / 2;
+      grid-row: 1 / 2;
+    }
+  }
 
   &__random-movie {
     transform: translateY(-15px);
+
+    @include laptop {
+      grid-column: 1 / 2;
+      grid-row: 2 / 3;
+      align-self: center;
+    }
+  }
+
+  &__actors {
+    @include laptop {
+      grid-column: 2 / 3;
+      grid-row: 1 / 2;
+      align-self: center;
+    }
+  }
+
+  &__movies {
+    @include laptop {
+      grid-column: 3 / 4;
+      grid-row: 1 / 2;
+      align-self: center;
+    }
   }
 
   &__title {

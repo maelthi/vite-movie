@@ -4,8 +4,21 @@
   background-color: $violet;
   padding: rem(25px);
 
+  @include laptop {
+    ul {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+  }
+
   &__item {
     margin-bottom: rem(25px);
+
+    @include laptop {
+      width: 25%;
+      margin: rem(7px);
+    }
   }
 
   &__title {

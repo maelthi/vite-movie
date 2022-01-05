@@ -1,5 +1,6 @@
 import { defineConfig } from "vite"
 import react from "@vitejs/plugin-react"
+import viteSvgIcons from "vite-plugin-svg-icons"
 import { VitePWA } from "vite-plugin-pwa"
 
 const path = require("path")
@@ -17,6 +18,12 @@ export default defineConfig({
     },
   },
   plugins: [
+    viteSvgIcons({
+      // Specify the icon folder to be cached
+      iconDirs: [path.resolve(process.cwd(), "src/assets/icons")],
+      // Specify symbolId format
+      symbolId: "icon-[dir]-[name]",
+    }),
     react(),
     VitePWA({
       registerType: "autoUpdate",

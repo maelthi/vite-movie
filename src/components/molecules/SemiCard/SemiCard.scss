@@ -17,6 +17,10 @@
     color: $dark-grey;
     font-weight: 500;
     margin-bottom: rem(15px);
+
+    @include laptop {
+      min-height: rem(151px);
+    }
   }
 
   &__illustration {

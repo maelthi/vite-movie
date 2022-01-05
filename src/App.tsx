@@ -1,5 +1,6 @@
 import { lazy, Suspense } from "react"
 import { BrowserRouter, Routes, Route } from "react-router-dom"
+import "virtual:svg-icons-register"
 
 import HomeContainer from "@pages/Home/Home.container"
 
