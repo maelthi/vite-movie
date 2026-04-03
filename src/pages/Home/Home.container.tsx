@@ -13,8 +13,6 @@ const HomeContainer = () => {
   const [data, setData] = useState<(Movie | Actor)[] | null>(null)
   const inputRef = useRef<HTMLInputElement>(null)
 
-  const getMovie = async () => setRandomMovie(await getRandomMovie())
-
   const handleInputChange = () => setInputValue(inputRef.current!.value)
 
   const handleFocus = async (): Promise<void> => {
@@ -25,14 +23,14 @@ const HomeContainer = () => {
   }
 
   useEffect(() => {
-    getMovie()
+    getRandomMovie().then(setRandomMovie)
   }, [])
 
   useEffect(() => {
     const result = data?.filter(
-      (d: any) =>
-        d.patronyme?.toLowerCase() === inputValue.toLowerCase() ||
-        d.titre?.toLowerCase() === inputValue.toLowerCase(),
+      (d: Movie | Actor) =>
+        ("patronyme" in d && d.patronyme?.toLowerCase() === inputValue.toLowerCase()) ||
+        ("titre" in d && d.titre?.toLowerCase() === inputValue.toLowerCase()),
     )
 
     if (!result) return

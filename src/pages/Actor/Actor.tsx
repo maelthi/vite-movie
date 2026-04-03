@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react"
+import { useEffect } from "react"
 import { useLocation, useNavigate } from "react-router-dom"
 
 import { getMovieByName } from "@services/services"
@@ -9,7 +9,6 @@ import "./Actor.scss"
 
 const Actor = () => {
   const navigate = useNavigate()
-  const [movieId, setMovieId] = useState<number>()
 
   const {
     state: { patronyme, apparitions, photo },
@@ -20,13 +19,8 @@ const Actor = () => {
   const handleRedirection = async (movieName: string): Promise<void> => {
     const currentMovie = await getMovieByName(movieName)
     if (!currentMovie) return
-    setMovieId(currentMovie.id)
+    navigate(`/movies/${currentMovie.id}`, { state: currentMovie })
   }
-
-  useEffect(() => {
-    if (!movieId) return
-    navigate(`/movies/${movieId}`)
-  }, [movieId])
 
   useEffect(() => window.scrollTo(0, 0), [])
 
@@ -54,7 +48,7 @@ const Actor = () => {
                 onClick={() => handleRedirection(apparition)}
               >
                 <p>{apparition}</p>
-                {movieId && <SvgIcon name="read-more-red" />}
+                <SvgIcon name="read-more-red" />
               </li>
             ))}
           </ul>

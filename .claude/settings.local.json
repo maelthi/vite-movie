@@ -6,7 +6,11 @@
       "Bash(npm install:*)",
       "Bash(npm uninstall:*)",
       "Bash(npm run:*)",
-      "Bash(gh pr create --title 'Step 1 : fix erreurs critiques + mise à jour dépendances' --body ':*)"
+      "Bash(gh pr create --title 'Step 1 : fix erreurs critiques + mise à jour dépendances' --body ':*)",
+      "Bash(npm test:*)",
+      "Bash(rm:*)",
+      "Bash(npx playwright:*)",
+      "Bash(gh pr create --title 'Step 2 : remplacer Jest par Vitest + ajouter Playwright' --body ':*)"
     ]
   }
 }
