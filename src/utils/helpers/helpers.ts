@@ -12,5 +12,4 @@ export const cleanPictureName = (name: string): string | undefined => {
 export const sliceText = (text: string): string =>
   text && text.length > 200 ? `${text.substring(0, 200)}...` : text
 
-export const isMovie = (data: Movie | Actor): boolean =>
-  Boolean(Object.keys(data).length > 4)
+export const isMovie = (data: Movie | Actor): data is Movie => "titre" in data

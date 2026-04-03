@@ -18,7 +18,7 @@ const SearchItems = ({ searchResults }: SearchItemsProps) => {
     <Link to={getRedirectionUrl(searchResults)} state={searchResults}>
       {searchResults && (
         <p className="search-item">
-          {(searchResults as any)?.titre || (searchResults as any)?.patronyme}
+          {isMovie(searchResults) ? searchResults.titre : searchResults.patronyme}
         </p>
       )}
     </Link>
