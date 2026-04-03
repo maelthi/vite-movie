@@ -1,69 +1,21 @@
-import { collection, query, where, getDocs } from "firebase/firestore"
-
-import getFirestore from "@services/firebaseConfig"
+import moviesData from "../../movies.json"
+import actorsData from "../../actors.json"
 import { getRandomNumber } from "@helpers/helpers"
 
-const moviesRef = collection(getFirestore(), "movies")
-const actorsRef = collection(getFirestore(), "actors")
-
-export const getRandomMovie = async (): Promise<Movie | null> => {
-  try {
-    const movieQuery = query(
-      moviesRef,
-      where("id", "==", getRandomNumber(1, 140)),
-    )
-    const querySnapshot = await getDocs(movieQuery)
-    let movie = null
-    querySnapshot.forEach((doc) => {
-      movie = { ...doc.data() }
-    })
-    return movie
-  } catch (error: any) {
-    return error
-  }
+export const getRandomMovie = async (): Promise<Movie> => {
+  return moviesData[getRandomNumber(0, moviesData.length - 1)] as unknown as Movie
 }
 
 export const getMovies = async (): Promise<Movie[]> => {
-  try {
-    const moviesQuery = query(moviesRef)
-    const querySnapshot = await getDocs(moviesQuery)
-    let movies: Movie[] = []
-    querySnapshot.forEach((doc) => {
-      movies.push(doc.data() as Movie)
-    })
-    return movies
-  } catch (error: any) {
-    return error
-  }
+  return moviesData as unknown as Movie[]
 }
 
 export const getActors = async (): Promise<Actor[]> => {
-  try {
-    const actorsQueries = query(actorsRef)
-    const querySnapshot = await getDocs(actorsQueries)
-    let actors: Actor[] = []
-    querySnapshot.forEach((doc) => {
-      actors.push(doc.data() as Actor)
-    })
-    return actors
-  } catch (error: any) {
-    return error
-  }
+  return actorsData as unknown as Actor[]
 }
 
-export const getMovieByName = async (
-  movieName: string,
-): Promise<Movie | null> => {
-  try {
-    const movieQuery = query(moviesRef, where("titre", "==", movieName))
-    const querySnapshot = await getDocs(movieQuery)
-    let movie = <Movie>{}
-    querySnapshot.forEach((doc) => {
-      movie = { ...doc.data() } as Movie
-    })
-    return movie
-  } catch (error: any) {
-    error
-  }
-  return null
+export const getMovieByName = async (movieName: string): Promise<Movie | null> => {
+  return (
+    (moviesData as unknown as Movie[]).find((movie) => movie.titre === movieName) ?? null
+  )
 }

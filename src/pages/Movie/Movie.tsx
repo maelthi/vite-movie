@@ -1,15 +1,16 @@
-import { useLocation } from "react-router-dom"
+import { useLocation, useNavigate } from "react-router-dom"
 
 import SvgIcon from "@molecules/SvgIcon/SvgIcon"
 
 import "./Movie.scss"
 
 const Movie = () => {
+  const navigate = useNavigate()
   const {
     state: { titre, resume, pochette, genre, directeur, dateSortie, acteurs },
   } = useLocation()
 
-  const handleBackClick = () => history.back()
+  const handleBackClick = () => navigate(-1)
 
   return (
     <div className="movie">

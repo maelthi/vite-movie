@@ -2,7 +2,7 @@ type SvgIconProps = {
   name: string
   className?: string
   onIconClick?: () => void
-  color: string
+  color?: string
 }
 
 const SvgIcon = ({ name, className, onIconClick, color }: SvgIconProps) => (
