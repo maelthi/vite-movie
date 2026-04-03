@@ -10,7 +10,7 @@
     "strict": true,
     "forceConsistentCasingInFileNames": true,
     "module": "ESNext",
-    "moduleResolution": "Node",
+    "moduleResolution": "bundler",
     "resolveJsonModule": true,
     "isolatedModules": true,
     "noEmit": true,
@@ -26,6 +26,5 @@
       "@helpers/*": ["./src/utils/helpers/*"]
     }
   },
-  "include": ["./src"],
-  "exclude": ["./src/**/*.test.ts", "./src/**/*.test.tsx"]
+  "include": ["./src"]
 }

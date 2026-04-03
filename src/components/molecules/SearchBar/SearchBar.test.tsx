@@ -3,9 +3,9 @@ import SearchBar from "./SearchBar"
 
 describe("SearchBar", () => {
   const defaultProps = {
-    onInputChange: jest.fn(),
+    onInputChange: vi.fn(),
     inputValue: "Paul Newman",
-    onFocusChange: jest.fn(),
+    onFocusChange: vi.fn(),
   }
   it("should render component", () => {
     const { container } = render(<SearchBar {...defaultProps} />)
