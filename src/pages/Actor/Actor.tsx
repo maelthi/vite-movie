@@ -1,7 +1,6 @@
 import { useEffect, useState } from "react"
 import { useLocation, useNavigate } from "react-router-dom"
 
-import { getDataLocalStorage } from "@helpers/helpers"
 import { getMovieByName } from "@services/services"
 
 import SvgIcon from "@molecules/SvgIcon/SvgIcon"
@@ -16,20 +15,10 @@ const Actor = () => {
     state: { patronyme, apparitions, photo },
   } = useLocation()
 
-  const handleBackClick = () => history.back()
+  const handleBackClick = () => navigate(-1)
 
   const handleRedirection = async (movieName: string): Promise<void> => {
-    const moviesList = JSON.parse(getDataLocalStorage("movies"))
-    let currentMovie = null
-    if (moviesList.length > 0) {
-      currentMovie = moviesList.filter(
-        (movie: Movie) => movie.titre === movieName,
-      )
-      setMovieId(currentMovie.id)
-      return
-    }
-
-    currentMovie = await getMovieByName(movieName)
+    const currentMovie = await getMovieByName(movieName)
     if (!currentMovie) return
     setMovieId(currentMovie.id)
   }

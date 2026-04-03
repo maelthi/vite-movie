@@ -16,7 +16,7 @@
     "noEmit": true,
     "jsx": "react-jsx",
     "typeRoots": ["./types", "./node_modules/@types"],
-    "types": ["vite-plugin-pwa/client", "jest", "node"],
+    "types": ["node"],
     "paths": {
       "@pages/*": ["./src/pages/*"],
       "@organisms/*": ["./src/components/organisms/*"],
@@ -26,5 +26,6 @@
       "@helpers/*": ["./src/utils/helpers/*"]
     }
   },
-  "include": ["./src"]
+  "include": ["./src"],
+  "exclude": ["./src/**/*.test.ts", "./src/**/*.test.tsx"]
 }

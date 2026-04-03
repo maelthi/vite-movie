@@ -1,9 +1,5 @@
 import { forwardRef } from "react"
 import { Link } from "react-router-dom"
-<<<<<<< HEAD
-import Anime from "react-anime"
-=======
->>>>>>> 099aa891a3fcc5c1e4ed6cbab101e0aa1171378f
 
 import SearchBar from "@molecules/SearchBar/SearchBar"
 import FullCard from "@molecules/FullCard/FullCard"

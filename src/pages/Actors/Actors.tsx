@@ -1,8 +1,7 @@
 import { useEffect, useState } from "react"
-import { Link } from "react-router-dom"
+import { Link, useNavigate } from "react-router-dom"
 
 import { getActors } from "@services/services"
-import { getDataLocalStorage, storeDataLocalStorage } from "@helpers/helpers"
 
 import FullCard from "@molecules/FullCard/FullCard"
 import SvgIcon from "@molecules/SvgIcon/SvgIcon"
@@ -10,24 +9,17 @@ import SvgIcon from "@molecules/SvgIcon/SvgIcon"
 import "./Actors.scss"
 
 const Actors = () => {
+  const navigate = useNavigate()
   const [actors, setActors] = useState<Actor[] | null>(null)
 
-  const getActorsList = async (): Promise<void> => {
-    const actorsList = await getActors()
-    setActors(
-      actorsList.sort((a, b) => a.patronyme?.localeCompare(b.patronyme)),
-    )
-    storeDataLocalStorage("actors", actorsList)
-  }
-
-  const handleBackClick = () => history.back()
+  const handleBackClick = () => navigate(-1)
 
   useEffect(() => {
-    if (JSON.parse(getDataLocalStorage("actors")).length === 0) {
-      getActorsList()
-      return
+    const loadActors = async () => {
+      const actorsList = await getActors()
+      setActors(actorsList.sort((a, b) => a.patronyme?.localeCompare(b.patronyme)))
     }
-    setActors(JSON.parse(getDataLocalStorage("actors")))
+    loadActors()
   }, [])
 
   return (

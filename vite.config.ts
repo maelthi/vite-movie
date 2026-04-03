@@ -1,27 +1,24 @@
 import { defineConfig } from "vite"
 import react from "@vitejs/plugin-react"
-import viteSvgIcons from "vite-plugin-svg-icons"
+import { createSvgIconsPlugin } from "vite-plugin-svg-icons"
 import { VitePWA } from "vite-plugin-pwa"
-
-const path = require("path")
+import { resolve } from "path"
 
 // https://vitejs.dev/config/
 export default defineConfig({
   resolve: {
     alias: {
-      "@molecules": path.resolve(__dirname, "./src/components/molecules"),
-      "@organisms": path.resolve(__dirname, "./src/components/organisms"),
-      "@pages": path.resolve(__dirname, "./src/pages"),
-      "@assets": path.resolve(__dirname, "./src/assets"),
-      "@services": path.resolve(__dirname, "./src/services"),
-      "@helpers": path.resolve(__dirname, "./src/utils/helpers"),
+      "@molecules": resolve(__dirname, "./src/components/molecules"),
+      "@organisms": resolve(__dirname, "./src/components/organisms"),
+      "@pages": resolve(__dirname, "./src/pages"),
+      "@assets": resolve(__dirname, "./src/assets"),
+      "@services": resolve(__dirname, "./src/services"),
+      "@helpers": resolve(__dirname, "./src/utils/helpers"),
     },
   },
   plugins: [
-    viteSvgIcons({
-      // Specify the icon folder to be cached
-      iconDirs: [path.resolve(process.cwd(), "src/assets/icons")],
-      // Specify symbolId format
+    createSvgIconsPlugin({
+      iconDirs: [resolve(process.cwd(), "src/assets/icons")],
       symbolId: "icon-[dir]-[name]",
     }),
     react(),

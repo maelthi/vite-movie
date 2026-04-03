@@ -1,8 +1,7 @@
 import { useEffect, useState } from "react"
-import { Link } from "react-router-dom"
+import { Link, useNavigate } from "react-router-dom"
 
 import { getMovies } from "@services/services"
-import { getDataLocalStorage, storeDataLocalStorage } from "@helpers/helpers"
 
 import SvgIcon from "@molecules/SvgIcon/SvgIcon"
 import SemiCard from "@molecules/SemiCard/SemiCard"
@@ -10,22 +9,17 @@ import SemiCard from "@molecules/SemiCard/SemiCard"
 import "./Movies.scss"
 
 const Movies = () => {
+  const navigate = useNavigate()
   const [movies, setMovies] = useState<Movie[] | null>(null)
 
-  const getMoviesList = async (): Promise<void> => {
-    const moviesList = await getMovies()
-    setMovies(moviesList)
-    storeDataLocalStorage("movies", moviesList)
-  }
-
-  const handleBackClick = () => history.back()
+  const handleBackClick = () => navigate(-1)
 
   useEffect(() => {
-    if (JSON.parse(getDataLocalStorage("movies")).length === 0) {
-      getMoviesList()
-      return
+    const loadMovies = async () => {
+      const moviesList = await getMovies()
+      setMovies(moviesList)
     }
-    setMovies(JSON.parse(getDataLocalStorage("movies")))
+    loadMovies()
   }, [])
 
   useEffect(() => window.scrollTo(0, 0), [])
